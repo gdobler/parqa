@@ -1,0 +1,223 @@
+#Doyle_Amanda_Code_Sample.py
+#Analyzing Park Accessibility
+#New York Univeristy Center for Urban Science and Progress
+#Amanda Doyle
+#Fall 2014
+
+#Not for Distribution
+
+
+
+#1
+#Calcualate the Percent Area of a Geographic Area that is Park Space
+##A Geographic Area can be any polygon feature
+
+import geopandas as gp
+from geopandas import GeoSeries
+import os
+
+
+#Paramaters
+##Paramaters are hardcoded
+##Parks and geos must be polygon shapefiles
+parks = gp.GeoDataFrame.from_file('Parks.shp')
+geos = gp.GeoDataFrame.from_file('Census_Blocks.shp')
+Output = 'Output'
+
+#Match the projection of geos to parks
+geos.to_crs(crs=(parks['geometry'].crs), inplace=True)
+
+#Calculate percent area of geos that are parks
+total_parks_area = np.zeros(len(geos))
+
+for jj, park in enumerate(parks['geometry']):
+    if jj % 100 == 0:
+        print "I am in ",jj
+    for ii, geo in enumerate(geos['geometry']):
+        ###ratio = ((intersection(parks, geos).area)/park.area)
+        ratio = geo.intersection(park).area/park.area
+        
+        total_parks_area[ii] += ratio*park.area
+fraction = total_parks_area/geos.area
+
+#Write fration of parks to geos to file
+geos['Fraction_Parks'] = fraction
+geos.to_file(Output)
+
+#The output table/shapefile 'Fraction_Parks' was loaded into ArcMap to create the map series Percent Parks for
+#Zip Code, Census Tract, Block Group, or Block depending on the "geos" paramater input.
+
+##
+
+#2
+#Calculate the Area of Park Space per Person within a Geographic Area
+
+import geopandas as gp
+from geopandas import GeoSeries
+import os
+import pandas as pd
+import sys
+import csv
+import numpy as np
+
+#Paramaters
+##Paramaters are hardcoded
+##Parks and geos must be polygon shapefiles
+##Population must be a .csv file
+parks = gp.GeoDataFrame.from_file('Parks.shp')
+geos = gp.GeoDataFrame.from_file('Zip_Codes.shp')
+population = 'Population_Data\ACS_12_5YR_B01003_with_ann.csv'
+Output = 'Output'
+
+##csvfile = open(population, 'r')
+##reader = csv.reader(csvfile)
+##next(reader,None)
+
+
+pop_pd = pd.read_csv(population)
+
+
+##geos_zip = np.array(geos['ZCTA5CE10'])
+##check = []
+##
+##for i in pop_pd['Id2'].astype(str):
+##	if i in geos_zip:
+##		check.append(i)
+##		print "TRUE"
+
+		
+zips_geo = np.array(geos['ZCTA5CE10'])
+zips_pop = list(pop_pd['Id2'].astype(str))
+pop_pop = np.array(pop_pd['Estimate; Total'])
+pop_geo = np.zeros(len(zips_geo))
+
+for ii,zz in enumerate(zips_geo):
+	pop_geo[ii] = pop_pop[zips_pop.index(zz)]
+
+
+##for row in reader:
+##	zips_pop = (row[1])                 
+##for ii,zz in enumerate(zips_geo):
+##	#print ii
+##	ind = zips_pop.index(ii)
+##	Pop_geo(zz) = reader(ind)
+
+
+#Match the projection of geos to parks
+geos.to_crs(crs=(parks['geometry'].crs), inplace=True)
+
+#Calculate percent area of geos that are parks
+total_parks_area = np.zeros(len(geos))
+
+for jj, park in enumerate(parks['geometry']):
+    if jj % 100 == 0:
+        print "I am in ",jj
+    for ii, geo in enumerate(geos['geometry']):
+        ratio = geo.intersection(park).area/park.area
+       
+        total_parks_area[ii] += ratio*park.area
+fraction = total_parks_area/geos.area
+pop_fraction = total_parks_area/pop_geo
+
+
+#Write fration to file
+geos['Parks_Fraction'] = fraction
+geos['Total_Park_Area'] = total_parks_area
+geos['Population'] = pop_geo
+geos['Area_Park_perPerson'] = pop_fraction
+
+geos.to_file(Output)
+
+#The output tables/shapefiles were used to create the map series and graph series Area of Park Space per Person by
+#Zip Code, Census Tract, Block Group, or Block depending on the "geos" paramater input.
+
+#The ouput values were split into five differnt series by borough code to enable differnt color values for each borough in the graphs.
+
+
+
+#3
+#Calcualte the minimum euclidean distance from a PLUTO Lot to a Park
+
+import geopandas as gp
+from geopandas import GeoSeries
+import pandas as pd
+import os
+import sys
+import csv
+import numpy as np
+
+#Paramaters
+##Paramaters are hardcoded
+##Parks, geos, zipsGeo, censustract, blockGroups, blocks, and pluto must be polygon shapefiles
+parks = gp.GeoDataFrame.from_file('Parks.shp')
+geos = gp.GeoDataFrame.from_file('Counties.shp')
+zipsGeo = gp.GeoDataFrame.from_file('Zip_Codes.shp')
+censustract = gp.GeoDataFrame.from_file('Census_Tracts.shp')
+blockGroups = gp.GeoDataFrame.from_file('Block_Groups.shp')
+blocks = gp.GeoDataFrame.from_file('Blocks.shp')
+pluto = gp.GeoDataFrame.from_file('PLUTO_TaxLots.shp')
+Output = 'Output'
+
+#Match the projection of all geometries to parks
+geos.to_crs(crs=(parks['geometry'].crs), inplace=True)
+zipsGeo.to_crs(crs=(parks['geometry'].crs), inplace=True)
+censustract.to_crs(crs=(parks['geometry'].crs), inplace=True)
+blockGroups.to_crs(crs=(parks['geometry'].crs), inplace=True)
+blocks.to_crs(crs=(parks['geometry'].crs), inplace=True)
+pluto.to_crs(crs=(parks['geometry'].crs), inplace=True)
+
+
+#Compute associated Geo IDs 
+geos_geoid = np.array(geos['GEOID'])
+zipsGeo_geoid = np.array(zipsGeo['ZCTA5CE10'])
+censustract_geoid = np.array(censustract['GEOID'])
+
+
+
+plGeo = np.zeros(len(pluto))
+plZip = np.zeros(len(pluto))
+plCT = np.zeros(len(pluto))
+
+
+for jj, geo in enumerate(geos['geometry']):
+	for ii, cen in enumerate(np.array(pluto.geometry.centroid)):
+		if cen.within(geo):
+			plGeoID = geos_geoid[jj]
+			plGeo[ii] = plGeoID
+pluto['Borough_ID'] = plGeo
+
+for jj, geo in enumerate(zipsGeo['geometry']):
+	for ii, cen in enumerate(np.array(pluto.geometry.centroid)):
+		if cen.within(geo):
+			plZipCode = zipsGeo_geoid[jj]
+			plZip[ii] = plZipCode
+pluto['ZipCode_PL'] = plZip
+
+for jj, geo in enumerate(censustract['geometry']):
+	for ii, cen in enumerate(np.array(pluto.geometry.centroid)):
+		if cen.within(geo):
+			plCenTr = censustract_geoid[jj]
+			plCT[ii] = plCenTr
+pluto['CensusTract_PL'] = plCT
+
+
+#Calculate the Minimum Distance from a PLUTO Lot to a Park
+
+distplMin = np.zeros(len(pluto))
+
+for ii, cen in enumerate(np.array(pluto.geometry.centroid)):
+	if ii % 100 == 0:
+		print "I am in ",ii
+	tmin = 1e30
+	for jj, park in enumerate(parks['geometry']):
+		distpl = cen.distance(park)
+		tmin = distpl if distpl < tmin else tmin
+	distplMin[ii] = tmin
+	#print distplMin
+
+pluto['Dist_to_Closest_Park'] = distplMin
+pluto.to_file(Output)
+
+#The output table was used to create the charts Distance to Closest Park by Borough,
+#Average Distance to Park by Zip Code, Average Distance to Park by Census Tract, and Accessibility by Census Tract
+#The values were aggregated by the GOID and values were split into five differnt series by borough code to enable differnt color values for each borough.
