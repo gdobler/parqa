@@ -10,22 +10,23 @@ Features = {}
 data = pd.ExcelFile(sys.argv[1])
 df = data.parse()
 
+# All failures
 failedFeatures = df[df['Rating'].isin(['U'])]
 
 for feature in failedFeatures:
 	# Initialize Features in Master Dictionary
 	if Features.get(feature['Feature']) == None:
-		Features['Feature'] = {'Count':0, 'Failures:{}}
+		Features[feature['Feature']] = {'Count':0, 'Failures:{}}
 
 	# Initialize Inspection in Master Inspection Dictionary
 	if Inspections.get(feature['Inspection_ID']) == None:
-		Inspections['Inspection_ID']= []
+		Inspections[feature['Inspection_ID']]= []
 
 	# Increment Feature Count
-	Features['Feature']['Count'] += 1
+	Features[feature['Feature']]['Count'] += 1
 
 	# Add Feature to corresponding Inspection 
-	Inspections['Inspection_ID'].append(feature['Feature'])
+	Inspections[feature['Inspection_ID']].append(feature['Feature'])
 
 for inspection in Inspections:
 	for i, feature in enumerate(inspection):
@@ -41,6 +42,6 @@ for inspection in Inspections:
 for feature in Features:
 	print "%s: %d fails" % (feature, Features[feature]['Count']),
 		for subFeature in Features[feature]['Failures']:
-			print "\t%s:%d" % (subFeature, Features[feature]['Failures'][subFeature]),
+			print "\t%s:%.2f" % (subFeature, Features[feature]['Failures'][subFeature] / Features[feature]['Count']), # ratio is printed
 		print ""
 
