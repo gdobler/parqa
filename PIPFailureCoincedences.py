@@ -4,10 +4,6 @@ import math
 
 f = open(argv[1], 'rU')
 myFile = csv.reader(f)
-# headers = next(inspection)
-# rating = headers.index("RATING")
-# inspections_ID = headers.index("Inspections_Id")
-# Insp_date = headers.index('Date')
 
 InspectionData = []
 InspectionSummary = {}
@@ -29,6 +25,10 @@ for i, item in enumerate(InspectionItems):
 					else:
 						InspectionSummary[item][InspectionItems[j]] += 1
 
-print InspectionSummary
-
-
+for item in InspectionSummary:
+	if item != "Inspection_Id":
+		print "%s: %d fails" % (item, InspectionSummary[item]['Count']),
+		for feature in InspectionSummary[item]:
+			if feature != 'Count':
+				print "\t%s:%d" % (feature, InspectionSummary[item][feature]),
+		print ""
