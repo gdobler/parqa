@@ -1,5 +1,8 @@
 import pandas as pd
 import sys
+import matplotlib.pyplot as plt
+import numpy as np
+import math
 
 Inspections = {}
 Features = {}
@@ -44,9 +47,29 @@ for inspection in Inspections:
 				Features[compareFeature]['Failures'][feature] = 0
 			Features[compareFeature]['Failures'][feature] += 1
 
+print Features
+
 for feature in Features:
 	print "%s: %d fails" % (feature, Features[feature]['Count'])
 	for subFeature in Features[feature]['Failures']:
 		print "\t%s:%.4f" % (subFeature, float(Features[feature]['Failures'][subFeature]) / Features[feature]['Count']) # ratio is printed
 	print ""
+
+
+fig, axs = plt.subplots(1,len(Features), facecolor='w', edgecolor='k')
+fig.subplots_adjust(hspace = .5, wspace=.001)
+axs = axs.ravel()
+i = 0
+for mainFeature, details in Features.iteritems():
+	for main, features in details.iteritems():
+		if main != 'Count':
+			axs[i].bar(range(len(features)), [float(x) / details['Count'] for x in features.values()], align='center', width=0.35)
+			axs[i].set_xticks(np.arange(0, len(features)+1, 1.0))
+			axs[i].set_xticklabels((details['Failures'].keys()),rotation=90)
+			axs[i].set_ylim(0, 1)
+			axs[i].set_title('%s, count of : %d'%(mainFeature, details['Count']))
+			i+=1
+fig.suptitle('Pecentages of Coincedences')
+plt.show()
+
 
