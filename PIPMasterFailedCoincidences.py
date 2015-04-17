@@ -12,25 +12,30 @@ df = data.parse()
 
 # All failures
 failedFeatures = df[df['Rating'].isin(['U'])]
+# print failedFeatures
 
-for feature in failedFeatures:
+for feature in failedFeatures.iterrows():
+	featureName = feature[1][0]
+	inspectionID = feature[1][2]
+
 	# Initialize Features in Master Dictionary
-	if Features.get(feature['Feature']) == None:
-		Features[feature['Feature']] = {'Count':0, 'Failures:{}}
+	if Features.get(featureName) == None:
+		Features[featureName] = {'Count':0, 'Failures':{}}
 
 	# Initialize Inspection in Master Inspection Dictionary
-	if Inspections.get(feature['Inspection_ID']) == None:
-		Inspections[feature['Inspection_ID']]= []
+	if Inspections.get(inspectionID) == None:
+		Inspections[inspectionID]= []
 
 	# Increment Feature Count
-	Features[feature['Feature']]['Count'] += 1
+	Features[featureName]['Count'] += 1
 
 	# Add Feature to corresponding Inspection 
-	Inspections[feature['Inspection_ID']].append(feature['Feature'])
+	Inspections[inspectionID].append(featureName)
 
 for inspection in Inspections:
-	for i, feature in enumerate(inspection):
-		for compareFeature in inspection[i+1:]:
+	# print inspection
+	for i, feature in enumerate(Inspections[inspection]):
+		for compareFeature in Inspections[inspection][i+1:]:
 			if Features[feature]['Failures'].get(compareFeature) == None:
 				Features[feature]['Failures'][compareFeature] = 0
 			Features[feature]['Failures'][compareFeature] += 1
@@ -40,8 +45,8 @@ for inspection in Inspections:
 			Features[compareFeature]['Failures'][feature] += 1
 
 for feature in Features:
-	print "%s: %d fails" % (feature, Features[feature]['Count']),
-		for subFeature in Features[feature]['Failures']:
-			print "\t%s:%.2f" % (subFeature, Features[feature]['Failures'][subFeature] / Features[feature]['Count']), # ratio is printed
-		print ""
+	print "%s: %d fails" % (feature, Features[feature]['Count'])
+	for subFeature in Features[feature]['Failures']:
+		print "\t%s:%.4f" % (subFeature, float(Features[feature]['Failures'][subFeature]) / Features[feature]['Count']) # ratio is printed
+	print ""
 
