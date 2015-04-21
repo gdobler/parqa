@@ -3,6 +3,8 @@ import sys
 import matplotlib.pyplot as plt
 import numpy as np
 import math
+import csv
+
 
 Inspections = {}
 
@@ -11,15 +13,12 @@ Features = {}
 # IE. Inspection = {IDNumber: [(Feature1, 1), (Feature2, 0)]}
 
 
-# IE. Features = {Ice: {Count:15, Failures: {Sidewalks:{EvaluatedCount:10, Failures:10}, Playgrounds:12}}, 
-#		  		  Litter: {Count:25, Failures: {Sidewalks:10, Playgrounds,14}}}
+# IE. Features = {Ice: {Count:15, Failures: {Sidewalks:{EvaluatedCount:10, Failures:10}, Playgrounds:{EvaluatedCount:10, Failures:10}}}, 
+#		  		  Litter: {Count:25, Failures: {Sidewalks:{EvaluatedCount:10, Failures:10}, Playgrounds:{EvaluatedCount:10, Failures:10}}}}
 
 data = pd.ExcelFile(sys.argv[1])
 df = data.parse()
 
-# All failures
-# inspectionFeatures = df[df['Rating'].isin(['U'])]
-# print failedFeatures
 
 for feature in df.iterrows():
 	featureName = feature[1][0]
@@ -44,7 +43,7 @@ for feature in df.iterrows():
 for inspection in Inspections:
 	# print inspection
 	for i, feature in enumerate(Inspections[inspection]):
-		if feature[1] == 'U':
+		if feature[1] in ['U','U/S']:
 			for compareFeature in Inspections[inspection][i+1:]:
 
 				if Features[feature[0]]['Failures'].get(compareFeature[0]) == None:
@@ -52,7 +51,7 @@ for inspection in Inspections:
 				# Increment Evaluated count regardless of that compared Feature's rating
 				Features[feature[0]]['Failures'][compareFeature[0]]['EvaluatedCount'] += 1
 				# Increment Failed count if that compared Feature has a failed rating
-				if compareFeature[1] == 'U':
+				if compareFeature[1] in ['U','U/S']:
 					Features[feature[0]]['Failures'][compareFeature[0]]['Failures'] += 1
 
 					if Features[compareFeature[0]]['Failures'].get(feature[0]) == None:
@@ -67,6 +66,8 @@ for feature in Features:
 		differenceInEvaluated = Features[feature]['Failures'][subFeature]['EvaluatedCount'] - Features[feature]['Failures'][subFeature]['Failures']
 		print "\t%s:%.4f Count: %d, Evaluated: %d" % (subFeature, float(Features[feature]['Failures'][subFeature]['Failures']) / Features[feature]['Failures'][subFeature]['EvaluatedCount'], Features[feature]['Failures'][subFeature]['Failures'], Features[feature]['Failures'][subFeature]['EvaluatedCount']) # ratio is printed
 	print ""
+
+
 
 
 fig, axs = plt.subplots(1,len(Features), facecolor='w', edgecolor='k')
