@@ -1,0 +1,77 @@
+import pandas as pd
+import sys
+import matplotlib.pyplot as plt
+import numpy as np
+import math
+
+PIP_InspectionMain = pd.ExcelFile("InspectionMain")
+inspection = PIP_InspectionMain.parse()
+
+PIP_FeatureRating = pd.ExcelFile("FeatureRatings")
+rating = PIP_FeatureRating.parse()
+
+PIP_AllSites = pd.ExcelFile("ALLSITES")
+sites = PIP_AllSites.parse()
+
+failedFeatures = rating[rating['Rating'].isin(['U'])]
+badFeatures = rating[rating['Rating'].isin(['U/S'])]
+
+Inspections = {}
+
+for feature in rating.iterrows():
+    inspectionID = feature[1][2]
+    featureRating =feature[1][1]
+    
+    if Inspections.get(inspectionID) == None:
+        Inspections[inspectionID] = {'Count':0, 'Failures':0}
+    
+    if featureRating in ['U','U/S']:
+        Inspections[inspectionID]['Failures']+=1
+        
+    Inspections[inspectionID]['Count']+=1
+
+
+# In[43]:
+
+Quality = {}
+
+for key, value in Inspections.iteritems():
+    if Quality.get(key) == None:
+        Quality[key] = Ratio
+    for item, score in value.iteritems():
+        if item == 'Count':
+            Count = score
+        if item == 'Failures':
+            Fail = score
+    Ratio = float(Fail)/float(Count)
+
+
+# In[62]:
+
+QualityRating = {}
+
+for feature in inspection.iterrows():
+    inspectionIDMaster = feature[1][11]
+    Date = feature[1][3]
+    Prop_ID = feature[1][0]
+
+    if QualityRating.get(inspectionIDMaster) == None:
+        QualityRating[inspectionIDMaster] = {'Prop_ID':0, 'Date':0, 'Rating':0}
+    QualityRating[inspectionIDMaster]['Prop_ID']=Prop_ID
+    QualityRating[inspectionIDMaster]['Date']=Date
+for key,value in Quality.iteritems():
+    for ID,values in QualityRating.iteritems():
+        if key == ID:
+            QualityRating[inspectionIDMaster]['Rating']=float(value)
+
+
+# In[65]:
+
+for feature in sites.iterrows():
+    Prop_ID = feature[1][2]
+    featureRating =feature[1][1]
+
+
+# In[66]:
+
+QualityRating
