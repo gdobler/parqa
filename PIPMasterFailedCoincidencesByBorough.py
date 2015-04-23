@@ -106,7 +106,9 @@ for boroughName, boroughInspections in Inspections.items():
 
 	plt.figure(figsize=(20, 20))
 	newList = np.array(newList)
-	plt.imshow(newList, interpolation='nearest')
+	cmap = plt.cm.jet
+	plt.imshow(newList, interpolation='nearest',vmin=0,vmax=1)
+	cmap.set_over('gray')
 	plt.xticks(range(17),featuresList, rotation='vertical')
 	plt.yticks(range(17),featuresList)
 	plt.colorbar()
