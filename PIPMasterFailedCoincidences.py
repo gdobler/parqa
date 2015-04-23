@@ -26,7 +26,7 @@ for feature in df.iterrows():
 	inspectionID = feature[1][2]
 
 	# Initialize Features in Master Dictionary
-	if featureRating == 'U':
+	if featureRating in ['U','U/S']:
 		if Features.get(featureName) == None:
 			Features[featureName] = {'Count':0, 'Failures':{}}
 			
@@ -75,22 +75,23 @@ for index, feature in enumerate(featuresList):
 	for i in featuresList:
 		if i == feature:
 			newList[index].append (1)
-		elif i == u'Weeds' and feature == u'Ice':
-			newList[index].append (0)
-		elif i == u'Safety Surface' and feature == u'Water Bodies':
-			newList[index].append (0)
-		elif i == u'Ice' and feature == u'Weeds':
-			newList[index].append (0)
 		elif i != feature:
-			newList[index].append (float(Features[feature]['Failures'][i]['Failures'])/Features[feature]['Failures'][i]['EvaluatedCount'])
+			if Features[feature]['Failures'].get(i) == None:
+				newList[index].append (0)
+			else:
+				newList[index].append (float(Features[feature]['Failures'][i]['Failures'])/Features[feature]['Failures'][i]['EvaluatedCount'])
 
+plt.figure(figsize=(20, 20))
 newList = np.array(newList)
 plt.imshow(newList, interpolation='nearest')
 plt.xticks(range(17),featuresList, rotation='vertical')
 plt.yticks(range(17),featuresList)
 plt.colorbar()
 plt.title('Coincidence Ratios of Failing Features')
+plt.xlabel('Coincidence Failing Feature')
+plt.ylabel('Main Failing Feature')
 plt.gcf().subplots_adjust(bottom=0.20)
+# plt.savefig('foo.png',bbox_inches='tight')
 plt.show()
 
 
