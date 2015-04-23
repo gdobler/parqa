@@ -1,10 +1,9 @@
 import pandas as pd
+import math
 import sys
 import matplotlib.pyplot as plt
 import numpy as np
-import math
 import csv
-
 
 Inspections = {}
 BoroughFeatures = {}
@@ -19,9 +18,6 @@ BoroughFeatures = {}
 # IE. BoroughFeatures = {'M': {Features},
 #						 'B': {Features}}
 
-# data = pd.ExcelFile(sys.argv[1])
-# df = data.parse()
-
 inspectionsDf = pd.read_excel(sys.argv[1])
 locationsDf = pd.read_excel(sys.argv[2])
 featuresDf = pd.read_excel(sys.argv[3])
@@ -33,7 +29,7 @@ inspectionLocationDf = inspectionsDfSub.join(locationsDfSub.set_index(['Prop ID'
 featuresJoinedDf = featuresDf.join(inspectionLocationDf.set_index(['Inspection ID']), on='Inspection ID')
 
 
-for feature in featuresJoinedDf.iterrows():
+for feature in featuresJoinedDf[featuresJoinedDf['Boro'].notnull()].iterrows():
 	featureName = feature[1][0]
 	featureRating = feature[1][1]
 	inspectionID = feature[1][2]
@@ -80,7 +76,7 @@ for boroughName, boroughInspections in Inspections.items():
 					Features[featureName]['Failures'][compareFeatureName]['EvaluatedCount'] += 1
 
 					# Increment Failed count if that compared Feature has a failed rating
-					if compareFeature[1] in ['U','U/S']:
+					if compareFeatureRating in ['U','U/S']:
 						Features[featureName]['Failures'][compareFeatureName]['Failures'] += 1
 
 						if Features[compareFeatureName]['Failures'].get(featureName) == None:
@@ -92,7 +88,6 @@ for boroughName, boroughInspections in Inspections.items():
 	for featureName, featureData in Features.items():
 		print "%s: %d fails" % (featureName, featureData['Count'])
 		for subFeatureName, subFeatureData in featureData['Failures'].items():
-			differenceInEvaluated = subFeatureData['EvaluatedCount'] - Features[feature]['Failures'][subFeature]['Failures']
 			print "\t%s:%.4f Count: %d, Evaluated: %d" % (subFeatureName, float(subFeatureData['Failures']) / subFeatureData['EvaluatedCount'], subFeatureData['Failures'], subFeatureData['EvaluatedCount']) # ratio is printed
 		print ""
 
@@ -122,27 +117,5 @@ for boroughName, boroughInspections in Inspections.items():
 	# plt.gcf().subplots_adjust(bottom=0.20)
 	# plt.show()
 
-
-
-##### Previous code for plotting
-# fig, axs = plt.subplots(4,4, facecolor='w', edgecolor='k')
-# fig.subplots_adjust(hspace = .5, wspace=.001)
-# axs = axs.ravel()
-# i = 0
-# for mainFeature, details in Features.iteritems():
-# 		for detailType, failureDetails in details.iteritems():
-# 			if detailType != 'Count':
-# 				print failureDetails
-# 				print "++++++++++++"
-# 			for InspectionFailure, EvCount in failureDetails.iteritems():
-# 		if main != 'Count':
-# 			axs[i].bar(range(len(features)), [float(x) / details['Count'] for x in features.values()], align='center', width=0.35)
-# 			axs[i].set_xticks(np.arange(0, len(features)+1, 1.0))
-# 			axs[i].set_xticklabels((details['Failures'].keys()),rotation=90)
-# 			axs[i].set_ylim(0, 1)
-# 			axs[i].set_title('%s, count of : %d'%(mainFeature, details['Count']))
-# 			i+=1
-# fig.suptitle('Pecentages of Coincedences')
-# plt.show()
 
 
