@@ -91,31 +91,31 @@ for boroughName, boroughInspections in Inspections.items():
 			print "\t%s:%.4f Count: %d, Evaluated: %d" % (subFeatureName, float(subFeatureData['Failures']) / subFeatureData['EvaluatedCount'], subFeatureData['Failures'], subFeatureData['EvaluatedCount']) # ratio is printed
 		print ""
 
+	featuresList = [u'Litter', u'Athletic Fields', u'Lawns', u'Safety Surface', u'Trails', u'Weeds', u'Sidewalks', u'Ice', u'Glass', u'Benches', u'Paved Surfaces', u'Graffiti', u'Trees', u'Water Bodies', u'Play Equipment', u'Fences', u'Horticultural Areas']
+	newList = []
+	for index, feature in enumerate(featuresList):
+		newList.append([])
+		for i in featuresList:
+			if i == feature:
+				newList[index].append (1)
+			elif i != feature:
+				if Features[feature]['Failures'].get(i) == None:
+					newList[index].append (0)
+				else:
+					newList[index].append (float(Features[feature]['Failures'][i]['Failures'])/Features[feature]['Failures'][i]['EvaluatedCount'])
 
-	# featuresList = [u'Litter', u'Athletic Fields', u'Lawns', u'Safety Surface', u'Trails', u'Weeds', u'Sidewalks', u'Ice', u'Glass', u'Benches', u'Paved Surfaces', u'Graffiti', u'Trees', u'Water Bodies', u'Play Equipment', u'Fences', u'Horticultural Areas']
-	# newList = []
-	# for index, feature in enumerate(featuresList):
-	# 	newList.append([])
-	# 	for i in featuresList:
-	# 		if i == feature:
-	# 			newList[index].append (1)
-	# 		elif i == u'Weeds' and feature == u'Ice':
-	# 			newList[index].append (0)
-	# 		elif i == u'Safety Surface' and feature == u'Water Bodies':
-	# 			newList[index].append (0)
-	# 		elif i == u'Ice' and feature == u'Weeds':
-	# 			newList[index].append (0)
-	# 		elif i != feature:
-	# 			newList[index].append (float(Features[feature]['Failures'][i]['Failures'])/Features[feature]['Failures'][i]['EvaluatedCount'])
-
-	# newList = np.array(newList)
-	# plt.imshow(newList, interpolation='nearest')
-	# plt.xticks(range(17),featuresList, rotation='vertical')
-	# plt.yticks(range(17),featuresList)
-	# plt.colorbar()
-	# plt.title('Coincidence Ratios of Failing Features')
-	# plt.gcf().subplots_adjust(bottom=0.20)
-	# plt.show()
+	plt.figure(figsize=(20, 20))
+	newList = np.array(newList)
+	plt.imshow(newList, interpolation='nearest')
+	plt.xticks(range(17),featuresList, rotation='vertical')
+	plt.yticks(range(17),featuresList)
+	plt.colorbar()
+	plt.title('%s Coincidence Ratios of Failing Features' % boroughName)
+	plt.xlabel('Coincidence Failing Feature')
+	plt.ylabel('Main Failing Feature')
+	plt.gcf().subplots_adjust(bottom=0.20)
+	plt.savefig(boroughName + '.png', bbox_inches='tight')
+	
 
 
 
