@@ -100,7 +100,7 @@ for boroughName, boroughInspections in Inspections.items():
 				newList[index].append (1)
 			elif i != feature:
 				if Features[feature]['Failures'].get(i) == None:
-					newList[index].append (0)
+					newList[index].append (100)
 				else:
 					newList[index].append (float(Features[feature]['Failures'][i]['Failures'])/Features[feature]['Failures'][i]['EvaluatedCount'])
 
