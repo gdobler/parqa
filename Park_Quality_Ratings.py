@@ -111,7 +111,7 @@ for feature in inspection.iterrows():
             parkInspections['Rating']=value
             
 
-
+###
 #for key, values in parkInfo.items():
  #   for feature in inspection.iterrows():
 #      parkID = feature[1][0]
@@ -124,38 +124,40 @@ for feature in inspection.iterrows():
 
 # In[31]:
 
-parkInspections
+#parkInspections
 
 
 # In[9]:
 
-QualityRating = {}
+#QualityRating = {}
 
-for feature in inspection.iterrows():
-    inspectionIDMaster = feature[1][11]
-    Date = feature[1][3]
-    Prop_ID = feature[1][0]
+#for feature in inspection.iterrows():
+#    inspectionIDMaster = feature[1][11]
+#    Date = feature[1][3]
+#    Prop_ID = feature[1][0]
 
-    if QualityRating.get(inspectionIDMaster) == None:
-        QualityRating[inspectionIDMaster] = {'Prop_ID':0, 'Date':0, 'Rating':0, 'Area':0}
-    QualityRating[inspectionIDMaster]['Prop_ID']=Prop_ID
-    QualityRating[inspectionIDMaster]['Date']=Date
-for key,value in Quality.iteritems():
-    for ID,values in QualityRating.iteritems():
-        if key == ID:
-            QualityRating[inspectionIDMaster]['Rating']=float(value)
+ #   if QualityRating.get(inspectionIDMaster) == None:
+  #      QualityRating[inspectionIDMaster] = {'Prop_ID':0, 'Date':0, 'Rating':0, 'Area':0}
+   # QualityRating[inspectionIDMaster]['Prop_ID']=Prop_ID
+  #  QualityRating[inspectionIDMaster]['Date']=Date
+#for key,value in Quality.iteritems():
+    #for ID,values in QualityRating.iteritems():
+      #  if key == ID:
+        #    QualityRating[inspectionIDMaster]['Rating']=float(value)
 
 
 # In[10]:
 
-for feature in sites.iterrows():
-    Prop_ID = feature[1][2]
-    featureRating =feature[1][1]
+#for feature in sites.iterrows():
+ #   Prop_ID = feature[1][2]
+ #   featureRating =feature[1][1]
 
 
 # In[11]:
 
-for key,value in Quality.iteritems():
-    for ID,values in QualityRating.iteritems():
-        if key == ID:
-            QualityRating[inspectionIDMaster]['Rating']=float(value)
+#for key,value in Quality.iteritems():
+   # for ID,values in QualityRating.iteritems():
+     #   if key == ID:
+       #     QualityRating[inspectionIDMaster]['Rating']=float(value)
+            
+            ""
