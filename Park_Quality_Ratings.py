@@ -78,7 +78,7 @@ for feature in sites.iterrows():
     category = feature[1][10]
     
     if parkInfo.get(parkID) == None:
-        parkInfo[parkID] = {'Inpections':{}}
+        parkInfo[parkID] = {'Inspections':{}}
     parkInfo[parkID]['Acres']=float(acres)
     parkInfo[parkID]['Name']=name
     parkInfo[parkID]['Borough']=borough
