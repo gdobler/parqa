@@ -54,11 +54,18 @@ for feature in rating.iterrows():
 '''
 # Try this instead of above loop.  Might be more efficient.  Mostly just more 'python' like. :)
 for inspectionID in pd.Series(sites[2]).unique():
+
+  # Slice Inspection report
   InspectionDf = sites[sites[2] == inspectionID]
+
+  # Create Masks
   RatingFilterU = InspectionDf[1] == 'U'
   RatingFilterUS = InspectionDf[1] == 'U/S'
+
+  # Build Dictionary Entry
   Inspections[inspectionID]['Count'] = InspectionDf.count()
   Inspections[inspectionID]['Failures'] = InspectionDf[RatingFilterU | RatingFilterUS]
+  Inspections[inspectionID]['Ratio'] = float(Inspections[inspectionID]['Failures']) / Inspections[inspectionID]['Count']
 '''
 
 for feature in sites.iterrows():
@@ -112,6 +119,7 @@ for feature in inspection.iterrows():
       # Add inspection Date to Inspection sub Dictionary
       parkInfo[parkID]['Inspection'][inspectionID]['Date'] = date    # CHANGE TO DATETIME FORMAT!!!
 
+      # !!!!!!   If Using commented out code from above, remove this section!
       # Create Ratio for inspection report and add to Inspection sub Dictionary
       inspectionFeatureCount = parkInfo[parkID]['Inspection'][inspectionID]['Count']
       inspectionFailureCount = parkInfo[parkID]['Inspection'][inspectionID]['Failures']
