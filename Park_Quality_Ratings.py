@@ -63,6 +63,7 @@ for inspectionID in pd.Series(sites[2]).unique():
   RatingFilterUS = InspectionDf[1] == 'U/S'
 
   # Build Dictionary Entry
+  Inspections[inspectionID] = {}
   Inspections[inspectionID]['Count'] = InspectionDf.count()
   Inspections[inspectionID]['Failures'] = InspectionDf[RatingFilterU | RatingFilterUS]
   Inspections[inspectionID]['Ratio'] = float(Inspections[inspectionID]['Failures']) / Inspections[inspectionID]['Count']
