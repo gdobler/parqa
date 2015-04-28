@@ -115,16 +115,16 @@ for feature in inspection.iterrows():
       print 'Error: inspectionID %s not found in FEATURERATING file' % inspectionID
     else:
       # Add inspection report to ParkID Dictionary
-      parkInfo[parkID]['Inspection'][inspectionID] = Inspection[inspectionID]
+      parkInfo[parkID]['Inspections'][inspectionID] = Inspection[inspectionID]
 
       # Add inspection Date to Inspection sub Dictionary
-      parkInfo[parkID]['Inspection'][inspectionID]['Date'] = date    # CHANGE TO DATETIME FORMAT!!!
+      parkInfo[parkID]['Inspections'][inspectionID]['Date'] = date    # CHANGE TO DATETIME FORMAT!!!
 
       # !!!!!!   If Using commented out code from above, remove this section!
       # Create Ratio for inspection report and add to Inspection sub Dictionary
-      inspectionFeatureCount = parkInfo[parkID]['Inspection'][inspectionID]['Count']
-      inspectionFailureCount = parkInfo[parkID]['Inspection'][inspectionID]['Failures']
-      parkInfo[parkID]['Inspection'][inspectionID]['Ratio'] = float(inspectionFailureCount)/inspectionFeatureCount
+      inspectionFeatureCount = parkInfo[parkID]['Inspections'][inspectionID]['Count']
+      inspectionFailureCount = parkInfo[parkID]['Inspections'][inspectionID]['Failures']
+      parkInfo[parkID]['Inspections'][inspectionID]['Ratio'] = float(inspectionFailureCount)/inspectionFeatureCount
       
 
 # Print a confirmation example of a park reference:
