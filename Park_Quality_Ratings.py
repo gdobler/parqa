@@ -51,6 +51,15 @@ for feature in rating.iterrows():
         
     Inspections[inspectionID]['Count']+=1
 
+'''
+# Try this instead of above loop.  Might be more efficient.  Mostly just more 'python' like. :)
+for inspectionID in pd.Series(sites[2]).unique():
+  InspectionDf = sites[sites[2] == inspectionID]
+  RatingFilterU = InspectionDf[1] == 'U'
+  RatingFilterUS = InspectionDf[1] == 'U/S'
+  Inspections[inspectionID]['Count'] = InspectionDf.count()
+  Inspections[inspectionID]['Failures'] = InspectionDf[RatingFilterU | RatingFilterUS]
+'''
 
 for feature in sites.iterrows():
     parkID = feature[1][1]
