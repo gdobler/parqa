@@ -111,11 +111,11 @@ for feature in inspection.iterrows():
       
     if parkInfo.get(parkID) == None:
       print 'Error: parkID %s not found in SITES file' % parkID
-    else if Inspection.get(inspectionID) == None:
+    elif Inspections.get(inspectionID) == None:
       print 'Error: inspectionID %s not found in FEATURERATING file' % inspectionID
     else:
       # Add inspection report to ParkID Dictionary
-      parkInfo[parkID]['Inspections'][inspectionID] = Inspection[inspectionID]
+      parkInfo[parkID]['Inspections'][inspectionID] = Inspections[inspectionID]
 
       # Add inspection Date to Inspection sub Dictionary
       parkInfo[parkID]['Inspections'][inspectionID]['Date'] = date    # CHANGE TO DATETIME FORMAT!!!
