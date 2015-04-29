@@ -102,7 +102,6 @@ def AvgRatio(yearQueryList, CategoryList):
 
 
 
-
 if __name__ == '__main__':
 
   if not os.path.exists(datFilePath + datFile):
@@ -121,4 +120,37 @@ if __name__ == '__main__':
   # Call Average Ratio with all Categories
   Complete2014Ratios = AvgRatio([2014], ['Green Street', 'Large Park', 'Small Park'])
   Subset2014Ratios = AvgRatio([2014], ['Large Park', 'Small Park'])
+  SmallSubset2014Ratios = AvgRatio([2014], ['Small Park'])
+  LargeSubset2014Ratios = AvgRatio([2014], ['Large Park'])
+  GreenSubset2014Ratios = AvgRatio([2014], ['Green Street'])
 
+  plt.hist(Complete2014Ratios, bins=25)
+  plt.title("2014 Average Park Quality Ratings for All Parks")
+  plt.xlabel("Quality Rating")
+  plt.ylabel("Count")
+  #plt.show()
+  #plt.savefig("myfig.png")
+
+  plt.hist(Subset2014Ratios, bins=25)
+  plt.title("2014 Average Park Quality Ratings for Large and Small Parks")
+  plt.xlabel("Quality Rating")
+  plt.ylabel("Count")
+  #plt.show()
+
+  plt.hist(SmallSubset2014Ratios, bins=25)
+  plt.title("2014 Average Park Quality Ratings for Small Parks")
+  plt.xlabel("Quality Rating")
+  plt.ylabel("Count")
+  #plt.show()
+    
+  plt.hist(LargeSubset2014Ratios, bins=25)
+  plt.title("2014 Average Park Quality Ratings for Large Parks")
+  plt.xlabel("Quality Rating")
+  plt.ylabel("Count")
+  #plt.show()
+
+  #plt.hist(GreenSubset2014Ratios, bins=25)
+  #plt.title("2014 Average Park Quality Ratings for Green Streets")
+  #plt.xlabel("Quality Rating")
+  #plt.ylabel("Count")
+  #plt.show()
