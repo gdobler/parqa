@@ -122,5 +122,3 @@ if __name__ == '__main__':
   Complete2014Ratios = AvgRatio([2014], ['Green Street', 'Large Park', 'Small Park'])
   Subset2014Ratios = AvgRatio([2014], ['Large Park', 'Small Park'])
 
-  print Complete2014Ratios
-
