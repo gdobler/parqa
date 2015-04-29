@@ -130,6 +130,7 @@ if __name__ == '__main__':
   plt.ylabel("Count")
   #plt.show()
   plt.savefig("../../parqa/Outputs/Park_Quality_Ratings/Complete2014Ratios.png")
+  plt.close()
 
   plt.hist(Subset2014Ratios, bins=25)
   plt.title("2014 Average Park Quality Ratings for Large and Small Parks")
@@ -137,21 +138,24 @@ if __name__ == '__main__':
   plt.ylabel("Count")
   #plt.show()
   plt.savefig("../../parqa/Outputs/Park_Quality_Ratings/Subset2014Ratios.png")
-
+  plt.close()
+    
   plt.hist(SmallSubset2014Ratios, bins=25)
   plt.title("2014 Average Park Quality Ratings for Small Parks")
   plt.xlabel("Quality Rating")
   plt.ylabel("Count")
   #plt.show()
   plt.savefig("../../parqa/Outputs/Park_Quality_Ratings/SmallSubset2014Ratios.png")
-    
+  plt.close()
+
   plt.hist(LargeSubset2014Ratios, bins=25)
   plt.title("2014 Average Park Quality Ratings for Large Parks")
   plt.xlabel("Quality Rating")
   plt.ylabel("Count")
   #plt.show()
   plt.savefig("../../parqa/Outputs/Park_Quality_Ratings/LargeSubset2014Ratios.png")
-
+  plt.close()
+    
   #plt.hist(GreenSubset2014Ratios, bins=25)
   #plt.title("2014 Average Park Quality Ratings for Green Streets")
   #plt.xlabel("Quality Rating")
