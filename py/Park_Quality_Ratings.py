@@ -118,11 +118,11 @@ if __name__ == '__main__':
     fopen.close()
 
   # Call Average Ratio with all Categories
-  Complete2014Ratios = AvgRatio([2014], ['Green Street', 'Large Park', 'Small Park'])
+  Complete2014Ratios = AvgRatio([2014], ['Greenstreet', 'Large Park', 'Small Park'])
   Subset2014Ratios = AvgRatio([2014], ['Large Park', 'Small Park'])
   SmallSubset2014Ratios = AvgRatio([2014], ['Small Park'])
   LargeSubset2014Ratios = AvgRatio([2014], ['Large Park'])
-  GreenSubset2014Ratios = AvgRatio([2014], ['Green Street'])
+  GreenSubset2014Ratios = AvgRatio([2014], ['Greenstreet'])
 
   plt.hist(Complete2014Ratios, bins=25)
   plt.title("2014 Average Park Quality Ratings for All Parks")
