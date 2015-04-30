@@ -26,11 +26,12 @@ parkID = {<PARKID>:
           }
 '''
 
-def Build_Structures(filePath):
-
+def Read_Files(filePath):
   inspection = pd.read_excel(filePath + "PIP_InspectionMain.xlsx")
   rating = pd.read_excel(filePath + "PIP_FeatureRatings.xlsx")
   sites = pd.read_excel(filePath + "PIP_ALLSITES.xlsx")
+
+def Build_Structures(filePath):
 
   #  Iterate through all inspection reports and sum Ratio of Failures of features to Features themselves.
   #  Maintain 'Inspection' dictionary of format Inspection[<INSPECTIONID>]: {'Count':X, 'Failures':X}
@@ -103,7 +104,10 @@ def AvgRatio(yearQueryList, CategoryList):
 
 
 if __name__ == '__main__':
-
+  # Read Files.  Placing outside Build so accessible if interpretor left open after running script
+  Read_Files(datFilePath + datFile)
+  
+  # If pickle file doesn't exist, build structure/file.  If does, read and ignore build.
   if not os.path.exists(datFilePath + datFile):
       print 'Data File not found.  Building'
       Build_Structures(sys.argv[1])
