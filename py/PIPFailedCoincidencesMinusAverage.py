@@ -12,8 +12,8 @@ BoroughFeatures = {}
 # IE. Inspection = {IDNumber: [(Feature1, 1), (Feature2, 0)]}
 
 
-# IE. Features = {Ice: {Count:15, Failures: {Sidewalks:{EvaluatedCount:10, Failures:10}, Playgrounds:{EvaluatedCount:10, Failures:10}}}, 
-#		  		  Litter: {Count:25, Failures: {Sidewalks:{EvaluatedCount:10, Failures:10}, Playgrounds:{EvaluatedCount:10, Failures:10}}}}
+# IE. Features = {Ice: {OccuranceCount: 0, FailureCount:15, Failures: {Sidewalks:{EvaluatedCount:10, Failures:10}, Playgrounds:{EvaluatedCount:10, Failures:10}}}, 
+#		  		  Litter: {OccuranceCount: 0, FailureCount:25, Failures: {Sidewalks:{EvaluatedCount:10, Failures:10}, Playgrounds:{EvaluatedCount:10, Failures:10}}}}
 
 # IE. BoroughFeatures = {'M': {Features},
 #						 'B': {Features}}
@@ -36,15 +36,18 @@ for feature in featuresJoinedDf[featuresJoinedDf['Boro'].notnull()].iterrows():
 	borough = feature[1][5]
 
 	# Initialize Features in Master Dictionary
+	if BoroughFeatures.get(borough) == None:
+		BoroughFeatures[borough] = {}
+	if BoroughFeatures[borough].get(featureName) == None:
+		BoroughFeatures[borough][featureName] = {'OccuranceCount':0, 'FailureCount':0, 'Failures':{}}
+	
+	# Increment Occurance Count
+	BoroughFeatures[borough][featureName]['OccuranceCount'] += 1
+	
+	# Increment Failure Count
 	if featureRating in  ['U', 'U/S']:
-		if BoroughFeatures.get(borough) == None:
-			BoroughFeatures[borough] = {}
-		
-		if BoroughFeatures[borough].get(featureName) == None:
-			BoroughFeatures[borough][featureName] = {'Count':0, 'Failures':{}}
-			
 		# Increment Feature Count
-		BoroughFeatures[borough][featureName]['Count'] += 1
+		BoroughFeatures[borough][featureName]['FailureCount'] += 1
 
 	# Initialize borough partition of Inspections
 	if Inspections.get(borough) == None:
@@ -86,7 +89,7 @@ for boroughName, boroughInspections in Inspections.items():
 
 	print '\n\nBOROUGH: %s\n\n' % boroughName
 	for featureName, featureData in Features.items():
-		print "%s: %d fails" % (featureName, featureData['Count'])
+		print "%s: %d fails" % (featureName, featureData['FailureCount'])
 		for subFeatureName, subFeatureData in featureData['Failures'].items():
 			print "\t%s:%.4f Count: %d, Evaluated: %d" % (subFeatureName, float(subFeatureData['Failures']) / subFeatureData['EvaluatedCount'], subFeatureData['Failures'], subFeatureData['EvaluatedCount']) # ratio is printed
 		print ""
@@ -103,21 +106,23 @@ for boroughName, boroughInspections in Inspections.items():
 				if Features[feature]['Failures'].get(i) == None:
 					newList[index].append (100)
 				else:
-					newList[index].append (float(Features[feature]['Failures'][i]['Failures'])/Features[feature]['Failures'][i]['EvaluatedCount'])
+					NonCoincidenceAvg = float(Features[feature]['FailureCount']) / Features[feature]['OccuranceCount']
+					CoincidenceAvg = float(Features[feature]['Failures'][i]['Failures']) / Features[feature]['Failures'][i]['EvaluatedCount']
+					newList[index].append (CoincidenceAvg - NonCoincidenceAvg)
 
 	plt.figure(figsize=(20, 20))
 	newList = np.array(newList)
-	cmap = plt.cm.jet
-	plt.imshow(newList, interpolation='nearest', cmap=cmap, vmin=0,vmax=1)
+	cmap = plt.cm.seismic
+	plt.imshow(newList, interpolation='nearest',cmap=cmap, vmin=-1,vmax=1)
 	cmap.set_over('gray')
 	plt.xticks(range(17),featuresList, rotation='vertical')
 	plt.yticks(range(17),featuresList)
 	plt.colorbar()
-	plt.title('%s Coincidence Ratios of Failing Features' % boroughFullName[boroughName])
+	plt.title('%s Coincidence Ratios of Failing Features MINUS Average Rate of Failure' % boroughFullName[boroughName])
 	plt.xlabel('Coincidence Failing Feature')
 	plt.ylabel('Main Failing Feature')
 	plt.gcf().subplots_adjust(bottom=0.20)
-	plt.savefig('../Outputs/Heatmaps/CoincidenceFailures/' + boroughName + '.png', bbox_inches='tight')
+	plt.savefig('../Outputs/Heatmaps/CoincidenceMinusAvg/' + boroughName + '.png', bbox_inches='tight')
 	
 
 
