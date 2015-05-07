@@ -122,3 +122,5 @@ if __name__ == '__main__':
 
   # Call Average Ratio with all Categories
   Complete2010Ratios = AvgRatio([2010])
+  print Complete2010Ratios
+  
