@@ -112,7 +112,7 @@ for boroughName, boroughInspections in Inspections.items():
 						CoincidenceFeatures[compareFeatureName]['Failures'][featureName]['EvaluatedCount'] += 1
 						CoincidenceFeatures[compareFeatureName]['Failures'][featureName]['Failures'] += 1	
 
-	featuresList = [u'Litter', u'Athletic Fields', u'Lawns', u'Safety Surface', u'Trails', u'Weeds', u'Sidewalks', u'Ice', u'Glass', u'Benches', u'Paved Surfaces', u'Graffiti', u'Trees', u'Water Bodies', u'Play Equipment', u'Fences', u'Horticultural Areas']
+	featuresList = [u'Glass', u'Graffiti', u'Ice', u'Litter', u'Weeds', u'Benches', u'Fences', u'Paved Surfaces', u'Play Equipment', u'Safety Surface', u'Sidewalks', u'Athletic Fields', u'Horticultural Areas', u'Trails', u'Lawns', u'Trees', u'Water Bodies']
 	boroughFullName = {'M': 'Manhattan', 'Q': 'Queens', 'X': 'Bronx', 'R': 'Staten Island', 'B': 'Brooklyn'}
 	newList = []
 	for index, feature in enumerate(featuresList):
