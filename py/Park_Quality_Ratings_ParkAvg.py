@@ -6,6 +6,7 @@ import math
 import datetime
 import pickle as pkl
 import os
+import csv
 
 # Global Dictionarys
 parkInfo = {}
@@ -88,7 +89,7 @@ def Build_Structures(filePath):
 
 
 def AvgRatio(yearQueryList):
-  AverageRatio = []
+  AverageRatio = {}
   for parkName, parkData in parkInfo.items():
     count = 0
     ratioSum = 0
@@ -97,14 +98,17 @@ def AvgRatio(yearQueryList):
         count += 1
         ratioSum += inspectionData['Ratio']
     if not count == 0:
-      AverageRatio.append(ratioSum/count)
+      if parkName not in AverageRatio:
+        AverageRatio[parkName] = (ratioSum/count)
+      else:
+        AverageRatio[parkName] = (AverageRatio[parkName]+(ratioSum/count))/2
   return AverageRatio
 
 
 
 if __name__ == '__main__':
   # Read Files.  Placing outside Build so accessible if interpretor left open after running script
-  Read_Files(datFilePath + datFile)
+  Read_Files(sys.argv[1])
   
   # If pickle file doesn't exist, build structure/file.  If does, read and ignore build.
   if not os.path.exists(datFilePath + datFile):
@@ -121,6 +125,21 @@ if __name__ == '__main__':
     fopen.close()
 
   # Call Average Ratio with all Categories
-  Complete2010Ratios = AvgRatio([2010])
-  print Complete2010Ratios
-  
+  Park2010Ratios = AvgRatio([2010])
+  print Park2010Ratios
+  print len(Park2010Ratios)
+
+
+  with open('../Outputs/Park_Quality_Ratings/ParkAvgRating.csv', 'wb') as csvfile:
+    spamwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+    spamwriter.writerow(['Park ID','AverageRating'])
+    for i in Park2010Ratios:
+        spamwriter.writerow([i,Park2010Ratios[i]])
+
+  # with open('../Outputs/Park_Quality_Ratings/ParkAvgRating.csv', 'wb') as f:
+  #   w = csv.DictWriter(f, Park2010Ratios.keys())
+  #   w.writeheader()
+  #   w.writerow(Park2010Ratios)
+
+
+
