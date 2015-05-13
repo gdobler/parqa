@@ -1,6 +1,9 @@
 import pandas as pd
 import geopandas as gp 
 
+filePath = sys.argv[1]
+filePath2 = sys.argv[2]
+
 #def Read_Files(filePath):
 inspection = pd.read_excel(filePath+"PIP_InspectionMain.xlsx")
 parksProperties = gp.GeoDataFrame.from_file(filePath2+"Property.shp")
@@ -23,5 +26,4 @@ for park in parksProperties.iterrows():
 		    		zipPass[zipCodeFive]['Failed']+=1
 		    	zipPass[zipCodeFive]['Count']+=1
 
-filePath = Read_Files(sys.argv[1])
-filePath2 = Read_Files(sys.argv[2])
+
