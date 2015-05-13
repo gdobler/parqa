@@ -17,7 +17,7 @@ for park in parksProperties.iterrows():
 	    parkID = feature[1][0]
 	    year = feature[1][6]
 	    passI = feature[1][7]
-	    if year == "2014"
+	    if year == "2014":
 	    	if parkID == ID:
 		    	if passI <> "A":
 		    		zipPass[zipCodeFive]['Failed']+=1
