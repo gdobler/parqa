@@ -1,6 +1,13 @@
 import pandas as pd
-import geopandas as gp 
 import sys
+import matplotlib.pyplot as plt
+import numpy as np
+import math
+import datetime
+import pickle as pkl
+import os
+import csv
+import geopandas as gp 
 
 filePath = sys.argv[1]
 filePath2 = sys.argv[2]
@@ -9,7 +16,10 @@ filePath2 = sys.argv[2]
 inspection = pd.read_excel(filePath+"PIP_InspectionMain.xlsx")
 parksProperties = gp.GeoDataFrame.from_file(filePath2+"Property.shp")
 
+#Global Dictonaries
 zipPass = {}
+
+
 
 for park in parksProperties.iterrows():
 	ID = park[1][8]
