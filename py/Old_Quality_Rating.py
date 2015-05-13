@@ -9,7 +9,7 @@ zipPass = {}
 
 for park in parksProperties.iterrows():
 	ID = park[1][8]
-    zipCode = park[1][23]
+	zipCode = park[1][23]
 	zipCodeFive = zipCode[:5]
 	if zipPass.get(zipCodeFive) == None:
 		zipPass[zipCodeFive] = {'Failed':0, 'Count':0}
@@ -19,3 +19,6 @@ for park in parksProperties.iterrows():
 	    passI = feature[1][7]
 	    if parkID == ID:
 	    	if passI == 
+
+filePath = Read_Files(sys.argv[1])
+filePath2 = Read_Files(sys.argv[2])
