@@ -17,8 +17,11 @@ for park in parksProperties.iterrows():
 	    parkID = feature[1][0]
 	    year = feature[1][6]
 	    passI = feature[1][7]
-	    if parkID == ID:
-	    	if passI == 
+	    if year = "2014"
+	    	if parkID == ID:
+		    	if passI <> "A":
+		    		zipPass[zipCodeFive]['Failed']+=1
+		    	zipPass[zipCodeFive]['Count']+=1
 
 filePath = Read_Files(sys.argv[1])
 filePath2 = Read_Files(sys.argv[2])
