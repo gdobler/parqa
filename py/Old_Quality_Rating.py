@@ -27,4 +27,8 @@ for park in parksProperties.iterrows():
 		    		zipPass[zipCodeFive]['Failed']+=1
 		    	zipPass[zipCodeFive]['Count']+=1
 
-
+  with open('../Outputs/Park_Quality_Ratings/ParkOldRating.csv', 'wb') as csvfile:
+    spamwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+    spamwriter.writerow(['ZipCode','Failed','Count'])
+    for i in zipPass:
+        spamwriter.writerow([i,zipPass[i[0]],zipPass[i[1]]])
