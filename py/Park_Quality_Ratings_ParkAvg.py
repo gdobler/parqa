@@ -125,7 +125,7 @@ if __name__ == '__main__':
     fopen.close()
 
   # Call Average Ratio with all Categories
-  Park2010Ratios = AvgRatio([2010])
+  Park2010Ratios = AvgRatio([2014])
   print Park2010Ratios
   print len(Park2010Ratios)
 
