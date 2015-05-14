@@ -35,8 +35,4 @@ ffrac = inspection.groupby('Prop ID')[['Overall Condition','ZIPCODE']].min() \
                            .reset_index()
                            
 #Write to csv
-with open('../Outputs/Park_Quality_Ratings/ZipParkFrac.csv', 'wb') as csvfile:
-                                     spamwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
-                                     spamwriter.writerow(['ZIPCODE','Overall Condition'])
-                                     for i in ffrac:
-                                                                          spamwriter.writerow([i,ffrac[i]])
+ffrac.to_csv('../Outputs/Park_Quality_Ratings/ZipFracRating.csv', sep=' ')
