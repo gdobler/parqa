@@ -12,7 +12,7 @@ import geopandas as gp
 # Global Dictionarys
 parkInfo = {}
 Inspections = {}
-filePath = sys.argv[2]
+
 
 # DAT File
 datFile = 'parkInfo.pkl'
@@ -91,6 +91,7 @@ def Build_Structures(filePath):
 
 
 def AvgRatio(yearQueryList):
+  filePath = sys.argv[2]
   AverageRatio = {}
   for parkName, parkData in parkInfo.items():
     count = 0
