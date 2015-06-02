@@ -102,8 +102,8 @@ def AvgRatio(yearQueryList):
         AverageRatio[parkName] = (ratioSum/count)
       else:
         AverageRatio[parkName] = (AverageRatio[parkName]+(ratioSum/count))/2
-  return AverageRatio
   print AverageRatio
+  return AverageRatio
 
 
 
