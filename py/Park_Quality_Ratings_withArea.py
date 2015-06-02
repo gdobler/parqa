@@ -147,7 +147,7 @@ if __name__ == '__main__':
         
   #print AreaRatio
   #print len(AreaRatio)
-
+'''
   parksProperties = gp.GeoDataFrame.from_file(filePath+"Property.shp")
 
 # -- pull off only first zip in list (if there are multiple)
@@ -165,3 +165,4 @@ if __name__ == '__main__':
                            
 #Write to csv
   ffrac.to_csv('../Outputs/Park_Quality_Ratings/ZipFracRatingArea.csv', sep=' ')
+  '''''
