@@ -12,6 +12,7 @@ import geopandas as gp
 # Global Dictionarys
 parkInfo = {}
 Inspections = {}
+filePath = sys.argv[2]
 
 # DAT File
 datFile = 'parkInfo.pkl'
