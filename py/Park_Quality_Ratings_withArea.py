@@ -123,10 +123,10 @@ if __name__ == '__main__':
     parkInfo = pkl.load(fopen)
     fopen.close()
     
- # Call Average Ratio with all Categories and generate quality score with Area
+  # Call Average Ratio with all Categories and generate quality score with Area
   Park2010Ratios = AvgRatio([2014])
   for key,value in Park2010Ratios.iteritems():
-    if key == parkID in parkInfo:
+    if key == parkInfo[parkID]:
       quality =  (value*(parkInfo[parkID]['Acres']))
       categegory = parkInfo[parkID]['Category']
       print quality
