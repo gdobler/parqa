@@ -131,11 +131,10 @@ if __name__ == '__main__':
       if key == parkName:
             quality =  (value*(parkData['Acres']))
             category = parkData['Category']
-            if parkName not in AverageRatio:
+            if parkName not in AreaRatio:
               AreaRatio[parkName] = quality, category
             else:
               pass
   print AreaRatio
   print len(AreaRatio)
-
             
