@@ -124,12 +124,18 @@ if __name__ == '__main__':
     fopen.close()
     
   # Call Average Ratio with all Categories and generate quality score with Area
+  AreaRatio = {}
   Park2010Ratios = AvgRatio([2014])
   for key,value in Park2010Ratios.iteritems():
     for parkName, parkData in parkInfo.items():
       if key == parkName:
             quality =  (value*(parkData['Acres']))
             category = parkData['Category']
-            print quality
-            print category
-            print len(category)
+            if parkName not in AverageRatio:
+              AreaRatio[parkName] = quality, category
+            else:
+              pass
+  print AreaRatio
+  print len(AreaRatio)
+
+            
