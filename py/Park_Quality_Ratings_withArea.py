@@ -124,7 +124,8 @@ if __name__ == '__main__':
     parkInfo = pkl.load(fopen)
     fopen.close()
 
-  # Call Average Ratio with all Categories
+  # Call Average Ratio with all Categories and generate quality score with Area
   Park2010Ratios = AvgRatio([2014])
-  for i in Park2010Ratios:
-    print i
+  for key,value in Park2010Ratios:
+    quality =  (value*acres)
+    print quality
