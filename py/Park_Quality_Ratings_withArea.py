@@ -128,6 +128,7 @@ if __name__ == '__main__':
     
   # Call Average Ratio with all Categories and generate quality score with Area
   AreaRatio = {}
+  filePath = sys.argv[2]
   Park2010Ratios = AvgRatio([2014])
   for key,value in Park2010Ratios.iteritems():
     for parkName, parkData in parkInfo.items():
@@ -141,7 +142,7 @@ if __name__ == '__main__':
   print AreaRatio
   print len(AreaRatio)
   
-  parksProperties = gp.GeoDataFrame.from_file(filePath+"Property.shp")
+parksProperties = gp.GeoDataFrame.from_file(filePath+"Property.shp")
 
 # -- pull off only first zip in list (if there are multiple)
 parksProperties.ZIPCODE = parksProperties.ZIPCODE.apply(lambda x: x[:5])
