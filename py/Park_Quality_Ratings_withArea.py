@@ -128,6 +128,6 @@ if __name__ == '__main__':
   for key,value in Park2010Ratios.iteritems():
     for parkName, parkData in parkInfo.items():
       if key == parkName:
-      quality =  (value*(parkInfo[parkID]['Acres']))
-      categegory = parkInfo[parkID]['Category']
-      print quality
+            quality =  (value*(parkInfo[parkID]['Acres']))
+            categegory = parkInfo[parkID]['Category']
+            print quality
