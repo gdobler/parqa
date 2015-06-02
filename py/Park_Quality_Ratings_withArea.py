@@ -139,11 +139,11 @@ if __name__ == '__main__':
               AreaRatio[parkName] = quality, category
             else:
               pass
-      if key == "u'M108G":
-        print parkName
-        print quality
-        print value
-        print parkData['Acres']
+        if key == "u'M108G":
+          print parkName
+          print quality
+          print value
+          print parkData['Acres']
         
   #print AreaRatio
   #print len(AreaRatio)
