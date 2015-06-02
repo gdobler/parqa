@@ -8,7 +8,7 @@ import pickle as pkl
 import os
 import csv
 
- Global Dictionarys
+# Global Dictionarys
 parkInfo = {}
 Inspections = {}
 
