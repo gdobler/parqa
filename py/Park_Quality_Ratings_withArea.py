@@ -129,5 +129,6 @@ if __name__ == '__main__':
     for parkName, parkData in parkInfo.items():
       if key == parkName:
             quality =  (value*(parkData['Acres']))
-            categegory = parkData['Category']
+            category = parkData['Category']
             print quality
+            print category
