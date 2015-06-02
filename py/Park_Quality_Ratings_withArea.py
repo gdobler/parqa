@@ -7,6 +7,7 @@ import datetime
 import pickle as pkl
 import os
 import csv
+import geopandas as gp
 
 # Global Dictionarys
 parkInfo = {}
