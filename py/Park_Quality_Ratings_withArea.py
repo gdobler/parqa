@@ -137,4 +137,22 @@ if __name__ == '__main__':
               pass
   print AreaRatio
   print len(AreaRatio)
-            
+  
+  parksProperties = gp.GeoDataFrame.from_file(filePath+"Property.shp")
+
+# -- pull off only first zip in list (if there are multiple)
+parksProperties.ZIPCODE = parksProperties.ZIPCODE.apply(lambda x: x[:5])
+
+# -- tack zip onto inspection data
+AreaRatio = pd.merge(AreaRatio[AreaRatio['Date'] \
+                                     .apply(lambda x: x.year)==2014],
+                      parksProperties[['GISPROPNUM','ZIPCODE']],
+                      left_on='Prop ID', right_on='GISPROPNUM')
+
+ffrac = inspection.groupby('Prop ID')[['Overall Condition','ZIPCODE']].min() \
+                           .groupby('ZIPCODE')['Overall Condition'] \
+                           .apply(lambda x: (x==0).sum()/float(x.size)) \
+                           .reset_index()
+                           
+#Write to csv
+ffrac.to_csv('../Outputs/Park_Quality_Ratings/ZipFracRatingArea.csv', sep=' ')
