@@ -132,4 +132,4 @@ if __name__ == '__main__':
             category = parkData['Category']
             print quality
             print category
-            print len(quality)
+            print len(category)
