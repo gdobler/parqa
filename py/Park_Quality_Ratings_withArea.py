@@ -7,10 +7,12 @@ import datetime
 import pickle as pkl
 import os
 import csv
+import geopandas as gp
 
 # Global Dictionarys
 parkInfo = {}
 Inspections = {}
+
 
 # DAT File
 datFile = 'parkInfo.pkl'
@@ -89,6 +91,7 @@ def Build_Structures(filePath):
 
 
 def AvgRatio(yearQueryList):
+  filePath = sys.argv[2]
   AverageRatio = {}
   for parkName, parkData in parkInfo.items():
     count = 0
@@ -103,7 +106,6 @@ def AvgRatio(yearQueryList):
       else:
         AverageRatio[parkName] = (AverageRatio[parkName]+(ratioSum/count))/2
   return AverageRatio
-
 
 
 if __name__ == '__main__':
@@ -123,23 +125,45 @@ if __name__ == '__main__':
     fopen = open(datFilePath + datFile, 'rb')
     parkInfo = pkl.load(fopen)
     fopen.close()
-
-  # Call Average Ratio with all Categories
+    
+  # Call Average Ratio with all Categories and generate quality score with Area
+  AreaRatio = {}
+  filePath = sys.argv[2]
   Park2010Ratios = AvgRatio([2014])
-  print Park2010Ratios
-  print len(Park2010Ratios)
+  for key,value in Park2010Ratios.iteritems():
+    for parkName, parkData in parkInfo.items():
+      if key == parkName:
+            quality =  (value*(parkData['Acres']))
+            category = parkData['Category']
+            if parkName not in AreaRatio:
+              AreaRatio[parkName] = quality, category
+            else:
+              pass
+            if key == "u'M108G":
+              print "yes"
+              print parkName
+              print quality
+              print value
+              print parkData['Acres']
+        
+  #print AreaRatio
+  #print len(AreaRatio)
+'''
+  parksProperties = gp.GeoDataFrame.from_file(filePath+"Property.shp")
 
+# -- pull off only first zip in list (if there are multiple)
+  parksProperties.ZIPCODE = parksProperties.ZIPCODE.apply(lambda x: x[:5])
 
-  with open('../Outputs/Park_Quality_Ratings/ParkAvgRating.csv', 'wb') as csvfile:
-    spamwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
-    spamwriter.writerow(['Park ID','AverageRating'])
-    for i in Park2010Ratios:
-        spamwriter.writerow([i,Park2010Ratios[i]])
+# -- tack zip onto inspection data
+  AreaRatio = pd.merge(AreaRatio,
+                      parksProperties[['GISPROPNUM','ZIPCODE']],
+                      left_on='Prop ID', right_on='GISPROPNUM')
 
-  # with open('../Outputs/Park_Quality_Ratings/ParkAvgRating.csv', 'wb') as f:
-  #   w = csv.DictWriter(f, Park2010Ratios.keys())
-  #   w.writeheader()
-  #   w.writerow(Park2010Ratios)
-
-
-
+  ffrac = inspection.groupby('Prop ID')[['Overall Condition','ZIPCODE']].min() \
+                           .groupby('ZIPCODE')['Overall Condition'] \
+                           .apply(lambda x: (x==0).sum()/float(x.size)) \
+                           .reset_index()
+                           
+#Write to csv
+  ffrac.to_csv('../Outputs/Park_Quality_Ratings/ZipFracRatingArea.csv', sep=' ')
+  '''''
