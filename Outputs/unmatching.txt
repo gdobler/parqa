@@ -1,0 +1,60 @@
+Inspection IDs found in PIP_InspectionsMain but not PIP_FeatureRatings:
+77616
+77615
+75195
+74363
+72290
+71823
+71822
+71821
+71621
+71617
+71616
+71614
+71132
+65988
+37191
+30889
+28541
+Total: 17
+
+# -------- 
+
+Prop IDs found in PIP_InspectionMain but not PIP_ALLSITES:
+M276
+M108B
+Total: 2
+
+# -------- 
+
+Non-Greenstreet Prop IDs in InspectionsMain not found as GISPROPNUMs in Property.shp:
+B233D11
+QZ40
+BZ01
+QZ43
+QZ42
+BZ04
+Q066A
+QZ28
+B120
+X095o
+QZ83
+R051
+X013o
+QZ18
+Q372
+BZ10
+M100
+X149A
+QZ11
+QZ16
+QZ17
+M030B
+M030A
+QZ97
+QZ95
+QZ105
+Total : 26
+
+# -------- 
+
