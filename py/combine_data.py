@@ -3,6 +3,9 @@ import numpy as np
 import pandas as pd
 import geopandas as gp
 
+# -- initialize the output
+fopen = open('../Outputs/unmatching.txt','w')
+
 # -- read the inspection files
 try:
     inspec
@@ -14,8 +17,7 @@ except:
 
 
 # -- create the base ID column
-inspec['PID_base'] = [i.split('-')[0].replace('Z','') 
-                      for i in inspec['Prop ID']]
+inspec['PID_base'] = [i.split('-')[0] for i in inspec['Prop ID']]
 
 
 # -- read the full features file
@@ -23,11 +25,19 @@ featrat = pd.read_csv('../Outputs/transforms/PIP_FeatureRatings_transform.csv')
 
 
 # -- check features file
-check_FEATRAT = False
+check_FEATRAT = True
 if check_FEATRAT:
+    cnt = 0
+    fopen.write('Inspection IDs found in PIP_InspectionsMain but not '
+          'PIP_FeatureRatings:\n')
     for ii,iid in enumerate(inspec['Inspection ID']):
         if iid not in featrat['Inspection ID'].values:
-            print("couldn't find {0} : {1}".format(ii,iid))
+#            print("couldn't find {0} : {1}".format(ii,iid))
+            cnt +=1
+            fopen.write("{0}\n".format(iid))
+    fopen.write('Total: {0}\n'.format(cnt))
+
+    fopen.write('\n# -------- \n\n')
 
 
 # -- combine inspections with detailed features
@@ -45,17 +55,23 @@ except:
 
 
 # -- check if there are inspected parks that aren't in allsites
-check_ALLSITES = False
+check_ALLSITES = True
 if check_ALLSITES:
-    print("checking allsites file...")
+#    print("checking allsites file...")
+    fopen.write("Prop IDs found in PIP_InspectionMain but not PIP_ALLSITES:\n")
+    cnt = 0
+    missing = []
     for ii,pid in enumerate(inspec['Prop ID']):
-        flag = True
-        for asid in allsites['Prop ID']:
-            if pid==asid:
-                flag = False
-                break
-        if flag:
-            print("couldn't find {0} : {1}".format(ii,pid))
+        if pid not in allsites['Prop ID'].values:
+#            print("couldn't find {0} : {1}".format(ii,pid))
+            cnt += 1
+            missing.append(pid)
+    missing = set(missing)
+    for miss in missing:
+        fopen.write("{0}\n".format(miss))
+    fopen.write('Total: {0}\n'.format(len(missing)))
+
+    fopen.write('\n# -------- \n\n')
 
 
 # -- merge ALLSITES Category with the inspection data
@@ -82,29 +98,25 @@ except:
 # -- check properties
 check_PROP = True
 if check_PROP:
-    print("checking properties file...")
-    pid_bad = []
-    pid_bad_ii = []
+    fopen.write("Non-Greenstreet Prop IDs in InspectionsMain not found as " 
+                "GISPROPNUMs in Property.shp:\n")
+    cnt = 0
+    missing = []
     for ii,pid in enumerate(inspec['PID_base']):
-        flag = True
-        for gpn in prop.GISPROPNUM:
-            if pid==gpn:
-                flag = False
-                break
-        if flag:
-            if pid not in pid_bad:
-                pid_bad_ii.append(ii)
-                pid_bad.append(pid)
-            print("couldn't find {0} : {1}".format(ii,pid))
+        if pid not in prop.GISPROPNUM.values:
+            missing.append(pid)
+            cnt += 1
+    missing = set(missing)
+    for miss in missing:
+        fopen.write("{0}\n".format(miss))
+    fopen.write('Total : {0}\n'.format(len(missing)))
 
-    for ii in range(len(pid_bad_ii)):
-        subcat = allsites.iloc[allsites[allsites['Prop ID'] == \
-                                inspec.iloc[pid_bad_ii[ii]]['Prop ID']] \
-                                .index[0]]['Sub-Category']
-        print("{0:8} : {1}" \
-                  .format(inspec.iloc[pid_bad_ii[ii]]['Prop ID'],subcat))
+    fopen.write('\n# -------- \n\n')
 
 
 # -- merge the inspection and properties information
 inspec = pd.merge(inspec, prop, 'left', left_on='PID_base', 
                   right_on='GISPROPNUM')
+
+
+fopen.close()
