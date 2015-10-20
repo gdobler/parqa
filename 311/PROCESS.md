@@ -40,8 +40,10 @@ As in total only ~30% of park calls are geolocated, I started to work on parks o
 
 - open calls
 - open parks_computed (with PDistrict column added)
-- matched calls vs parks <- ~30 000 have no match
+- matched calls vs parks <- ~ 4000 have no direct match
 - saved unrecognised names into **311_unrecoginsed_parks.csv**
+- saved ontology (outer match) as **data/park_ontology.csv**
+- quite a lot of parks can be matched by hand (OpenRefine) OR using **[fuzzywussy](https://github.com/seatgeek/fuzzywuzzy)** - this is next TODO
 
 TODO: locate each call by district
 TODO: total park complains per District
