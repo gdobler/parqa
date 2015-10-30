@@ -3,6 +3,7 @@ PARKS_OPEN_DATA
 
 - [Parks boundaries](https://data.cityofnewyork.us/City-Government/Parks-Properties/rjaj-zgq7)
 - [Playgrounds](https://data.cityofnewyork.us/Environment/Directory-of-Playgrounds/59gn-q4ai)
+- [SchoolYards to playgrounds](https://data.cityofnewyork.us/City-Government/Schoolyards-To-Playgrounds/urxm-vzzk)
 - [Park Crime data](https://data.cityofnewyork.us/Public-Safety/NYC-Park-Crime-Data/ezds-sqp6)
 - [Wi-Fi in parks, NYC](https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-in-the-Parks/wus9-98d5)
 - [Community Parks Initiative Zone Boundaries](https://data.cityofnewyork.us/City-Government/Community-Parks-Initiative-Zone-Boundaries/vvdx-b56i)
