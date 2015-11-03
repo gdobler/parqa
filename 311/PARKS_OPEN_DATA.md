@@ -7,6 +7,7 @@ PARKS_OPEN_DATA
 - [DPR beaches](https://nycopendata.socrata.com/Recreation/Directory-of-Beaches/zyf6-z3xt)
 - [DPR pools](https://nycopendata.socrata.com/Recreation/Directory-of-Swimming-Pools/x57r-az25)
 - [DPR golf courses](https://data.cityofnewyork.us/City-Government/Golf-Courses/rjqi-t95z)
+- [DPR recreation centers](https://nycopendata.socrata.com/Housing-Development/Directory-of-Recreation-Centers/ydj7-rk56)
 - [Park Crime data](https://data.cityofnewyork.us/Public-Safety/NYC-Park-Crime-Data/ezds-sqp6)
 - [Wi-Fi in parks, NYC](https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-in-the-Parks/wus9-98d5)
 - [Community Parks Initiative Zone Boundaries](https://data.cityofnewyork.us/City-Government/Community-Parks-Initiative-Zone-Boundaries/vvdx-b56i)
