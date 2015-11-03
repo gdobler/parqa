@@ -1,16 +1,18 @@
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
 
-# coding: utf-8
+# collect time series per district for PIP quality scores 
+# from path of output data
 
-# In[19]:
+# Philipp Kats, pbk236@nyu.edu
+# october 2015
+
+# script requires PARQA alias
 
 import pandas as pd
 import os
-get_ipython().magic(u'matplotlib inline')
 
 PARQA = os.getenv('PARQA')
-
-
-# In[15]:
 
 
 def getAllFiles(path, frmt=None, full=False):
@@ -30,25 +32,16 @@ def getAllFiles(path, frmt=None, full=False):
     else:
         return fs
 
-path = PARQA + 'data/PIP_TIMESERIES/11-01-2015'
-scores = [x for x in getAllFiles(path,'.csv', False) if 'SpatialAggregated' in x]
 
+def main():
+    path = PARQA + 'data/PIP_TIMESERIES/11-01-2015'
 
-# In[16]:
+    # path to all files
+    scores = [x for x in getAllFiles(path,'.csv', False) if 'SpatialAggregated' in x]
 
-df = pd.DataFrame({score.split('/')[-4]:pd.read_csv(score, index_col='District')['Amenities & Area Normalized Score'] for score in scores})
-df.head(4)
+    df = pd.DataFrame({score.split('/')[-4]:pd.read_csv(score, index_col='District')['Amenities & Area Normalized Score'] for score in scores})
+    df.to_csv(PARQA + 'data/PIP_Districts_timeseries.csv')
 
-
-# In[26]:
-
-df.transpose().plot(kind='line', 
-                    figsize=(18,8), 
-                    alpha=.6, 
-                    title='Park District scores, normalised by area and amenities');
-
-
-# In[17]:
-
-df.to_csv(PARQA + 'data/PIP_Districts_timeseries.csv')
+if __name__ == '__main__':
+    main()
 
