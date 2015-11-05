@@ -10,8 +10,8 @@ though it is not. Half of the names are either fuzzy, unoficcial, outdated, or, 
 - [X] All **Facility Name** values vere deduped, unique values were saved as a left part of ontlogy (ontology in this case is marely key:value table)
 - [X] On the other hand, park properties datasets were collected. Due to specifics of 311 calls, I had to collect all different types of properties frop open sources, such as **recreation centers, school playgrounds, golf courses, playgrounds, parks, beaches, pools** (links to be defined). 
 - [X] Each dataset was parsed (most of them available as XML, few (recreation centers and golf courses) were geocoded using google API and checked manually. 
-- [X] Again, each dataset was spatially joined (using their centroids) with Park District boundaries. [Notebooks](311/ONTOLOGY/wrangling_DPR/dpr_add_parkDistrict/)
-- [X] Then, list of unique 311 locations (left part of ontology) was checked against names in datasets in several steps [Notebook](311/ONTOLOGY/Ontology2.0.ipynb):
+- [X] Again, each dataset was spatially joined (using their centroids) with Park District boundaries. [Notebooks](wrangling_DPR/dpr_add_parkDistrict/)
+- [X] Then, list of unique 311 locations (left part of ontology) was checked against names in datasets in several steps [Notebook](Ontology2.0.ipynb):
 	- 100% matching agains parks
 	- impirical matching (dictionary, defined in process, helps to solve most popular ones, for example, all calls with "central park" in location automatically match "central park" location)
 	- all names with "pool" in the location are matched against pools dataset (here and below I start using FUZZYWUZZY module for fuzzy matching. Module helps to find a best candidate from list provided)
@@ -23,7 +23,6 @@ though it is not. Half of the names are either fuzzy, unoficcial, outdated, or, 
 	- all other names were matched against parks dataset
 	here sequense was defined imirically and matters, as a lot of properties have overlapping names. This approach helped to recognize with 100% accuracy about 85% of calls. As a result, right part of the ontolgy was formed, including "correct" name, dataset (parks or pools, for example), and matching ratio (from 0 to 100%).
 - [X] All ontology then was checked manually. during the check, almost 100% of the dataset was recognized (apart of few unrecognizable names). Also, code (Ontology) was updated to improve it perfomance for future usage.
-- [ ] Using ontology, each call was matched to specific DPR property and therefore park district.
-- [ ] Matched by park district, calls timeseries for each park district were formed
+- [X] Using ontology, each call was matched to specific DPR property and therefore park district.
 
 
