@@ -23,6 +23,8 @@ though it is not. Half of the names are either fuzzy, unoficcial, outdated, or, 
 	- all other names were matched against parks dataset
 	here sequense was defined imirically and matters, as a lot of properties have overlapping names. This approach helped to recognize with 100% accuracy about 85% of calls. As a result, right part of the ontolgy was formed, including "correct" name, dataset (parks or pools, for example), and matching ratio (from 0 to 100%).
 - [X] All ontology then was checked manually (using Open Refine). during the check, almost 100% of the dataset was recognized (apart of few unrecognizable names). Also, code (Ontology) was updated to improve it perfomance for future usage.
-- [X] Using ontology, each call was matched to specific DPR property and therefore park district.
+- [x] All data (mainly,geolocation and Park District ID) was added to ontology (right side). Several missing pD IDs (mainly for riverside parks) were handled manually
+- [X] Using ontology, each call was matched to specific DPR property and therefore park district and geolocation.
+
 
 

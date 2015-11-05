@@ -1,0 +1,1679 @@
+Park Facility Name,Borough,cleanName,code,NAME,Type,match,ratio,valid
+Geo Soilan Park - Battery Park City,MANHATTAN,geo soilan park - battery park city,M,battery park city,other,"(battery park city, 90)",90,av
+Brookville Park,QUEENS,brookville park,Q,brookville park,park_direct,,,av
+Highland Park,BROOKLYN,highland park,B,highland park,park_direct,,,av
+Highland Park,BROOKLYN,highland park,B,highland park,park_direct,,,av
+Prospect Park - East Parade Grounds,BROOKLYN,prospect park - east parade grounds,B,prospect park,empiric,,,av
+Central Park - East 96th Street Playground,MANHATTAN,central park - east 96th street playground,M,central park,empiric,,,av
+Washington Hall Park,BROOKLYN,washington hall park,B,washington hall park,park_direct,,,av
+Callahan-Kelly Playground,BROOKLYN,callahan-kelly playground,B,callahan-kelly playground,park_direct,,,av
+William H Seward Park,MANHATTAN,william h seward park,M,seward park,other,"(park, 90)",90,v
+Col David Marcus Playground,BROOKLYN,col david marcus playground,B,col david marcus mem playground,pgs,"(Col David Marcus Mem Playground, 95)",95,av
+Mckinley Park,BROOKLYN,mckinley park,B,mckinley park,park_direct,,,av
+Dean Playground,BROOKLYN,dean playground,B,dean playground,park_direct,,,av
+Martinez Playground,BROOKLYN,martinez playground,B,martinez playground,park_direct,,,av
+Mccarren Park - Vincent V Abate Playground,BROOKLYN,mccarren park - vincent v abate playground,B,vincent v abate playground,pgs,"(Vincent V Abate Playground, 90)",90,av
+Doughboy Plaza,QUEENS,doughboy plaza,Q,doughboy plaza,park_direct,,,av
+Carroll Park,BROOKLYN,carroll park,B,carroll park,park_direct,,,av
+Forest Park - Giovannelli Playground,QUEENS,forest park - giovannelli playground,Q,forest park,empiric,,,av
+Triborough Bridge Playground B,QUEENS,triborough bridge playground b,Q,triborough bridge playground b,park_direct,,,av
+St Catherine's Park,MANHATTAN,st catherine's park,M,st. catherine's park,other,"(st. catherine's park, 97)",97,av
+Greene Playground,BROOKLYN,greene playground,B,greene playground,park_direct,,,av
+Brizzi Playground,BROOKLYN,brizzi playground,B,brizzi playground,park_direct,,,av
+Dongan Playground,STATEN ISLAND,dongan playground,R,dongan playground,park_direct,,,av
+Mafera Park,QUEENS,mafera park,Q,mafera park,park_direct,,,av
+Bedford Playground,BROOKLYN,bedford playground,B,bedford playground,park_direct,,,av
+Harold L Ickes Playground,BROOKLYN,harold l ickes playground,B,harold ickes playground,pgs,"(Harold Ickes Playground, 96)",96,av
+Sedgwick Playground,BRONX,sedgwick playground,X,sedgwick playground,park_direct,,,av
+Central Park,MANHATTAN,central park,M,central park,park_direct,,,av
+Hoover Manton Playground,QUEENS,hoover manton playground,Q,manton playground,pgs,"(Manton Playground, 95)",95,av
+Ewen Park,BRONX,ewen park,X,ewen park,park_direct,,,av
+Abingdon Square,MANHATTAN,abingdon square,M,abingdon square,park_direct,,,av
+Mccarren Park,BROOKLYN,mccarren park,B,mccarren park,park_direct,,,av
+Carl Schurz Park,MANHATTAN,carl schurz park,M,carl schurz park,park_direct,,,av
+Sunset Park,BROOKLYN,sunset park,B,sunset park,park_direct,,,av
+Emerald Playground - PS 200,QUEENS,emerald playground - ps 200,Q,emerald playground,pgs,"(Playground, 90)",90,v
+Roberto Clemente Ballfield,BROOKLYN,roberto clemente ballfield,B,roberto clemente ballfield,park_direct,,,av
+Louis J Valentino Jr Park and Pier,BROOKLYN,louis j valentino jr park and pier,B,valentino pier,other,"(queensbridge park, 85)",85,v
+Doctor Gertrude B Kelly Playground,MANHATTAN,doctor gertrude b kelly playground,M,dr gertrude b kelly playground,pgs,"(Dr Gertrude B Kelly Playground, 94)",94,av
+Prospect Park - Grand Army Plaza,BROOKLYN,prospect park - grand army plaza,B,prospect park,empiric,,,av
+Bryant Park,MANHATTAN,bryant park,M,bryant park,park_direct,,,av
+South Oxford Park,BROOKLYN,south oxford park,B,south oxford park,park_direct,,,av
+Marcy Park South,BROOKLYN,marcy park south,B,marcy park south,park_direct,,,av
+Leif Ericson Park,BROOKLYN,leif ericson park,B,leif ericson park,park_direct,,,av
+Hoffman Park,QUEENS,hoffman park,Q,hoffman park,park_direct,,,av
+Hells Kitchen Park,MANHATTAN,hells kitchen park,M,hell's kitchen park,other,"(hell's kitchen park, 97)",97,av
+Mt Prospect Park,BROOKLYN,mt prospect park,B,prospect park,empiric,,,av
+Brooklyn Civic Center Parks,BROOKLYN,brooklyn civic center parks,B,park,other,"(park, 90)",90,?
+May Matthews Playground,MANHATTAN,may matthews playground,M,may matthews playground,pgs,"(May Matthews Playground, 100)",100,av
+Cuyler Gore Playground,BROOKLYN,cuyler gore playground,B,cuyler gore,pgs,"(Cuyler Gore, 90)",90,av
+Chelsea Park,MANHATTAN,chelsea park,M,chelsea park,park_direct,,,av
+Minetta Playground,MANHATTAN,minetta playground,M,minetta playground,park_direct,,,av
+Frontera Park,QUEENS,frontera park,Q,frontera park,park_direct,,,av
+J J Byrne Memorial Park,BROOKLYN,j j byrne memorial park,B,police officer edward byrne park,other,"(park, 90)",90,v
+Terrapin Playground - JHS 51,BROOKLYN,terrapin playground - jhs 51,B,terrapin playground,pgs,"(Terrapin Playground, 95)",95,av
+Jamaica Playground - PS 40,QUEENS,jamaica playground - ps 40,Q,jamaica playground (ps 40),pgs,"(Jamaica Playground (ps 40), 98)",98,av
+Robert Moses Playground,MANHATTAN,robert moses playground,M,robert moses playground,park_direct,,,av
+Hoyt Playground,QUEENS,hoyt playground,Q,hoyt playground,park_direct,,,av
+Hancock Playground,BROOKLYN,hancock playground,B,hancock playground,pgs,"(Hancock Playground, 100)",100,av
+Sherman Creek Park,MANHATTAN,sherman creek park,M,sherman creek,other,"(sherman creek, 95)",95,av
+Kolbert Park,BROOKLYN,kolbert park,B,kolbert playground,other,"(park, 90)",90,v
+Grand Army Plaza,BROOKLYN,grand army plaza,B,grand army plaza,park_direct,,,av
+Grand Army Plaza,BROOKLYN,grand army plaza,B,grand army plaza,park_direct,,,av
+Cunningham Park,QUEENS,cunningham park,Q,cunningham park,park_direct,,,av
+Isham Park,MANHATTAN,isham park,M,isham park,park_direct,,,av
+Peter's Field,QUEENS,peter's field,Q,peter's field,park_direct,,,av
+Hero Park,STATEN ISLAND,hero park,R,hero park,park_direct,,,av
+Morningside Park,MANHATTAN,morningside park,M,morningside park,park_direct,,,av
+Kissena Park,QUEENS,kissena park,Q,kissena park,park_direct,,,av
+West Playground,BROOKLYN,west playground,B,west playground,park_direct,,,av
+Bath Beach Playground,BROOKLYN,bath beach playground,B,bath beach playground,pgs,"(Bath Beach Playground, 100)",100,av
+Flushing Fields,QUEENS,flushing fields,Q,flushing fields,park_direct,,,av
+Thomas Boyland Park,BROOKLYN,thomas boyland park,B,thomas boyland park,park_direct,,,av
+Juniper Valley Park,QUEENS,juniper valley park,Q,juniper valley park,park_direct,,,av
+Thomas Jefferson Park,MANHATTAN,thomas jefferson park,M,thomas jefferson park,park_direct,,,av
+Fort Tryon Park,MANHATTAN,fort tryon park,M,fort tryon park,park_direct,,,av
+Mary O'Connor Playground,MANHATTAN,mary o'connor playground,M,mary o'connor playground,park_direct,,,av
+Queens Valley Playground - PS 164,QUEENS,queens valley playground - ps 164,Q,queens valley playground,pgs,"(Queens Valley Playground, 95)",95,av
+Sumner Playground - PS 59,BROOKLYN,sumner playground - ps 59,B,sumner playground,pgs,"(Sumner Playground, 95)",95,av
+Alice Kornegay,MANHATTAN,alice kornegay,M,alice kornegay triangle,other,"(alice kornegay triangle, 90)",90,av
+Tompkins Square Park,MANHATTAN,tompkins square park,M,tompkins square park,park_direct,,,av
+Recreation Center - Thomas Jefferson,MANHATTAN,recreation center - thomas jefferson,M,thomas jefferson park,other,"(red hook recreation area, 85)",85,v
+Coffey Park,BROOKLYN,coffey park,B,coffey park,park_direct,,,av
+Beanstalk Playground,BRONX,beanstalk playground,X,beanstalk playground,park_direct,,,av
+Riverside Park - Claremont Playground,MANHATTAN,riverside park - claremont playground,M,claremont,pgs,"(Claremont, 90)",90,av
+Hillside Park - JHS 172,QUEENS,hillside park - jhs 172,Q,hillside park,other,"(park, 90)",90,v
+Evergreen Park,STATEN ISLAND,evergreen park,R,evergreen park,park_direct,,,av
+Crotona Park,BRONX,crotona park,X,crotona park,park_direct,,,av
+Prospect Park,BROOKLYN,prospect park,B,prospect park,park_direct,,,av
+Prospect Park - Harmony Playground,BROOKLYN,prospect park - harmony playground,B,prospect park,empiric,,,av
+Prospect Park - Lakeside Ice Skating Rink,BROOKLYN,prospect park - lakeside ice skating rink,B,prospect park,empiric,,,av
+Dugan Playground,STATEN ISLAND,dugan playground,R,dugan playground,park_direct,,,av
+Central Park - Belvedere Castle Turtle Pond and Shakespeare Garden,MANHATTAN,central park - belvedere castle turtle pond and shakespeare garden,M,central park,empiric,,,av
+Maurice Park,QUEENS,maurice park,Q,maurice a fitzgerald playground,other,"(park, 90)",90,v
+Mount Prospect Park Playground,BROOKLYN,mount prospect park playground,B,prospect park,empiric,,,av
+Tecumseh Playground,MANHATTAN,tecumseh playground,M,tecumseh playground,park_direct,,,av
+Southern Fields,QUEENS,southern fields,Q,southern fields,park_direct,,,av
+Mount Playground - PS 174,QUEENS,mount playground - ps 174,Q,mount hope playground,pgs,"(Playground, 90)",90,v
+Inwood Hill Park - Payson Playground,MANHATTAN,inwood hill park - payson playground,M,inwood hill park,empiric,,,av
+Astoria Park,QUEENS,astoria park,Q,astoria park,park_direct,,,av
+Forest Park - Victory Field,QUEENS,forest park - victory field,Q,forest park,empiric,,,av
+Fulton Park,BROOKLYN,fulton park,B,fulton park,park_direct,,,av
+Evergreen Pk - PS 68,QUEENS,evergreen pk - ps 68,Q,evergreen playground,park_direct,"(Ps/is 187, 85)",85,v
+Blue Heron Park Preserve,STATEN ISLAND,blue heron park preserve,R,blue heron park,other,"(park, 90)",90,v
+Dome Playground,BROOKLYN,dome playground,B,dome playground,park_direct,,,av
+Cadman Plaza Park,BROOKLYN,cadman plaza park,B,cadman plaza park,park_direct,,,av
+Recreation Center - Asser Levy,MANHATTAN,recreation center - asser levy,M,asser levy park,empiric,,,av
+Recreation Center - Hansborough,MANHATTAN,recreation center - hansborough,M,hansborough recreation center,other,"(hansborough recreation center, 95)",95,av
+Van Cortlandt Park,BRONX,van cortlandt park,X,van cortlandt park,park_direct,,,av
+Inwood Hill Park,MANHATTAN,inwood hill park,M,inwood hill park,park_direct,,,av
+Riverside Park - Skate Park,MANHATTAN,riverside park - skate park,M,riverside park,other,"(riverside park, 90)",90,av
+Ranaqua Park,BRONX,ranaqua park,X,ranaqua park,park_direct,,,av
+Russell Pederson Playground,BROOKLYN,russell pederson playground,B,russell pederson playground,pgs,"(Russell Pederson Playground, 100)",100,av
+Marcus Garvey Park,MANHATTAN,marcus garvey park,M,marcus garvey park,park_direct,,,av
+Sol  Bloom Playground,MANHATTAN,sol  bloom playground,M,sol bloom playground,pgs,"(Sol Bloom Playground, 98)",98,av
+Cabbell Park and Cambria Playground,QUEENS,cabbell park and cambria playground,Q,cambria playground,other,"(Playground, 90)",90,v
+Booker T Washington Playground,MANHATTAN,booker t washington playground,M,booker t washington playground,pgs,"(Booker T Washington Playground, 100)",100,av
+Flushing Meadows Corona Park,QUEENS,flushing meadows corona park,Q,flushing meadows corona park,park_direct,,,av
+Williamsbridge Oval,BRONX,williamsbridge oval,X,williamsbridge oval,park_direct,,,av
+Beach - Midland,STATEN ISLAND,beach - midland,R,midland beach and franklin d. roosevelt boardwalk,beach,"(orchard beach and promenade, 85)",85,v
+Recreation Center - Fort Hamilton Senior Center,BROOKLYN,recreation center - fort hamilton senior center,B,fort hamilton triangle,other,"(red hook recreation area, 85)",85,v
+High Line Park,MANHATTAN,high line park,M,the high line,other,"(park, 90)",80,v
+Macneil Park,QUEENS,macneil park,Q,macneil park,park_direct,,,av
+Battery Park,MANHATTAN,battery park,M,battery park,park_direct,,,av
+John J Carty Park,BROOKLYN,john j carty park,B,john j carty park,park_direct,,,av
+Crotona Park - Crotona Tennis House and Courts,BRONX,crotona park - crotona tennis house and courts,X,crotona park,empiric,,,av
+Pool - Flushing Meadows and Corona Park,QUEENS,pool - flushing meadows and corona park,Q,flushing meadows corona park,empiric,,,av
+Pelham Bay Park,BRONX,pelham bay park,X,pelham bay park,park_direct,,,av
+Midland Beach - Playland Playground,STATEN ISLAND,midland beach - playland playground,R,midland beach playground,pgs,"(Midland Beach Playground, 95)",95,av
+Aqueduct Walk,BRONX,aqueduct walk,X,aqueduct walk,park_direct,,,av
+Inwood Hill Park - Nature Center,MANHATTAN,inwood hill park - nature center,M,inwood hill park,empiric,,,av
+Pool - PS 186 Playground,QUEENS,pool - ps 186 playground,Q,ps 186 playground pool,pool,"(Playground, 90)",90,v
+Utopia Playground,QUEENS,utopia playground,Q,utopia playground,park_direct,,,av
+Dr Richard Green Playground,BROOKLYN,dr richard green playground,B,dr richard green playground,pgs,"(Dr Richard Green Playground, 100)",100,av
+East River Playground - PS 146,MANHATTAN,east river playground - ps 146,M,east river playground,pgs,"(East River Playground, 95)",95,av
+Fort Greene Park,BROOKLYN,fort greene park,B,fort greene park,park_direct,,,av
+Flushing Meadows and Corona Park - World's Fair Playground,QUEENS,flushing meadows and corona park - world's fair playground,Q,flushing meadows corona park,empiric,,,av
+Joan of Arc Park,MANHATTAN,joan of arc park,M,joan of arc park,park_direct,,,av
+Recreation Center - Red Hook,BROOKLYN,recreation center - red hook,B,red hook recreation area,other,"(recreation center 54, 87)",87,av
+Lefferts Playground,QUEENS,lefferts playground,Q,lefferts playground,park_direct,,,av
+Staten Island Greenbelt Park - Amundsen Trail,STATEN ISLAND,staten island greenbelt park - amundsen trail,R,greenbelt native plant center,empiric,,,av
+Van Cortlandt Classic Playground,BRONX,van cortlandt classic playground,X,van cortlandt park,empiric,,,av
+Pool - Metropolitan Avenue,BROOKLYN,pool - metropolitan avenue,B,metropolitan pool,pool,"(claremont pool, 85)",85,v
+Recreation Center - St. John's,BROOKLYN,recreation center - st. john's,B,st. john's recreation center,other,"(st. john's recreation center, 95)",95,av
+Prospect Park - Breeze Hill,BROOKLYN,prospect park - breeze hill,B,prospect park,empiric,,,av
+Recreation Center - Chelsea,MANHATTAN,recreation center - chelsea,M,chelsea recreation center,other,"(chelsea recreation center, 95)",95,av
+Riverside Park,MANHATTAN,riverside park,M,riverside park,park_direct,,,av
+Marine Park,BROOKLYN,marine park,B,marine park,park_direct,,,av
+Park Slope Playground,BROOKLYN,park slope playground,B,park slope playground,park_direct,,,av
+Jamie Campiz Playground,BROOKLYN,jamie campiz playground,B,jaime campiz playground,pgs,"(Jaime Campiz Playground, 96)",96,av
+Golf Course - South Shore,STATEN ISLAND,golf course - south shore,R,south shore golf course,golf,"(south shore golf course, 95)",95,av
+East River Park,MANHATTAN,east river park,M,east river esplanade,other,"(park, 90)",90,v
+Weeping Beech - Margaret I Carmen Green,QUEENS,weeping beech - margaret i carmen green,Q,margaret i. carman green - weeping beech,other,"(margaret i. carman green - weeping beech, 92)",92,av
+Central Park - Wild West Playground,MANHATTAN,central park - wild west playground,M,central park,empiric,,,av
+Prospect Park - Quaker Hill and Friends Cemetery,BROOKLYN,prospect park - quaker hill and friends cemetery,B,prospect park,empiric,,,av
+Riverside Park - River Run Playground,MANHATTAN,riverside park - river run playground,M,river run playground,pgs,"(River Run Playground, 90)",90,av
+Baruch Playground,MANHATTAN,baruch playground,M,baruch playground,park_direct,,,av
+Morton Playground,BRONX,morton playground,X,morton playground,pgs,"(Morton Playground, 100)",100,av
+Pool - St. John's Recreation Center,BROOKLYN,pool - st. john's recreation center,B,st. john's pool,pool,"(recreation center 54 pool, 89)",89,v
+Mosholu Playground - PS 8,BRONX,mosholu playground - ps 8,X,mosholu playground,other,"(Playground, 90)",90,v
+Madison Square Park,MANHATTAN,madison square park,M,madison square park,park_direct,,,av
+Washington Square Park,MANHATTAN,washington square park,M,washington square park,park_direct,,,av
+Soundview Park,BRONX,soundview park,X,soundview park,park_direct,,,av
+Bronx River Park,BRONX,bronx river park,X,bronx river parkway,other,"(bronx river parkway, 91)",91,av
+North Pacific Playground,BROOKLYN,north pacific playground,B,north pacific playground,park_direct,,,av
+Riverdale Playground - JHS 141,BRONX,riverdale playground - jhs 141,X,riverdale playground,pgs,"(Playground, 90)",90,v
+Seton Park,BRONX,seton park,X,seton park,park_direct,,,av
+Recreation Center - Brownsville,BROOKLYN,recreation center - brownsville,B,brownsville green,other,"(marcy green center, 85)",85,v
+Devoe Park,BRONX,devoe park,X,devoe park,park_direct,,,av
+Clearview Park and Golf Course,QUEENS,clearview park and golf course,Q,clearview golf course,golf,"(clearview golf course, 95)",95,av
+Forest Park,QUEENS,forest park,Q,forest park,park_direct,,,av
+Central Park - East 72nd Street Playground,MANHATTAN,central park - east 72nd street playground,M,central park,empiric,,,av
+Jackie Robinson Park - Playground One Fifty Two Clii,MANHATTAN,jackie robinson park - playground one fifty two clii,M,jackie robinson park,pgs,"(Jackie Robinson Park, 90)",90,av
+Rockaway Park,QUEENS,rockaway park,Q,rockaway community park,other,"(park, 90)",90,v
+Riverside Park - Running Track and 78th St Ballfields,MANHATTAN,riverside park - running track and 78th st ballfields,M,riverside park,other,"(riverside park, 90)",90,av
+Wright Brothers Park,MANHATTAN,wright brothers park,M,wright brothers playground,other,"(park, 90)",90,v
+Union Square Park,MANHATTAN,union square park,M,union square park,park_direct,,,av
+Rockaway Beach Boardwalk,QUEENS,rockaway beach boardwalk,Q,rockaway beach boardwalk,park_direct,,,av
+Seven Oaks,QUEENS,seven oaks,Q,seven oaks,park_direct,,,av
+Captain Tilly Playground,QUEENS,captain tilly playground,Q,captain tilly playground,pgs,"(Captain Tilly Playground, 100)",100,av
+John Jay Park,MANHATTAN,john jay park,M,john jay park,park_direct,,,av
+Pool - Brownsville Recreation Center,BROOKLYN,pool - brownsville recreation center,B,brownsville pool,pool,"(recreation center 54 pool, 89)",89,v
+Happy Warrior Playground,MANHATTAN,happy warrior playground,M,happy warrior playground,park_direct,,,av
+Bowne Park,QUEENS,bowne park,Q,bowne park,park_direct,,,av
+Albemarle Playground,BROOKLYN,albemarle playground,B,albemarle playground,park_direct,,,av
+Monsignor Mcgolrick Park,BROOKLYN,monsignor mcgolrick park,B,msgr. mcgolrick park,other,"(park, 90)",90,v
+Fort Independence Playground,BRONX,fort independence playground,X,fort independence playground,park_direct,,,av
+Oakland Gardens - PS 203,QUEENS,oakland gardens - ps 203,Q,oakland gardens,pgs,"(Ps/is 187, 85)",85,v
+Inwood Hill Park - Dyckman Fields,MANHATTAN,inwood hill park - dyckman fields,M,inwood hill park,empiric,,,av
+Brooklyn Heights Promenade,BROOKLYN,brooklyn heights promenade,B,brooklyn heights promenade,park_direct,,,av
+Railroad Playground,BROOKLYN,railroad playground,B,railroad playground,park_direct,,,av
+J Hood Wright Park,MANHATTAN,j hood wright park,M,j. hood wright park,other,"(j. hood wright park, 97)",97,av
+Fort Washington Park,MANHATTAN,fort washington park,M,fort washington park,park_direct,,,av
+Sara D Roosevelt Park,MANHATTAN,sara d roosevelt park,M,sara d. roosevelt park,other,"(sara d. roosevelt park, 98)",98,av
+Slope Park,BROOKLYN,slope park,B,slope park,park_direct,,,av
+Poppenhusen Playground,QUEENS,poppenhusen playground,Q,poppenhusen playground,park_direct,,,av
+Dry Dock Playground,MANHATTAN,dry dock playground,M,dry dock playground,park_direct,,,av
+Silver Lake Park,STATEN ISLAND,silver lake park,R,silver lake park,park_direct,,,av
+Beach - Brighton,BROOKLYN,beach - brighton,B,brighton beach,beach,"(brighton beach, 95)",95,av
+Corporal John A Seravalli Playground,MANHATTAN,corporal john a seravalli playground,M,corporal john a. seravalli playground,empiric,,,av
+Captain Mario Fajardo Park Playground,QUEENS,captain mario fajardo park playground,Q,captain mario fajardo park,pgs,"(Captain Mario Fajardo Park, 95)",95,av
+Randalls Island Park,MANHATTAN,randalls island park,M,randall's island park,other,"(randall's island park, 98)",98,av
+Highbridge Park,MANHATTAN,highbridge park,M,highbridge park,park_direct,,,av
+Highbridge Park,MANHATTAN,highbridge park,M,highbridge park,park_direct,,,av
+Franz Sigel Park,BRONX,franz sigel park,X,franz sigel park,park_direct,,,av
+Bronx Park,BRONX,bronx park,X,bronx park,park_direct,,,av
+Yellowstone Municipal Park - Katzman Playground,QUEENS,yellowstone municipal park - katzman playground,Q,yellowstone park,other,"(Playground, 90)",90,v
+Recreation Center - Hamilton Fish,MANHATTAN,recreation center - hamilton fish,M,hamilton fish park,other,"(marcy green center, 85)",85,v
+Bloomingdale Park,STATEN ISLAND,bloomingdale park,R,bloomingdale park,park_direct,,,av
+PS 198 Samuel Seabury Playground,MANHATTAN,ps 198 samuel seabury playground,M,samuel seabury playground,pgs,"(Samuel Seabury Playground, 95)",95,av
+Prospect Park - Vanderbilt Playground,BROOKLYN,prospect park - vanderbilt playground,B,prospect park,empiric,,,av
+Hillside Park - JHS 172,BROOKLYN,hillside park - jhs 172,B,hillside park,other,"(park, 90)",90,v
+St Nicholas Park,MANHATTAN,st nicholas park,M,st. nicholas park,other,"(st. nicholas park, 97)",97,av
+Macombs Dam Park,BRONX,macombs dam park,X,macombs dam park,park_direct,,,av
+Recreation Center - Jackie Robinson,MANHATTAN,recreation center - jackie robinson,M,jackie robinson community garden,other,"(marcy green center, 85)",85,v
+Rainbow Playground,BROOKLYN,rainbow playground,B,rainbow playground,park_direct,,,av
+Recreation Center - Sunset Park,BROOKLYN,recreation center - sunset park,B,sunset park,other,"(park, 90)",90,v
+Commodore Barry Park,BROOKLYN,commodore barry park,B,commodore barry park,park_direct,,,av
+Hamilton Fish Park,MANHATTAN,hamilton fish park,M,hamilton fish park,park_direct,,,av
+Dr Charles R Drew Memorial Park,QUEENS,dr charles r drew memorial park,Q,dr. charles r. drew park,other,"(dr. charles r. drew park, 95)",95,av
+Recreation Center - Metropolitan Pool and Fitness Center,BROOKLYN,recreation center - metropolitan pool and fitness center,B,metropolitan pool,pool,"(metropolitan pool, 90)",90,av
+Ocean Breeze Park,STATEN ISLAND,ocean breeze park,R,ocean breeze park,park_direct,,,av
+Prospect Park - Litchfield Villa,BROOKLYN,prospect park - litchfield villa,B,prospect park,empiric,,,av
+Rock Garden Park,BRONX,rock garden park,X,rock garden park,park_direct,,,av
+Marine Park - Salt Marsh Nature Center,BROOKLYN,marine park - salt marsh nature center,B,marine park,empiric,,,av
+Beach - Orchard,BRONX,beach - orchard,X,orchard beach and promenade,beach,"(orchard beach and promenade, 85)",85,av
+Rufus King Park,QUEENS,rufus king park,Q,rufus king park,park_direct,,,av
+Owl's Head Park,BROOKLYN,owl's head park,B,owl's head park,park_direct,,,av
+James J Walker Park,MANHATTAN,james j walker park,M,james j walker park,park_direct,,,av
+Recreation Center - Tony Dapolito,MANHATTAN,recreation center - tony dapolito,M,tony dapolito recreation center,other,"(tony dapolito recreation center, 95)",95,av
+Brevoort Playground,BROOKLYN,brevoort playground,B,brevoort playground,park_direct,,,av
+Banneker Playground,BROOKLYN,banneker playground,B,banneker playground,park_direct,,,av
+Caserta Playground,BRONX,caserta playground,X,caserta playground,park_direct,,,av
+Crispus Attucks Playground,BROOKLYN,crispus attucks playground,B,crispus attucks playground,park_direct,,,av
+Lost Battalion Hall,QUEENS,lost battalion hall,Q,lost battalion hall recreation center,other,"(lost battalion hall recreation center, 90)",90,av
+City Hall Park,MANHATTAN,city hall park,M,city hall park,park_direct,,,av
+Marcus Garvey Playground,MANHATTAN,marcus garvey playground,M,marcus garvey memorial park,pgs,"(Playground, 90)",90,v
+Forest Park - The Bandshell,QUEENS,forest park - the bandshell,Q,forest park,empiric,,,av
+Elizabeth Stroud Playground,BROOKLYN,elizabeth stroud playground,B,elizabeth stroud playground,park_direct,,,av
+Parkside Playground,BRONX,parkside playground,X,parkside playground,park_direct,,,av
+Parkside Playground,BRONX,parkside playground,X,parkside playground,park_direct,,,av
+Barretto Point Park,BRONX,barretto point park,X,barretto point park,park_direct,,,av
+Harding Park,BRONX,harding park,X,harding park,park_direct,,,av
+Rappaport Playground,BROOKLYN,rappaport playground,B,rappaport playground,park_direct,,,av
+Staten Island Greenbelt - Blood Root Valley,STATEN ISLAND,staten island greenbelt - blood root valley,R,greenbelt native plant center,empiric,,,av
+Frank D. O'Connor Playground,QUEENS,frank d. o'connor playground,Q,frank d. o'connor playground,park_direct,,,av
+C C Moore Homestead Park,QUEENS,c c moore homestead park,Q,moore homestead playground,other,"(park, 90)",90,v
+Pool - Asser Levy,MANHATTAN,pool - asser levy,M,asser levy park,empiric,,,av
+Central Park - Ancient Playground,MANHATTAN,central park - ancient playground,M,central park,empiric,,,av
+Udalls Park Preserve,QUEENS,udalls park preserve,Q,udall's park preserve,other,"(udall's park preserve, 98)",98,av
+Bealin Square and Seth Low Playground,BROOKLYN,bealin square and seth low playground,B,seth low playground,pgs,"(Seth Low Playground, 90)",90,av
+Hudson River Park,MANHATTAN,hudson river park,M,henry hudson park,other,"(park, 90)",90,v
+Forest Park - Nature Center,QUEENS,forest park - nature center,Q,forest park,empiric,,,av
+Hart Playground - 37 Avenue,QUEENS,hart playground - 37 avenue,Q,edward hart t playground,pgs,"(Playground, 90)",90,v
+Leif Ericson Drive Shore Parkway,BROOKLYN,leif ericson drive shore parkway,B,leif ericson park,other,"(park, 90)",90,v
+Murray Hill Playground - PS 22,QUEENS,murray hill playground - ps 22,Q,murray hill playground,pgs,"(Murray Hill Playground, 95)",95,av
+Arverne Playground,QUEENS,arverne playground,Q,arverne playground,park_direct,,,av
+Van Cortlandt Park - Parade Ground North,BRONX,van cortlandt park - parade ground north,X,van cortlandt park,empiric,,,av
+Seth Low Playground,BROOKLYN,seth low playground,B,seth low playground,pgs,"(Seth Low Playground, 100)",100,av
+Central Park - Bethesda Terrace,MANHATTAN,central park - bethesda terrace,M,central park,empiric,,,av
+Mcdonald Playground - Brooklyn,BROOKLYN,mcdonald playground - brooklyn,B,mcdonald playground,pgs,"(Mcdonald Playground, 90)",90,av
+Noble Playground,BRONX,noble playground,X,noble playground,park_direct,,,av
+Lincoln Terrace Park,BROOKLYN,lincoln terrace park,B,lincoln terrace / arthur s. somers park,other,"(park, 90)",90,v
+Sunners Playground,BROOKLYN,sunners playground,B,sunners playground,park_direct,,,av
+Desalvio Playground,MANHATTAN,desalvio playground,M,desalvio playground,park_direct,,,av
+South Beach Wetlands,STATEN ISLAND,south beach wetlands,R,south beach wetlands,park_direct,,,av
+Claremont Park,BRONX,claremont park,X,claremont park,park_direct,,,av
+Harvey Park,QUEENS,harvey park,Q,harvey park,park_direct,,,av
+Samuel N 2nd Bennerson Playground,MANHATTAN,samuel n 2nd bennerson playground,M,samuel n. bennerson 2nd playground,pgs,"(Samuel N. Bennerson 2nd Playground, 95)",95,av
+Samuel N. Bennerson 2nd Playground,MANHATTAN,samuel n. bennerson 2nd playground,M,samuel n. bennerson 2nd playground,park_direct,,,av
+Zimmerman Playground,BRONX,zimmerman playground,X,zimmerman playground,park_direct,,,av
+Russell Sage Playground - JHS 190,QUEENS,russell sage playground - jhs 190,Q,russell sage playground,pgs,"(Russell Sage Playground, 95)",95,av
+Van Cortlandt Park - Woodlawn Playground,BRONX,van cortlandt park - woodlawn playground,X,van cortlandt park,empiric,,,av
+Matthews Muliner Playground,BRONX,matthews muliner playground,X,matthews muliner playground,park_direct,,,av
+Lt Federico Narvaez Tot Lot,BROOKLYN,lt federico narvaez tot lot,B,lt. federico narvaez tot lot,other,"(lt. federico narvaez tot lot, 98)",98,av
+Sheepshead Playground,BROOKLYN,sheepshead playground,B,sheepshead playground,park_direct,,,av
+Stuyvesant Square,MANHATTAN,stuyvesant square,M,stuyvesant square,park_direct,,,av
+Mccaffrey Playground,MANHATTAN,mccaffrey playground,M,mccaffrey playground,park_direct,,,av
+Dyker Beach Park - Bay 8 Playground,BROOKLYN,dyker beach park - bay 8 playground,B,bay 8 playground,pgs,"(Bay 8 Playground, 90)",90,av
+Cobble Hill Park,BROOKLYN,cobble hill park,B,cobble hill park,park_direct,,,av
+Hook Creek - Field Of Dreams,QUEENS,hook creek - field of dreams,Q,hook creek park,other,"(ambrosini field, 85)",85,v
+Houston St Playground,MANHATTAN,houston st playground,M,houston st playground,pgs,"(Houston St Playground, 100)",100,av
+Rainey Park - Queens,QUEENS,rainey park - queens,Q,rainey park,other,"(park, 90)",90,v
+Great Kills Veterans Playground - PS 8,STATEN ISLAND,great kills veterans playground - ps 8,R,great kills veterans playground,pgs,"(Great Kills Veterans Playground, 95)",95,av
+Underwood Park,BROOKLYN,underwood park,B,underwood park,park_direct,,,av
+De Witt Clinton Park,MANHATTAN,de witt clinton park,M,de witt clinton park,park_direct,,,av
+Cloves Lake Park - WWII Veterans War Memorial Ice Skating Rink,STATEN ISLAND,cloves lake park - wwii veterans war memorial ice skating rink,R,clove lakes park,other,"(queensbridge park, 85)",85,v
+Fort Tryon Park - Anne Loftus Playground,MANHATTAN,fort tryon park - anne loftus playground,M,anne loftus playground,pgs,"(Anne Loftus Playground, 90)",90,av
+Homecrest Playground,BROOKLYN,homecrest playground,B,homecrest playground,park_direct,,,av
+Clove Lakes Park,STATEN ISLAND,clove lakes park,R,clove lakes park,park_direct,,,av
+Recreation Center - Roy Wilkins,QUEENS,recreation center - roy wilkins,Q,roy wilkins recreation center,other,"(roy wilkins recreation center, 95)",95,av
+Spirit Playground - PS 76,QUEENS,spirit playground - ps 76,Q,spirit playground,pgs,"(Spirit Playground, 95)",95,av
+Kaiser Park,BROOKLYN,kaiser park,B,kaiser park,park_direct,,,av
+Marine Park - PS 278 Playground,BROOKLYN,marine park - ps 278 playground,B,marine park,empiric,,,av
+The Big Park - Grandview Playground,STATEN ISLAND,the big park - grandview playground,R,grandview playground,pgs,"(Playground, 90)",90,v
+Alley Pond Park - Oakland Lake,QUEENS,alley pond park - oakland lake,Q,alley pond park,other,"(park, 90)",90,v
+Martins Field Playground,QUEENS,martins field playground,Q,martins field,pgs,"(Martins Field, 90)",90,av
+St James Park,BRONX,st james park,X,st. james park,other,"(st. james park, 96)",96,av
+Frederick Douglass Playground,MANHATTAN,frederick douglass playground,M,frederick douglass playground,park_direct,,,av
+Little Bay Park,QUEENS,little bay park,Q,little bay park,park_direct,,,av
+Yellowstone Municipal Park,QUEENS,yellowstone municipal park,Q,yellowstone park,other,"(park, 90)",90,v
+Tribeca Dog Run,MANHATTAN,tribeca dog run,M,tribeca dog run,park_direct,,,av
+Northern Playground,QUEENS,northern playground,Q,northern playground,park_direct,,,av
+Northern Playground - PS 149,QUEENS,northern playground - ps 149,Q,northern playground,pgs,"(Northern Playground, 95)",95,av
+Kissena Park - 160 St Playground,QUEENS,kissena park - 160 st playground,Q,kissena park,empiric,,,av
+Betsy Head Park,BROOKLYN,betsy head park,B,betsy head park,park_direct,,,av
+Bradys Pond Park,STATEN ISLAND,bradys pond park,R,bradys pond park,park_direct,,,av
+Recreation Center - Greenbelt,STATEN ISLAND,recreation center - greenbelt,R,greenbelt native plant center,empiric,,,av
+St Vartan Park,MANHATTAN,st vartan park,M,st. vartan park,other,"(st. vartan park, 97)",97,av
+Gilbert Ramirez Park,BROOKLYN,gilbert ramirez park,B,gilbert ramirez park,park_direct,,,av
+William F Passanante Ballfield,MANHATTAN,william f passanante ballfield,M,william f. passannante ballfield,other,"(william f. passannante ballfield, 97)",97,av
+Pool - Hansborough,MANHATTAN,pool - hansborough,M,hansborough pool,pool,"(hansborough pool, 95)",95,av
+Golf Course - Kissena,QUEENS,golf course - kissena,Q,kissena park golf course,golf,"(kissena park golf course, 95)",95,av
+Monsignor Crawford Field,BROOKLYN,monsignor crawford field,B,monsignor crawford field,park_direct,,,av
+Bennett Park,MANHATTAN,bennett park,M,bennett park,park_direct,,,av
+The Pearly Gates,BRONX,the pearly gates,X,the pearly gates,park_direct,,,av
+William Sheridan Playground,BROOKLYN,william sheridan playground,B,william sheridan playground,park_direct,,,av
+Shore Road Park,BROOKLYN,shore road park,B,belt parkway/shore parkway,other,"(park, 90)",90,v
+Joyce Kilmer Park,BRONX,joyce kilmer park,X,joyce kilmer park,park_direct,,,av
+Dr Gertrude B Kelly Playground,MANHATTAN,dr gertrude b kelly playground,M,dr gertrude b kelly playground,pgs,"(Dr Gertrude B Kelly Playground, 100)",100,av
+Maple Playground,QUEENS,maple playground,Q,maple playground,park_direct,,,av
+Asphalt Green,MANHATTAN,asphalt green,M,asphalt green,park_direct,,,av
+Crotona Park - Bathgate Playground,BRONX,crotona park - bathgate playground,X,crotona park,empiric,,,av
+Powells Cove Park,QUEENS,powells cove park,Q,powell's cove park,other,"(powell's cove park, 97)",97,av
+Prospect Park - Lookout Hill,BROOKLYN,prospect park - lookout hill,B,prospect park,empiric,,,av
+Flushing Meadows and Corona Park - Albert H. Mauro Playground,QUEENS,flushing meadows and corona park - albert h. mauro playground,Q,flushing meadows corona park,empiric,,,av
+Highbridge Park - Wallenberg Playground,MANHATTAN,highbridge park - wallenberg playground,M,wallenberg playground,pgs,"(Wallenberg Playground, 90)",90,av
+Saratoga Ballfields,BROOKLYN,saratoga ballfields,B,saratoga ballfields,park_direct,,,av
+Recreation Center - Von King Cultural Arts Center,BROOKLYN,recreation center - von king cultural arts center,B,herbert von king park,other,"(red hook recreation area, 85)",85,v
+Flushing Meadows and Corona Park - Lawrence Playground,QUEENS,flushing meadows and corona park - lawrence playground,Q,flushing meadows corona park,empiric,,,av
+Corlears Hook Park,MANHATTAN,corlears hook park,M,corlears hook park,park_direct,,,av
+Ditmars Park,QUEENS,ditmars park,Q,ditmars park,park_direct,,,av
+Dyker Heights Playground,BROOKLYN,dyker heights playground,B,dyker beach park,park_direct,"(Playground, 90)",90,v
+Dyker Beach Park,BROOKLYN,dyker beach park,B,dyker beach park,park_direct,,,av
+Central Park - Diana Ross Playground,MANHATTAN,central park - diana ross playground,M,central park,empiric,,,av
+Prospect Park - Midwood,BROOKLYN,prospect park - midwood,B,prospect park,empiric,,,av
+Seton Falls Park,BRONX,seton falls park,X,seton falls park,park_direct,,,av
+Hester St Playground,MANHATTAN,hester st playground,M,hester st playground,pgs,"(Hester St Playground, 100)",100,av
+Joseph F Mafera Park,QUEENS,joseph f mafera park,Q,mafera park,other,"(park, 90)",90,v
+London Planetree Playground,QUEENS,london planetree playground,Q,london planetree playground,park_direct,,,av
+Bensonhurst Park,BROOKLYN,bensonhurst park,B,bensonhurst park,park_direct,,,av
+Grand Ferry Park,BROOKLYN,grand ferry park,B,grand ferry park,park_direct,,,av
+Curtis Park,BROOKLYN,curtis park,B,curtis playground,other,"(park, 90)",90,v
+Clawson Playground Playground - PS 50,STATEN ISLAND,clawson playground playground - ps 50,R,clawson playground,pgs,"(Playground, 90)",90,v
+Prospect Park - Middle Long Meadow,BROOKLYN,prospect park - middle long meadow,B,prospect park,empiric,,,av
+Wagner Playground,MANHATTAN,wagner playground,M,wagner playground,park_direct,,,av
+Forest Park - Carousel,QUEENS,forest park - carousel,Q,forest park,empiric,,,av
+Benniger Playground,QUEENS,benniger playground,Q,benninger playground,pgs,"(Benninger Playground, 97)",97,av
+Dan Ross Playground,BROOKLYN,dan ross playground,B,dan ross playground,park_direct,,,av
+Sternberg Park,BROOKLYN,sternberg park,B,sternberg park,park_direct,,,av
+Gorman Memorial Park,MANHATTAN,gorman memorial park,M,gorman park,other,"(park, 90)",90,v
+Ciccarone Park,BRONX,ciccarone park,X,ciccarone park,park_direct,,,av
+St Michaels Playground,QUEENS,st michaels playground,Q,st michaels playground,pgs,"(St Michaels Playground, 100)",100,av
+Grassmere Playground,QUEENS,grassmere playground,Q,grassmere playground,park_direct,,,av
+Pool - JHS 57 and HS 26,BROOKLYN,pool - jhs 57 and hs 26,B,jhs 57/hs 26 pool,pool,"(jhs 57/hs 26 pool, 95)",95,av
+Umma Park,BROOKLYN,umma park,B,umma park,park_direct,,,av
+Astoria Park - Charybdis Playground,QUEENS,astoria park - charybdis playground,Q,charybdis playground,pgs,"(Charybdis Playground, 90)",90,av
+Cunningham Park - Redwood Playground,QUEENS,cunningham park - redwood playground,Q,redwood playground,pgs,"(Redwood Playground, 90)",90,av
+Staten Island Greenbelt Park - Willowbrook Park Natural Area,STATEN ISLAND,staten island greenbelt park - willowbrook park natural area,R,greenbelt native plant center,empiric,,,av
+Half Nelson Playground,BRONX,half nelson playground,X,half-nelson playground,pgs,"(Half-nelson Playground, 100)",100,av
+East Flatbush Childrens Park,BROOKLYN,east flatbush childrens park,B,east flatbush children's park,other,"(east flatbush children's park, 98)",98,av
+Manhattan Beach Park,BROOKLYN,manhattan beach park,B,manhattan beach park,park_direct,,,av
+Mcarthur Park,MANHATTAN,mcarthur park,M,macarthur park,other,"(macarthur park, 96)",96,av
+Beach - Manhattan,BROOKLYN,beach - manhattan,B,manhattan beach,beach,"(manhattan beach, 95)",95,av
+Recreation Center - Pelham Fritz,MANHATTAN,recreation center - pelham fritz,M,marcus garvey park,other,"(marcy green center, 85)",85,v
+Recreation Center - Recreation Center 54,MANHATTAN,recreation center - recreation center 54,M,recreation center 54,other,"(recreation center 54, 90)",90,av
+Recreation Center - Fifty-Four,MANHATTAN,recreation center - fifty-four,M,recreation center 54,other,"(marcy green center, 85)",85,v
+Newport Playground,BROOKLYN,newport playground,B,newport playground,park_direct,,,av
+Van Cortlandt Park - Healy Field and Gaelic Field,BRONX,van cortlandt park - healy field and gaelic field,X,van cortlandt park,empiric,,,av
+Recreation Center - Vic Hanson,QUEENS,recreation center - vic hanson,Q,rochdale park,other,"(marcy green center, 85)",85,v
+Queensbridge Park,QUEENS,queensbridge park,Q,queensbridge park,park_direct,,,av
+Breininger Park,QUEENS,breininger park,Q,breininger park,park_direct,,,av
+Lou Lodati Playground,QUEENS,lou lodati playground,Q,torsney playground,other,"(Playground, 90)",90,v
+Edenwald Playground,BRONX,edenwald playground,X,edenwald playground,park_direct,,,av
+Baisley Pond Park,QUEENS,baisley pond park,Q,baisley pond park,park_direct,,,av
+Van Cortlandt Park - Kelley Fields,BRONX,van cortlandt park - kelley fields,X,van cortlandt park,empiric,,,av
+Ferry Point Park,BRONX,ferry point park,X,ferry point park,park_direct,,,av
+107th Street Pier,MANHATTAN,107th street pier,M,pier 107 cvii,other,"(pier 42, 85)",85,v
+St Mary's Park,BRONX,st mary's park,X,st. mary's park,other,"(st. mary's park, 97)",97,av
+Brower Park,BROOKLYN,brower park,B,brower park,park_direct,,,av
+Central Park - James Michael Levin Playground,MANHATTAN,central park - james michael levin playground,M,central park,empiric,,,av
+Riverside Park - Hippo Playground,MANHATTAN,riverside park - hippo playground,M,hippo playground,pgs,"(Hippo Playground, 90)",90,av
+Marble Hill Playground,BRONX,marble hill playground,X,marble hill playground,park_direct,,,av
+Highland Park Area A,BROOKLYN,highland park area a,B,highland park,empiric,,,av
+Allerton Playground,BRONX,allerton playground,X,allerton playground,park_direct,,,av
+Melrose Playground,BRONX,melrose playground,X,melrose playground,park_direct,,,av
+Bellevue South Park,MANHATTAN,bellevue south park,M,bellevue south park,park_direct,,,av
+100 Percent Playground - PS 242,BRONX,100 percent playground - ps 242,X,100% playground,pgs,"(Playground, 90)",90,v
+Ethan Allen Playground,BROOKLYN,ethan allen playground,B,ethan allen playground,park_direct,,,av
+Twenty Four Sycamores Park,MANHATTAN,twenty four sycamores park,M,twenty-four sycamores park,other,"(twenty-four sycamores park, 100)",100,av
+Crocheron Park - Golden Pond In Crocheron Park,QUEENS,crocheron park - golden pond in crocheron park,Q,crocheron park,other,"(crocheron park, 90)",90,av
+Crocheron Park,QUEENS,crocheron park,Q,crocheron park,park_direct,,,av
+Riverdale Park,BRONX,riverdale park,X,riverdale park,park_direct,,,av
+Wakefield Playground,BRONX,wakefield playground,X,wakefield playground,park_direct,,,av
+John Golden Park,QUEENS,john golden park,Q,john golden park,park_direct,,,av
+Hellgate Field,STATEN ISLAND,hellgate field,R,whitey ford field,other,"(a.r.r.o.w. field house, 85)",85,v
+Bushwick Ballfields,BROOKLYN,bushwick ballfields,B,hope ballfield,other,"(breukelen ballfields, 72)",72,v
+Prospect Park - Lullwater and Boathouse,BROOKLYN,prospect park - lullwater and boathouse,B,prospect park,empiric,,,av
+Cyprus Hills Playground,BROOKLYN,cyprus hills playground,B,cyprus hills playground,pgs,"(Cyprus Hills Playground, 100)",100,av
+Thomas Greene Playground,BROOKLYN,thomas greene playground,B,thomas greene playground,park_direct,,,av
+Forest Park - Sobelsohn Park,QUEENS,forest park - sobelsohn park,Q,forest park,empiric,,,av
+Kissena Corridor East,QUEENS,kissena corridor east,Q,kissena corridor park,other,"(kissena corridor park, 86)",86,av
+Van Cortlandt Park - Nature Center,BRONX,van cortlandt park - nature center,X,van cortlandt park,empiric,,,av
+Friends Field,BROOKLYN,friends field,B,friends field,park_direct,,,av
+Inwood Hill Park - Emerson Playground,MANHATTAN,inwood hill park - emerson playground,M,inwood hill park,empiric,,,av
+Sledge Playground,BROOKLYN,sledge playground,B,sledge playground,park_direct,,,av
+Parade Grounds Playground,BROOKLYN,parade grounds playground,B,parade ground,park_direct,"(Playground, 90)",90,v
+Red Hook Park - Bush Clinton Park Playground,BROOKLYN,red hook park - bush clinton park playground,B,red hook recreation area,empiric,,,av
+Roy Wilkins Recreation Center,QUEENS,roy wilkins recreation center,Q,roy wilkins recreation center,park_direct,,,av
+Prospect Park - Park Side Avenue,BROOKLYN,prospect park - park side avenue,B,prospect park,empiric,,,av
+Bayview Playground,BROOKLYN,bayview playground,B,bayview playground,park_direct,,,av
+Monsignor Kett Playground,MANHATTAN,monsignor kett playground,M,monsignor kett playground,park_direct,,,av
+Athens Square - PS 17,QUEENS,athens square - ps 17,Q,athens square,other,"(Ps/is 187, 85)",85,v
+Marcus Garvey Park - Mount Morris East Playground,MANHATTAN,marcus garvey park - mount morris east playground,M,marcus garvey park,park_direct,"(Playground, 90)",90,v
+Forest Park - Jackson Pond Playground,QUEENS,forest park - jackson pond playground,Q,forest park,empiric,,,av
+Brooklyn Bridge Park - Pier 1,BROOKLYN,brooklyn bridge park - pier 1,B,brooklyn bridge park,other,"(brooklyn bridge park, 95)",95,av
+Central Park - Adventure Playground,MANHATTAN,central park - adventure playground,M,central park,empiric,,,av
+Conference House Park,STATEN ISLAND,conference house park,R,conference house park,park_direct,,,av
+John Jay Park and Pool,MANHATTAN,john jay park and pool,M,john jay pool,pool,"(claremont pool, 85)",85,av
+Digilio Playground,BROOKLYN,digilio playground,B,digilio playground,pgs,"(Digilio Playground, 100)",100,av
+Wolfes Pond Park,STATEN ISLAND,wolfes pond park,R,wolfe's pond park,other,"(wolfe's pond park, 97)",97,av
+Rochdale Park,QUEENS,rochdale park,Q,rochdale park,park_direct,,,av
+Ruppert Park,MANHATTAN,ruppert park,M,ruppert park,park_direct,,,av
+Alley Pond Park,QUEENS,alley pond park,Q,alley pond park,park_direct,,,av
+Fermi Playground,BROOKLYN,fermi playground,B,fermi playground,park_direct,,,av
+Central Park - 110th Street Playground,MANHATTAN,central park - 110th street playground,M,central park,empiric,,,av
+Central Park - The Mall and Rumsey Playfield,MANHATTAN,central park - the mall and rumsey playfield,M,central park,empiric,,,av
+Vinmont Veteran Park,BRONX,vinmont veteran park,X,vinmont veteran park,park_direct,,,av
+Manhattan Beach - Manhattan Beach Park Playground,BROOKLYN,manhattan beach - manhattan beach park playground,B,manhattan beach park,pgs,"(Manhattan Beach Park, 90)",90,av
+Albert J Parham Playground,BROOKLYN,albert j parham playground,B,parham playground,pgs,"(Parham Playground, 90)",90,av
+Smokey Oval,QUEENS,smokey oval,Q,"phil ""scooter"" rizzuto park",other,"(williamsbridge oval, 85)",85,v
+Flushing Meadows and Corona Park - Saturn Play Equipment,QUEENS,flushing meadows and corona park - saturn play equipment,Q,flushing meadows corona park,empiric,,,av
+Springfield Park,QUEENS,springfield park,Q,springfield park,park_direct,,,av
+Bicentennial Veterinary Park At Weir Center,BRONX,bicentennial veterinary park at weir center,X,bicentennial veterans memorial park,other,"(queensbridge park, 85)",85,v
+Cherry Tree Playground,MANHATTAN,cherry tree playground,M,cherry tree park,other,"(Playground, 90)",90,v
+Abraham Lincoln Playground,MANHATTAN,abraham lincoln playground,M,abraham lincoln playground,park_direct,,,av
+Riverside Park - Over The Tracks Tennis Courts,MANHATTAN,riverside park - over the tracks tennis courts,M,riverside park,other,"(riverside park, 90)",90,av
+Columbus Park Playground,MANHATTAN,columbus park playground,M,columbus park,pgs,"(PARK, 90)",90,v
+Middleton Playground,BROOKLYN,middleton playground,B,middleton playground,park_direct,,,av
+Alice Austen Park,STATEN ISLAND,alice austen park,R,alice austen park,park_direct,,,av
+Van Cortlandt Park - Southwest Playground,BRONX,van cortlandt park - southwest playground,X,van cortlandt park,empiric,,,av
+Staten Island Greenbelt Park - Willowbrook Park Recreational Area,STATEN ISLAND,staten island greenbelt park - willowbrook park recreational area,R,greenbelt native plant center,empiric,,,av
+Markham Playground,STATEN ISLAND,markham playground,R,markham playground,park_direct,,,av
+Recreation Center - George Cromwell,STATEN ISLAND,recreation center - george cromwell,R,lyons pool,pool,"(marcy green center, 85)",85,v
+Crowley Playground,QUEENS,crowley playground,Q,crowley playground,park_direct,,,av
+High Rock Park,STATEN ISLAND,high rock park,R,high rock park,park_direct,,,av
+Crotona Park - Nature Center,BRONX,crotona park - nature center,X,crotona park,empiric,,,av
+Damrosch Park,MANHATTAN,damrosch park,M,damrosch park,park_direct,,,av
+Red Hook Park,BROOKLYN,red hook park,B,red hook recreation area,empiric,,,av
+Linden Park - Linden Park School Playground,BROOKLYN,linden park - linden park school playground,B,linden park,pgs,"(Linden Park, 90)",90,av
+Taylor Playground,BRONX,taylor playground,X,taylor playground,park_direct,,,av
+Broad Channel Park,QUEENS,broad channel park,Q,broad channel park,park_direct,,,av
+Samuel Seabury Playground - PS 198,MANHATTAN,samuel seabury playground - ps 198,M,samuel seabury playground,pgs,"(Samuel Seabury Playground, 95)",95,av
+Castle Hill Playground,BRONX,castle hill playground,X,castle hill playground,park_direct,,,av
+Pelham Bay Park - Bronx Victory Memorial Column,BRONX,pelham bay park - bronx victory memorial column,X,pelham bay park,empiric,,,av
+Big Bush Park,QUEENS,big bush park,Q,big bush park,park_direct,,,av
+Palmetto Playground,BROOKLYN,palmetto playground,B,adam yauch park,other,"(Playground, 90)",90,v
+Williamsburg Bridge Playground,BROOKLYN,williamsburg bridge playground,B,bedford playground,pgs,"(Playground, 90)",90,v
+Central Park - Bendheim Playground,MANHATTAN,central park - bendheim playground,M,central park,empiric,,,av
+Calvert Vaux,BROOKLYN,calvert vaux,B,calvert vaux park,other,"(calvert vaux park, 95)",95,av
+Lillian D Wald Playground,MANHATTAN,lillian d wald playground,M,lillian d wald playground,park_direct,,,av
+Andries Playground,BROOKLYN,andries playground,B,andries playground,park_direct,,,av
+Shore Road Park - 79th Street Playground,BROOKLYN,shore road park - 79th street playground,B,belt parkway/shore parkway,other,"(Playground, 90)",90,v
+Naples Playground,STATEN ISLAND,naples playground,R,naples playground,park_direct,,,av
+College Point Park,QUEENS,college point park,Q,college point park,park_direct,,,av
+Oxport Playground,BROOKLYN,oxport playground,B,oxport playground,park_direct,,,av
+Alfred Smith - PS 1,MANHATTAN,alfred smith - ps 1,M,alfred e. smith playground,other,"(Ps/is 187, 85)",85,v
+Bill Brown Memorial Playground,BROOKLYN,bill brown memorial playground,B,bill brown memorial playground,pgs,"(Bill Brown Memorial Playground, 100)",100,av
+Lemon Creek Park,STATEN ISLAND,lemon creek park,R,lemon creek park,park_direct,,,av
+Golf Course - Clearview Park,QUEENS,golf course - clearview park,Q,clearview golf course,golf,"(clearview golf course, 95)",95,av
+Bloomingdale Playground,MANHATTAN,bloomingdale playground,M,bloomingdale playground,park_direct,,,av
+Silent Springs Playground,QUEENS,silent springs playground,Q,silent springs playground,pgs,"(Silent Springs Playground, 100)",100,av
+Central Park - East Meadow,MANHATTAN,central park - east meadow,M,central park,empiric,,,av
+Saw Mill Creek Marsh,STATEN ISLAND,saw mill creek marsh,R,saw mill creek marsh,park_direct,,,av
+Central Park - North Meadow,MANHATTAN,central park - north meadow,M,central park,empiric,,,av
+Nellie Bly Park,BROOKLYN,nellie bly park,B,nellie bly park,park_direct,,,av
+Harry Chapin Park,BROOKLYN,harry chapin park,B,harry chapin playground,other,"(park, 90)",90,v
+Poe Park,BRONX,poe park,X,poe park,park_direct,,,av
+The Rink at Bryant Park,MANHATTAN,the rink at bryant park,M,bryant park,other,"(park, 90)",90,v
+Crotona Malls,BRONX,crotona malls,X,crotona parkway malls,other,"(mall, 90)",90,v
+El Hajj Malik El Shabazz Playground,BROOKLYN,el hajj malik el shabazz playground,B,el hajj malik el shabazz playground,pgs,"(El Hajj Malik El Shabazz Playground, 100)",100,av
+Asser Levy Park,BROOKLYN,asser levy park,B,asser levy park,park_direct,,,av
+Forest Park - Greenhouse Playground,QUEENS,forest park - greenhouse playground,Q,forest park,empiric,,,av
+Highbridge Park - Adventure Playground,MANHATTAN,highbridge park - adventure playground,M,adventure playground,pgs,"(Adventure Playground, 90)",90,av
+Williamsbridge Oval - P G  Mini Pool and Courts,BRONX,williamsbridge oval - p g  mini pool and courts,X,williamsbridge oval,other,"(claremont pool, 85)",85,v
+Willowbrook Park,STATEN ISLAND,willowbrook park,R,willowbrook park,park_direct,,,av
+Sol Lain Playground,MANHATTAN,sol lain playground,M,sol lain playground,pgs,"(Sol Lain Playground, 100)",100,av
+Harold Schneiderman Playground - PS 232,QUEENS,harold schneiderman playground - ps 232,Q,harold schneiderman playground,pgs,"(Harold Schneiderman Playground, 95)",95,av
+Springfield Playground,QUEENS,springfield playground,Q,springfield playground,pgs,"(Springfield Playground, 100)",100,av
+Grover Cleveland Park,QUEENS,grover cleveland park,Q,grover cleveland playground,other,"(park, 90)",90,v
+Central Park - 110th Street and Lenox Avenue Playground,MANHATTAN,central park - 110th street and lenox avenue playground,M,central park,empiric,,,av
+Central Park - Cedar Hill,MANHATTAN,central park - cedar hill,M,central park,empiric,,,av
+Jackie Robinson Park,BROOKLYN,jackie robinson park,B,jackie robinson park,park_direct,,,av
+Jackie Robinson Park,BROOKLYN,jackie robinson park,B,jackie robinson park,park_direct,,,av
+Harmony Park,BROOKLYN,harmony park,B,harmony park,park_direct,,,av
+Cpl Thompson Park,STATEN ISLAND,cpl thompson park,R,cpl. thompson park,other,"(cpl. thompson park, 97)",97,av
+West 4th Street Courts,MANHATTAN,west 4th street courts,M,west 4th street courts,park_direct,,,av
+Golf Course - Silver Lake,STATEN ISLAND,golf course - silver lake,R,silver lake golf course,golf,"(silver lake golf course, 95)",95,av
+University Woods,BRONX,university woods,X,university woods,park_direct,,,av
+Golf Course - Douglaston,QUEENS,golf course - douglaston,Q,douglaston golf course,golf,"(douglaston golf course, 95)",95,av
+Ben Abrams Playground,BRONX,ben abrams playground,X,ben abrams playground,pgs,"(Ben Abrams Playground, 100)",100,av
+Spuyten Duyvil Playground,BRONX,spuyten duyvil playground,X,spuyten duyvil playground,park_direct,,,av
+Fountain Of Youth Playground,BRONX,fountain of youth playground,X,fountain of youth playground,park_direct,,,av
+Aqueduct Walk - Allerton Fields In Bronx Park,BRONX,aqueduct walk - allerton fields in bronx park,X,bronx park,other,"(bronx park, 90)",90,av
+Old Fort Number 4 Park,BRONX,old fort number 4 park,X,washington's walk,other,"(park, 90)",90,v
+Macombs Dam Park - Summit Playground,BRONX,macombs dam park - summit playground,X,summit playground,pgs,"(Playground, 90)",90,v
+Riverside Park - Dinosaur Playground,MANHATTAN,riverside park - dinosaur playground,M,dinosaur playground,pgs,"(Dinosaur Playground, 90)",90,av
+St Gregory's Park,MANHATTAN,st gregory's park,M,st. gregory's playground,other,"(park, 90)",90,v
+Cedar Playground,BRONX,cedar playground,X,cedar playground,park_direct,,,av
+Hickman Playground,BROOKLYN,hickman playground,B,hickman playground,park_direct,,,av
+Metcalf Playground,BRONX,metcalf playground,X,soundview park,pgs,"(Playground, 90)",90,v
+Gravesend Park,BROOKLYN,gravesend park,B,gravesend park,park_direct,,,av
+Pelham Bay Park - Rodmans Neck East,BRONX,pelham bay park - rodmans neck east,X,pelham bay park,empiric,,,av
+Fort Tryon Park - Jacob Javits Playground,MANHATTAN,fort tryon park - jacob javits playground,M,jacob javits playground,pgs,"(Jacob Javits Playground, 90)",90,av
+Henry Hudson Park,BRONX,henry hudson park,X,henry hudson park,park_direct,,,av
+Irving Square Park,BROOKLYN,irving square park,B,irving square park,park_direct,,,av
+Norelli-Hargreaves Playground,QUEENS,norelli-hargreaves playground,Q,norelli-hargreaves playground,park_direct,,,av
+Prospect Park - Lincoln Road Playground,BROOKLYN,prospect park - lincoln road playground,B,prospect park,empiric,,,av
+Bufano Playground,BRONX,bufano playground,X,bufano playground,pgs,"(Bufano Playground, 100)",100,av
+Aqueduct Walk - Bronx Park,BRONX,aqueduct walk - bronx park,X,bronx park,other,"(bronx park, 90)",90,av
+Travers Park,QUEENS,travers park,Q,travers park,park_direct,,,av
+Pomonok Playground - PS 201,QUEENS,pomonok playground - ps 201,Q,pomonok playground,pgs,"(Playground, 90)",90,v
+Lawerence Virgilio Playground,QUEENS,lawerence virgilio playground,Q,lawrence virgilio playground,other,"(Playground, 90)",90,v
+Taaffe Playground,BROOKLYN,taaffe playground,B,taaffe playground,park_direct,,,av
+Harlem River Park,MANHATTAN,harlem river park,M,harlem river park,park_direct,,,av
+Steuben Playground,BROOKLYN,steuben playground,B,steuben playground,park_direct,,,av
+Briarwood Playground - JHS 217,QUEENS,briarwood playground - jhs 217,Q,briarwood playground,pgs,"(Playground, 90)",90,v
+Louis Armstrong Playground - PS 143,QUEENS,louis armstrong playground - ps 143,Q,louis armstrong playground,pgs,"(Louis Armstrong Playground, 95)",95,av
+Tot Lot One Hundred Five,MANHATTAN,tot lot one hundred five,M,lt. federico narvaez tot lot,other,"(lot, 90)",90,v
+Canarsie Park,BROOKLYN,canarsie park,B,canarsie park,park_direct,,,av
+Riverside Park - Classic Playground,MANHATTAN,riverside park - classic playground,M,classic playground,pgs,"(Classic Playground, 90)",90,av
+People's Park,BRONX,people's park,X,people's park,park_direct,,,av
+Murray Playground,QUEENS,murray playground,Q,murray playground,park_direct,,,av
+Mullaly Park,BRONX,mullaly park,X,mullaly park,park_direct,,,av
+Francis Lewis Park,QUEENS,francis lewis park,Q,francis lewis park,park_direct,,,av
+St Andrew's Playground,BROOKLYN,st andrew's playground,B,st andrew's playground,pgs,"(St Andrew's Playground, 100)",100,av
+Kingfisher Park,STATEN ISLAND,kingfisher park,R,king fisher park,other,"(king fisher park, 97)",97,av
+Kelly Playground,BROOKLYN,kelly playground,B,kelly playground,pgs,"(Kelly Playground, 100)",100,av
+Maria Hernandez Park,BROOKLYN,maria hernandez park,B,maria hernandez park,park_direct,,,av
+Parade Ground,BROOKLYN,parade ground,B,parade ground,park_direct,,,av
+Cleopatra Playground,BRONX,cleopatra playground,X,cleopatra playground,park_direct,,,av
+MacDonald Park,QUEENS,macdonald park,Q,macdonald park,park_direct,,,av
+Rodney Playground South,BROOKLYN,rodney playground south,B,rodney playground south,park_direct,,,av
+Rockaway Beach Playground,QUEENS,rockaway beach playground,Q,rockaway beach playground,pgs,"(Rockaway Beach Playground, 100)",100,av
+Inwood Hill Park - Indian Road Playground,MANHATTAN,inwood hill park - indian road playground,M,inwood hill park,empiric,,,av
+Levy Playground,STATEN ISLAND,levy playground,R,levy playground,park_direct,,,av
+Holcombe Rucker,MANHATTAN,holcombe rucker,M,holcombe rucker park,other,"(holcombe rucker park, 95)",95,av
+Howard Bennett Playground - PS 197,MANHATTAN,howard bennett playground - ps 197,M,howard bennett playground,pgs,"(Howard Bennett Playground, 95)",95,av
+Sailors Snug Harbor,STATEN ISLAND,sailors snug harbor,R,snug harbor cultural center,other,"(snug harbor cultural center, 69)",69,av
+Theodore Roosevelt Park,MANHATTAN,theodore roosevelt park,M,theodore roosevelt park,park_direct,,,av
+Juniper South Playground,QUEENS,juniper south playground,Q,juniper south playground,pgs,"(Juniper South Playground, 100)",100,av
+Frost Playground,BROOKLYN,frost playground,B,frost playground,park_direct,,,av
+Nelson Playground,BRONX,nelson playground,X,nelson playground,park_direct,,,av
+First Park,MANHATTAN,first park,M,first park,park_direct,,,av
+Highbridge Recreation Center,BRONX,highbridge recreation center,X,highbridge park,other,"(recreation center 54, 87)",87,v
+Kissena Corridor West,QUEENS,kissena corridor west,Q,kissena corridor park,other,"(west 186th street basketball court, 85)",85,v
+White Playground A,MANHATTAN,white playground a,M,white playground,pgs,"(White Playground, 95)",95,av
+Flushing Meadows and Corona Park - Unisphere,QUEENS,flushing meadows and corona park - unisphere,Q,flushing meadows corona park,empiric,,,av
+Lyons Square Playground,BRONX,lyons square playground,X,lyons square playground,park_direct,,,av
+Woods Playground,BROOKLYN,woods playground,B,woods playground,park_direct,,,av
+Willoughby Playground,BROOKLYN,willoughby playground,B,willoughby playground,park_direct,,,av
+Marie Curie Park - JHS 158,QUEENS,marie curie park - jhs 158,Q,marie curie park,other,"(park, 90)",90,v
+Mcdonald Playground - Staten Island,STATEN ISLAND,mcdonald playground - staten island,R,mcdonald playground,pgs,"(Mcdonald Playground, 90)",90,av
+Greenbelt - Nature Center,STATEN ISLAND,greenbelt - nature center,R,greenbelt native plant center,empiric,,,av
+Berry Playground,BROOKLYN,berry playground,B,berry playground,park_direct,,,av
+Dimattina Playground,BROOKLYN,dimattina playground,B,dimattina playground,park_direct,,,av
+Blake Hobbs Playground,MANHATTAN,blake hobbs playground,M,blake hobbs playground,park_direct,,,av
+Story Playground,BRONX,story playground,X,story playground,park_direct,,,av
+Grand Ave Playground,BRONX,grand ave playground,X,grand playground,pgs,"(Grand Playground, 95)",95,av
+Jacob Schiff Playground - PS 192,MANHATTAN,jacob schiff playground - ps 192,M,jacob schiff playground,pgs,"(Jacob Schiff Playground, 95)",95,av
+Riverside Park - Baseball Fields,MANHATTAN,riverside park - baseball fields,M,riverside park,other,"(riverside park, 90)",90,av
+Central Park - 79th Street Yard and Summit Rock,MANHATTAN,central park - 79th street yard and summit rock,M,central park,empiric,,,av
+Annandale Playground - PS 175,QUEENS,annandale playground - ps 175,Q,annadale playground,pgs,"(Playground, 90)",90,v
+Liberty Park,QUEENS,liberty park,Q,detective keith l williams park,other,"(park, 90)",90,v
+Van Cortlandt Park - Allen Shandler Rec Area,BRONX,van cortlandt park - allen shandler rec area,X,van cortlandt park,empiric,,,av
+Prospect Park - Garfield Tot Lot Playground,BROOKLYN,prospect park - garfield tot lot playground,B,prospect park,empiric,,,av
+Central Park - Billy Johnson Playground,MANHATTAN,central park - billy johnson playground,M,central park,empiric,,,av
+Sakura Park,MANHATTAN,sakura park,M,sakura park,park_direct,,,av
+Electric  Playground,QUEENS,electric  playground,Q,electric playground,pgs,"(Electric Playground, 97)",97,av
+Whitestone Playground - PS 193,QUEENS,whitestone playground - ps 193,Q,whitestone playground,pgs,"(Whitestone Playground, 95)",95,av
+Sutton Place Park,MANHATTAN,sutton place park,M,sutton place park,park_direct,,,av
+Hallets Cove Playground - Area A,QUEENS,hallets cove playground - area a,Q,hallets cove playground (area a),pgs,"(Hallets Cove Playground (area A), 98)",98,av
+John Paul Jones Park,BROOKLYN,john paul jones park,B,john paul jones park,park_direct,,,av
+St Nicholas North Playground,MANHATTAN,st nicholas north playground,M,st nicholas north playground,pgs,"(St Nicholas North Playground, 100)",100,av
+Boerum Park,BROOKLYN,boerum park,B,boerum park,park_direct,,,av
+Police Officer Reinaldo Salgado Playground,BROOKLYN,police officer reinaldo salgado playground,B,plce ofcr reinaldo salgado playground,pgs,"(Plce Ofcr Reinaldo Salgado Playground, 94)",94,av
+Lt Nicholaus Lia Playground,STATEN ISLAND,lt nicholaus lia playground,R,lt lia playground,pgs,"(Playground, 90)",90,v
+Blue Heron Park - Nature Center,STATEN ISLAND,blue heron park - nature center,R,blue heron park,other,"(park, 90)",90,v
+Grove Hill Playground,BRONX,grove hill playground,X,grove hill playground,park_direct,,,av
+Lozada Playground,BRONX,lozada playground,X,lozada playground,park_direct,,,av
+Seton Falls Park - High Rock Playground,BRONX,seton falls park - high rock playground,X,high rock playground,pgs,"(Playground, 90)",90,v
+Mapes Ballfields,BRONX,mapes ballfields,X,mapes ballfield,other,"(mapes ballfield, 97)",97,av
+Brust Park,BRONX,brust park,X,brust park,park_direct,,,av
+Jacob Joffe Fields,BROOKLYN,jacob joffe fields,B,jacob joffe fields,park_direct,,,av
+Double Nickel Playground - PS 55,STATEN ISLAND,double nickel playground - ps 55,R,double nickel playground/ps 55,pgs,"(Double Nickel Playground/ps 55, 97)",97,av
+Cunningham Park - 210th St Playground,QUEENS,cunningham park - 210th st playground,Q,210th st playground,pgs,"(210th St Playground, 90)",90,av
+Railroad Park,BRONX,railroad park,X,railroad park,park_direct,,,av
+Railroad Park,BRONX,railroad park,X,railroad park,park_direct,,,av
+Fox Playground 1,BRONX,fox playground 1,X,fox playground,pgs,"(Fox Playground, 95)",95,av
+Carver Playground,BROOKLYN,carver playground,B,carver playground,park_direct,,,av
+Gene Gray Playground,QUEENS,gene gray playground,Q,gene gray playground,park_direct,,,av
+Recreation Center - Al Oerter,QUEENS,recreation center - al oerter,Q,flushing meadows corona park,other,"(recreation center 54, 87)",87,v
+Flushing Meadows and Corona Park - Indoor Ice Hockey Rink,QUEENS,flushing meadows and corona park - indoor ice hockey rink,Q,flushing meadows corona park,empiric,,,av
+Virginia Principe Playground,QUEENS,virginia principe playground,Q,virginia principe playground,pgs,"(Virginia Principe Playground, 100)",100,av
+Pool - Mullaly,BRONX,pool - mullaly,X,mullaly pool,pool,"(mullaly pool, 95)",95,av
+Clark Playground,BRONX,clark playground,X,clark playground,park_direct,,,av
+Flushing Meadows and Corona Park - Playground For All Children,QUEENS,flushing meadows and corona park - playground for all children,Q,flushing meadows corona park,empiric,,,av
+Crotona Park - Crotona Park Lake,BRONX,crotona park - crotona park lake,X,crotona park,empiric,,,av
+Loring Field,QUEENS,loring field,Q,vito locascio field,other,"(a.r.r.o.w. field house, 85)",85,v
+Lt Lia Playground,STATEN ISLAND,lt lia playground,R,lt lia playground,pgs,"(Lt Lia Playground, 100)",100,av
+Quarry Ballfields,BRONX,quarry ballfields,X,quarry ballfields,park_direct,,,av
+Golconda Playground,BROOKLYN,golconda playground,B,golconda playground,park_direct,,,av
+Pool - Lasker in Central Park,MANHATTAN,pool - lasker in central park,M,central park,empiric,,,av
+Albano Playground,MANHATTAN,albano playground,M,vincent f albano jr playground,pgs,"(Playground, 90)",90,v
+Fort Hamilton Athletic Field,BROOKLYN,fort hamilton athletic field,B,fort hamilton athletic field,park_direct,,,av
+Lenape Playground,BROOKLYN,lenape playground,B,lenape playground,pgs,"(Lenape Playground, 100)",100,av
+Pool - Hamilton Fish,MANHATTAN,pool - hamilton fish,M,hamilton fish pool,pool,"(hamilton fish pool, 95)",95,av
+Lindower Park,BROOKLYN,lindower park,B,lindower park,park_direct,,,av
+Galileo Playground,BRONX,galileo playground,X,galileo playground,park_direct,,,av
+Richman Echo Park,BRONX,richman echo park,X,richman (echo) park,other,"(richman (echo) park, 95)",95,av
+Poor Richards Playground - IS 117,MANHATTAN,poor richards playground - is 117,M,poor richards playground,pgs,"(Poor Richards Playground, 95)",95,av
+Jacob Riis Park,QUEENS,jacob riis park,Q,jacob riis triangle,other,"(park, 90)",90,v
+Bruckner Playground,BRONX,bruckner playground,X,bruckner playground,park_direct,,,av
+Recreation Center - Flushing Meadows and Corona Park,QUEENS,recreation center - flushing meadows and corona park,Q,flushing meadows corona park,empiric,,,av
+Baisley Park South,QUEENS,baisley park south,Q,baisley pond park,other,"(park, 90)",90,v
+Liotti Ikefugi Playgound,STATEN ISLAND,liotti ikefugi playgound,R,liotti ikefugi playgound,pgs,"(Liotti Ikefugi Playgound, 100)",100,av
+Crotona Park - Martin Van Buren Playground,BRONX,crotona park - martin van buren playground,X,crotona park,empiric,,,av
+Pool - Mapes,BRONX,pool - mapes,X,mapes pool,pool,"(mapes pool, 95)",95,av
+Vesuvio Playground,MANHATTAN,vesuvio playground,M,vesuvio playground,park_direct,,,av
+Alley Park,QUEENS,alley park,Q,alley park,park_direct,,,av
+Rosemary's Playground - JHS 93,QUEENS,rosemary's playground - jhs 93,Q,rosemary's playground,pgs,"(Rosemary's Playground, 95)",95,av
+Leif Ericson Drive Shore Parkway - Homecrest Playground,BROOKLYN,leif ericson drive shore parkway - homecrest playground,B,homecrest playground,pgs,"(Homecrest Playground, 90)",90,av
+Central Park - Mariners Gate Playground,MANHATTAN,central park - mariners gate playground,M,central park,empiric,,,av
+Saint Johns Recreation Center,BROOKLYN,saint johns recreation center,B,st. john's recreation center,other,"(st. john's recreation center, 91)",91,av
+Classon Playground,BROOKLYN,classon playground,B,classon playground,park_direct,,,av
+Noonan Playground,QUEENS,noonan playground,Q,noonan playground,pgs,"(Noonan Playground, 100)",100,av
+Marcy Playground,BROOKLYN,marcy playground,B,marcy playground,park_direct,,,av
+Frederick E. Samuel Playground,MANHATTAN,frederick e. samuel playground,M,samuel playground,pgs,"(Samuel Playground, 90)",90,av
+Shore Road Park - Vinland Playground,BROOKLYN,shore road park - vinland playground,B,vinland playground,pgs,"(Vinland Playground, 90)",90,av
+Mahoney Playground,STATEN ISLAND,mahoney playground,R,mahoney playground,park_direct,,,av
+Astoria Heights Playground,QUEENS,astoria heights playground,Q,astoria heights playground,park_direct,,,av
+Centerville Playground,QUEENS,centerville playground,Q,centerville playground,pgs,"(Centerville Playground, 100)",100,av
+Belmont Playground - Bronx,BRONX,belmont playground - bronx,X,belmont playground,pgs,"(Belmont Playground, 95)",95,av
+Patrick O'Rourke Park,BROOKLYN,patrick o'rourke park,B,patrick o'rourke park,park_direct,,,av
+Lincoln Terrace Park - Arthur S Somers Playground,BROOKLYN,lincoln terrace park - arthur s somers playground,B,lincoln terrace park / arthur s. somers playground,pgs,"(Lincoln Terrace Park / Arthur S. Somers Playground, 99)",99,av
+Willis Playground,BRONX,willis playground,X,willis playground,park_direct,,,av
+Marconi Park,QUEENS,marconi park,Q,marconi park,park_direct,,,av
+Hart Playground,QUEENS,hart playground,Q,hart playground,park_direct,,,av
+Rudd Playground,BROOKLYN,rudd playground,B,rudd playground,park_direct,,,av
+Clement Clarke Moore Park,MANHATTAN,clement clarke moore park,M,clement clarke moore park,park_direct,,,av
+Beach - Wolfe's Pond,STATEN ISLAND,beach - wolfe's pond,R,wolfe's pond beach,beach,"(wolfe's pond beach, 95)",95,av
+Cunningham Park - Mclaughlin Playground,QUEENS,cunningham park - mclaughlin playground,Q,mclaughlin playground,pgs,"(Mclaughlin Playground, 90)",90,av
+Highbridge Park - Quisqueya Playground,MANHATTAN,highbridge park - quisqueya playground,M,quisqueya playground,pgs,"(Quisqueya Playground, 90)",90,av
+Amersfort Park,BROOKLYN,amersfort park,B,amersfort park,park_direct,,,av
+Plimpton Playground,BRONX,plimpton playground,X,plimpton playground,park_direct,,,av
+Van Voorhees Playground,BROOKLYN,van voorhees playground,B,van voorhees park,pgs,"(Playground, 90)",90,v
+Astoria Health Center Playground,QUEENS,astoria health center playground,Q,astoria health center playground,pgs,"(Astoria Health Center Playground, 100)",100,av
+Pool - Betsy Head Park,BROOKLYN,pool - betsy head park,B,betsy head pool,pool,"(betsy head pool, 95)",95,av
+Pool - Glenwood Houses,BROOKLYN,pool - glenwood houses,B,glenwood houses pool,pool,"(glenwood houses pool, 95)",95,av
+Pool - Fred Douglas,MANHATTAN,pool - fred douglas,M,general douglas pool,pool,"(crotona pool, 85)",85,v
+Central Park - Rudin Playground,MANHATTAN,central park - rudin playground,M,central park,empiric,,,av
+Daniel M O'Connell Playground,QUEENS,daniel m o'connell playground,Q,daniel m o'connell playground,pgs,"(Daniel M O'connell Playground, 100)",100,av
+Century Playground,BROOKLYN,century playground,B,century playground,park_direct,,,av
+Van Cortlandt Park - Gun Hill Meadow,BRONX,van cortlandt park - gun hill meadow,X,van cortlandt park,empiric,,,av
+Ralph J Bunche Park,MANHATTAN,ralph j bunche park,M,ralph bunche park,other,"(ralph bunche park, 95)",95,av
+North Rochdale Playground - PS 30,QUEENS,north rochdale playground - ps 30,Q,north rochdale playground,pgs,"(North Rochdale Playground, 95)",95,av
+Tilden Playground,BROOKLYN,tilden playground,B,tilden playground,park_direct,,,av
+Brighton Playground,BROOKLYN,brighton playground,B,brighton playground,park_direct,,,av
+Golf Course - Mosholu,BRONX,golf course - mosholu,X,mosholu golf course,golf,"(mosholu golf course, 95)",95,av
+Redfern Playground,QUEENS,redfern playground,Q,redfern playground,park_direct,,,av
+Ehrenreich-Austin St Playground,QUEENS,ehrenreich-austin st playground,Q,ehrenreich-austin playground,pgs,"(Ehrenreich-austin Playground, 95)",95,av
+Hamilton Metz Field,BROOKLYN,hamilton metz field,B,hamilton metz field,park_direct,,,av
+Crack Is Wack Playground,MANHATTAN,crack is wack playground,M,crack is wack playground,park_direct,,,av
+Manhattan Beach - Pat Perlato Playground,BROOKLYN,manhattan beach - pat perlato playground,B,pat perlato playground.,pgs,"(Pat Perlato Playground., 90)",90,av
+Randall Playground,BRONX,randall playground,X,randall playground,park_direct,,,av
+Slattery Playground,BRONX,slattery playground,X,slattery playground,park_direct,,,av
+Owen Dolen Golden Age Center,BRONX,owen dolen golden age center,X,owen f. dolen park,other,"(marcy green center, 85)",85,v
+Martins Field,QUEENS,martins field,Q,lieutenant john h. martinson playground,other,"(a.r.r.o.w. field house, 85)",85,v
+Forest Park - Dry Harbor Playground,QUEENS,forest park - dry harbor playground,Q,forest park,empiric,,,av
+Veterans Grove,QUEENS,veterans grove,Q,veterans grove,park_direct,,,av
+Westerleigh Park,STATEN ISLAND,westerleigh park,R,westerleigh park,park_direct,,,av
+Mother Cabrini Park,BROOKLYN,mother cabrini park,B,mother cabrini park,park_direct,,,av
+Wards Island Park,MANHATTAN,wards island park,M,wards island park,park_direct,,,av
+Aqueduct Walk - Olinville Playground,BRONX,aqueduct walk - olinville playground,X,olinville playground,pgs,"(Playground, 90)",90,v
+Almeda Playground - PS 42,QUEENS,almeda playground - ps 42,Q,almeda playground,pgs,"(Almeda Playground, 95)",95,av
+Staten Island Greenbelt - High Rock Park,STATEN ISLAND,staten island greenbelt - high rock park,R,greenbelt native plant center,empiric,,,av
+Bushwick Playground,BROOKLYN,bushwick playground,B,bushwick playground,park_direct,,,av
+Beach - South,STATEN ISLAND,beach - south,R,south beach,beach,"(south beach, 95)",95,av
+Parkside Playground - Brooklyn,BROOKLYN,parkside playground - brooklyn,B,parkside playground,pgs,"(PARK, 90)",90,v
+Alexander Hamilton Playground,MANHATTAN,alexander hamilton playground,M,alexander hamilton playground,park_direct,,,av
+Haffen Park,BRONX,haffen park,X,haffen park,park_direct,,,av
+Virginia Playground,BRONX,virginia playground,X,virginia playground,park_direct,,,av
+Asser Levy Recreation Center,MANHATTAN,asser levy recreation center,M,asser levy park,empiric,,,av
+Pool - Dry Dock,MANHATTAN,pool - dry dock,M,dry dock pool,pool,"(dry dock pool, 95)",95,av
+Socrates Sculpture Park,QUEENS,socrates sculpture park,Q,socrates sculpture park,park_direct,,,av
+Mckinley Park - Mckinley Park Playground,BROOKLYN,mckinley park - mckinley park playground,B,mckinley park,pgs,"(Mckinley Park, 90)",90,av
+Pool - Abe Lincoln,MANHATTAN,pool - abe lincoln,M,abe lincoln pool,pool,"(abe lincoln pool, 95)",95,av
+Father Macris Park,STATEN ISLAND,father macris park,R,father macris park,park_direct,,,av
+Crotona Park - Hylan Park,BRONX,crotona park - hylan park,X,crotona park,empiric,,,av
+Van Cortlandt Park - Indian Memorial To Indian Field,BRONX,van cortlandt park - indian memorial to indian field,X,van cortlandt park,empiric,,,av
+Brady Playground,BRONX,brady playground,X,brady playground,pgs,"(Brady Playground, 100)",100,av
+Agnes Haywood Playground,BRONX,agnes haywood playground,X,agnes haywood playground,park_direct,,,av
+Tiger Playground,BROOKLYN,tiger playground,B,tiger playground,park_direct,,,av
+St Albans Park,QUEENS,st albans park,Q,st. albans park,other,"(st. albans park, 97)",97,av
+Herbert Von King Park,BROOKLYN,herbert von king park,B,herbert von king park,park_direct,,,av
+Marine Park - Doctor Johns Playground,BROOKLYN,marine park - doctor johns playground,B,marine park,empiric,,,av
+Pool - Astoria Park,QUEENS,pool - astoria park,Q,astoria pool,pool,"(crotona pool, 85)",85,v
+Harris Field,BRONX,harris field,X,harris park,other,"(a.r.r.o.w. field house, 85)",85,v
+Baisley Pond Park - 157th St Playground,QUEENS,baisley pond park - 157th st playground,Q,157th st playground,pgs,"(157th St Playground, 90)",90,av
+Frederick Johnson Park,MANHATTAN,frederick johnson park,M,frederick johnson playground,other,"(park, 90)",90,v
+Pool - David Fox - PS 251,BROOKLYN,pool - david fox - ps 251,B,david fox/ps 251 pool,pool,"(david fox/ps 251 pool, 95)",95,av
+Railroad Park Playground,BRONX,railroad park playground,X,railroad park,pgs,"(PARK, 90)",90,v
+Prospect Park - Imagination Playground,BROOKLYN,prospect park - imagination playground,B,prospect park,empiric,,,av
+Golf Course - Golden Bear Driving Range,QUEENS,golf course - golden bear driving range,Q,alley pond park,other,"(clearview golf course, 85)",85,v
+Sarsfield Playground,BROOKLYN,sarsfield playground,B,sarsfield playground,park_direct,,,av
+Alley Athletic Playground,QUEENS,alley athletic playground,Q,alley athletic playground,park_direct,,,av
+Star Spangled Playground,BROOKLYN,star spangled playground,B,star spangled playground,park_direct,,,av
+Middle Village Playground,QUEENS,middle village playground,Q,middle village playground,park_direct,,,av
+Pool - Highbridge,MANHATTAN,pool - highbridge,M,highbridge pool,pool,"(highbridge pool, 95)",95,av
+Penn Triangle,BROOKLYN,penn triangle,B,penn triangle,park_direct,,,av
+Central Park - West 100th Street Playground,MANHATTAN,central park - west 100th street playground,M,central park,empiric,,,av
+Underhill Playground - Brooklyn,BROOKLYN,underhill playground - brooklyn,B,underhill playground,pgs,"(Underhill Playground, 90)",90,av
+Aesop Playground,STATEN ISLAND,aesop playground,R,aesop playground,pgs,"(Aesop Playground, 100)",100,av
+Harlem Lane Park,MANHATTAN,harlem lane park,M,harlem lane playground,other,"(park, 90)",90,v
+Washington Market Park,MANHATTAN,washington market park,M,washington market park,park_direct,,,av
+Morris Garden,BRONX,morris garden,X,morris garden,park_direct,,,av
+Pool - Wagner,MANHATTAN,pool - wagner,M,wagner pool,pool,"(wagner pool, 95)",95,v
+Burns Playground,BRONX,burns playground,X,burns playground,park_direct,,,av
+Bowne Playground,QUEENS,bowne playground,Q,bowne playground,park_direct,,,av
+Moore Playground,MANHATTAN,moore playground,M,moore playground,park_direct,,,av
+Pool - Liberty,QUEENS,pool - liberty,Q,liberty pool,pool,"(liberty pool, 95)",95,av
+Pool - Tottenville,STATEN ISLAND,pool - tottenville,R,tottenville pool,pool,"(tottenville pool, 95)",95,av
+Crescent Beach,STATEN ISLAND,crescent beach,R,orchard beach and promenade,beach,"(orchard beach and promenade, 85)",85,av
+Ennis Park,BROOKLYN,ennis park,B,ennis playground,other,"(park, 90)",90,v
+Walter Ward Playground - PS 207,QUEENS,walter ward playground - ps 207,Q,walter ward playground,pgs,"(Walter Ward Playground, 95)",95,av
+Aqueduct Walk - Ben Abrams Playground,BRONX,aqueduct walk - ben abrams playground,X,ben abrams playground,pgs,"(Playground, 90)",90,v
+Walton Ave Aa Park,BRONX,walton ave aa park,X,walton park,other,"(park, 90)",90,v
+Rockaway Beach and Boardwalk - Beach 9th St Playground,QUEENS,rockaway beach and boardwalk - beach 9th st playground,Q,beach 9th street playground,pgs,"(Playground, 90)",90,v
+Fish Playground,BROOKLYN,fish playground,B,fish playground,park_direct,,,av
+Latimer Playground,QUEENS,latimer playground,Q,latimer playground,park_direct,,,av
+Colucci Playground,BRONX,colucci playground,X,colucci playground,park_direct,,,av
+Pool - Roy Wilkins,QUEENS,pool - roy wilkins,Q,roy wilkins pool,pool,"(roy wilkins pool, 95)",95,av
+Skyline Playground,STATEN ISLAND,skyline playground,R,skyline playground,park_direct,,,av
+Bay Terrace Playground - PS 169,QUEENS,bay terrace playground - ps 169,Q,bay terrace playground,pgs,"(Bay Terrace Playground, 95)",95,av
+Tappen Park,STATEN ISLAND,tappen park,R,tappen park,park_direct,,,av
+Crotona Park - Boxcar Playground,BRONX,crotona park - boxcar playground,X,crotona park,empiric,,,av
+Pool - Faber,STATEN ISLAND,pool - faber,R,faber pool,pool,"(faber pool, 95)",95,av
+Pool - Kosciusko,BROOKLYN,pool - kosciusko,B,kosciuszko pool,pool,"(kosciuszko pool, 92)",92,av
+Haggerty Park,QUEENS,haggerty park,Q,haggerty park,park_direct,,,av
+Recreation Center - Owen Dolen Senior Center,BRONX,recreation center - owen dolen senior center,X,owen f. dolen park,other,"(red hook recreation area, 85)",85,v
+Pratt Playground,BROOKLYN,pratt playground,B,pratt playground,park_direct,,,av
+Martin Luther King Jr Playground,BROOKLYN,martin luther king jr playground,B,martin luther playground,pgs,"(Martin Luther Playground, 95)",95,av
+Mckinley Playground,MANHATTAN,mckinley playground,M,mckinley playground,park_direct,,,av
+Springfield Park North,QUEENS,springfield park north,Q,springfield park north,park_direct,,,av
+Arcilla Playground,BRONX,arcilla playground,X,arcilla playground,park_direct,,,av
+Neptune Playground,BROOKLYN,neptune playground,B,neptune playground,park_direct,,,av
+Pelham Bay Park - Aileen Ryan Recreation Complex,BRONX,pelham bay park - aileen ryan recreation complex,X,pelham bay park,empiric,,,av
+Merriam Playground,BRONX,merriam playground,X,merriam playground,park_direct,,,av
+Ralph Demarco Park,QUEENS,ralph demarco park,Q,ralph demarco park,park_direct,,,av
+Schmul Park,STATEN ISLAND,schmul park,R,schmul park,park_direct,,,av
+Pool - Van Cortlandt,BRONX,pool - van cortlandt,X,van cortlandt park,empiric,,,av
+Waring Playground,BRONX,waring playground,X,waring playground,pgs,"(Waring Playground, 100)",100,av
+Saw Mill Playground,BRONX,saw mill playground,X,saw mill playground,park_direct,,,av
+Alley Springfield,QUEENS,alley springfield,Q,springfield park,other,"(alley park, 85)",85,v
+Grant Park,BRONX,grant park,X,grant park,park_direct,,,av
+Sunrise Playground - PS 195,QUEENS,sunrise playground - ps 195,Q,sunrise playground,pgs,"(Playground, 90)",90,v
+Fort Washington Park - Lily Brown Playground,MANHATTAN,fort washington park - lily brown playground,M,washington park,pgs,"(Washington Park, 90)",90,av
+Bradhurst Urban Renewal Park,MANHATTAN,bradhurst urban renewal park,M,bradhurst ave garden,other,"(park, 90)",90,v
+Renaissance Playground,MANHATTAN,renaissance playground,M,renaissance playground,park_direct,,,av
+Woodruff Playground,BROOKLYN,woodruff playground,B,woodruff playground,park_direct,,,av
+Cooper Park,BROOKLYN,cooper park,B,cooper park,park_direct,,,av
+Flynn Playground,BRONX,flynn playground,X,flynn playground,park_direct,,,av
+Monsignor Kett,MANHATTAN,monsignor kett,M,monsignor kett playground,other,"(monsignor kett playground, 90)",90,av
+Pool - John Jay,MANHATTAN,pool - john jay,M,john jay pool,pool,"(john jay pool, 95)",95,av
+Rockaway Beach and Boardwalk - Beach 59th St Playground,QUEENS,rockaway beach and boardwalk - beach 59th st playground,Q,beach 59th street playground,pgs,"(Playground, 90)",90,v
+Barrett Park,STATEN ISLAND,barrett park,R,barrett park,park_direct,,,av
+Martin Luther King Playground,MANHATTAN,martin luther king playground,M,martin luther king playground,park_direct,,,av
+Cooper Park - Carnegie Playground,BROOKLYN,cooper park - carnegie playground,B,carnegie playground,pgs,"(Carnegie Playground, 90)",90,av
+Juniper North Playground Tennis,QUEENS,juniper north playground tennis,Q,juniper north playground tennis,pgs,"(Juniper North Playground Tennis, 100)",100,av
+Maclaughlin Playground,BRONX,maclaughlin playground,X,maclaughlin playground,park_direct,,,av
+Pool - Thomas Jefferson,MANHATTAN,pool - thomas jefferson,M,thomas jefferson pool,pool,"(thomas jefferson pool, 95)",95,av
+Marion Hopkinson Playground,BROOKLYN,marion hopkinson playground,B,marion hopkinson playground,park_direct,,,av
+Aqueduct Walk - Parque De Los Ninos Playground,BRONX,aqueduct walk - parque de los ninos playground,X,parque de los ninos,pgs,"(Playground, 90)",90,v
+Linden Park,QUEENS,linden park,Q,linden park,park_direct,,,av
+Grand Canal Court,MANHATTAN,grand canal court,M,grand canal court,park_direct,,,av
+Queensboro Oval,MANHATTAN,queensboro oval,M,queensboro oval,park_direct,,,av
+Marx Brothers Playground,MANHATTAN,marx brothers playground,M,marx brothers playground,park_direct,,,av
+Coney Island Beach and Boardwalk,BROOKLYN,coney island beach and boardwalk,B,coney island and coney island boardwalk,beach,"(coney island and coney island boardwalk, 95)",95,av
+Pool - Red Hook Park,BROOKLYN,pool - red hook park,B,red hook recreation area,empiric,,,av
+Pool - Crotona,BRONX,pool - crotona,X,crotona pool,pool,"(crotona pool, 95)",95,av
+Flushing Meadows and Corona Park,QUEENS,flushing meadows and corona park,Q,flushing meadows corona park,empiric,,,av
+Luther Gulick Playground,MANHATTAN,luther gulick playground,M,luther gulick playground,park_direct,,,av
+Wingate Park,BROOKLYN,wingate park,B,wingate park,park_direct,,,av
+Prescott Playground,STATEN ISLAND,prescott playground,R,prescott playground,park_direct,,,av
+Admiral Farragut Playground,BRONX,admiral farragut playground,X,admiral farragut playground,park_direct,,,av
+Bayview Terrace Park,STATEN ISLAND,bayview terrace park,R,bayview terrace park,park_direct,,,av
+Walker Park,STATEN ISLAND,walker park,R,walker park,park_direct,,,av
+Detective Keith L. Williams Park,QUEENS,detective keith l. williams park,Q,detective keith l williams park,other,"(detective keith l williams park, 98)",98,av
+William McCray Playground,MANHATTAN,william mccray playground,M,william mccray playground,park_direct,,,av
+Aqueduct Walk - French Charley Playground,BRONX,aqueduct walk - french charley playground,X,french charley playground,pgs,"(Playground, 90)",90,v
+Ogden Plimpton Playground,BRONX,ogden plimpton playground,X,ogden plimpton playground,park_direct,,,av
+Alley Park - Wild Flower Meadow,QUEENS,alley park - wild flower meadow,Q,alley park,other,"(park, 90)",90,v
+Penn South Playground,MANHATTAN,penn south playground,M,penn south playground,park_direct,,,av
+Ten Eyck Plaza,BROOKLYN,ten eyck plaza,B,ten eyck plaza,park_direct,,,av
+Douglaston Park,QUEENS,douglaston park,Q,douglaston park golf course,other,"(park, 90)",90,v
+Allison Park,STATEN ISLAND,allison park,R,allison pond park,other,"(allison pond park, 95)",95,av
+South Pacific Playground,BROOKLYN,south pacific playground,B,south pacific playground,park_direct,,,av
+Courtney Callender Playground,MANHATTAN,courtney callender playground,M,courtney callender playground,park_direct,,,av
+Pool - Claremont,BRONX,pool - claremont,X,claremont pool,pool,"(claremont pool, 95)",95,av
+Recreation Center - St. James,BRONX,recreation center - st. james,X,st. james park,other,"(recreation center 54, 87)",87,v
+Pool - Commodore Barry,BROOKLYN,pool - commodore barry,B,commodore barry pool,pool,"(commodore barry pool, 95)",95,av
+Loreto Playground,BRONX,loreto playground,X,loreto playground,park_direct,,,av
+Brooklyn Bridge Park,BROOKLYN,brooklyn bridge park,B,brooklyn bridge park,park_direct,,,av
+Schenck Playground,BROOKLYN,schenck playground,B,schenck playground,park_direct,,,av
+Spuyten Duyvil Shorefront Park and Half Moon Overlook,BRONX,spuyten duyvil shorefront park and half moon overlook,X,spuyten duyvil shorefront park,other,"(spuyten duyvil shorefront park, 90)",90,av
+Pool - Fisher,QUEENS,pool - fisher,Q,fisher pool,pool,"(fisher pool, 95)",95,av
+Prospect Park - Main Entrance,BROOKLYN,prospect park - main entrance,B,prospect park,empiric,,,av
+South Shore Golf Course,STATEN ISLAND,south shore golf course,R,south shore golf course,golf,"(south shore golf course, 100)",100,av
+Playground Seventy Five - PS 154,QUEENS,playground seventy five - ps 154,Q,playground seventy-five,pgs,"(Playground Seventy-five, 95)",95,av
+Central Park - Spector Playground,MANHATTAN,central park - spector playground,M,central park,empiric,,,av
+Leif Ericson Drive Shore Parkway - Six Diamonds,BROOKLYN,leif ericson drive shore parkway - six diamonds,B,leif ericson park,other,"(tottenville shore park, 85)",85,v
+Abigail Playground,BRONX,abigail playground,X,abigail playground,park_direct,,,av
+Pool - Douglas and Degraw,BROOKLYN,pool - douglas and degraw,B,douglas and degraw pool,pool,"(douglas and degraw pool, 95)",95,av
+ABC Playground,MANHATTAN,abc playground,M,abc playground,park_direct,,,av
+Patterson Playground,BRONX,patterson playground,X,patterson playground,park_direct,,,av
+Barrier Playground,QUEENS,barrier playground,Q,barrier playground,park_direct,,,av
+Anibal Aviles Playground,MANHATTAN,anibal aviles playground,M,anibal aviles playground,park_direct,,,av
+Pulaski Playground,BROOKLYN,pulaski playground,B,pulaski playground,park_direct,,,av
+Gen Douglas Macarthur Park,MANHATTAN,gen douglas macarthur park,M,gen. douglas macarthur park,other,"(gen. douglas macarthur park, 98)",98,av
+Aqueduct Walk - Brady Playground,BRONX,aqueduct walk - brady playground,X,brady playground,pgs,"(Playground, 90)",90,v
+Pool - Tompkins Square,MANHATTAN,pool - tompkins square,M,tompkins square pool,pool,"(tompkins square pool, 95)",95,av
+Golf Course - Van Cortlandt,BRONX,golf course - van cortlandt,X,van cortlandt park,empiric,,,av
+Pelham Bay Park - Pelham South Park Headquarters,BRONX,pelham bay park - pelham south park headquarters,X,pelham bay park,empiric,,,av
+Elton Playground,BROOKLYN,elton playground,B,elton playground,park_direct,,,av
+Capt Tilly Park,QUEENS,capt tilly park,Q,captain tilly park,other,"(captain tilly park, 91)",91,av
+Augustus Saint Gaudens,MANHATTAN,augustus saint gaudens,M,augustus st. gaudens playground,other,"(augustus st. gaudens playground, 79)",79,av
+Saratoga Square Park,BROOKLYN,saratoga square park,B,"saratoga square urban renewal area, site 164",other,"(park, 90)",90,v
+Dr Ronald E McNair Playground,MANHATTAN,dr ronald e mcnair playground,M,dr. ronald e. mcnair playground,pgs,"(Dr. Ronald E. McNair Playground, 97)",97,av
+Mott Playground,BRONX,mott playground,X,mott playground,park_direct,,,av
+Terrace Playground,STATEN ISLAND,terrace playground,R,terrace playground,park_direct,,,av
+Pool - PS 14 Playground,STATEN ISLAND,pool - ps 14 playground,R,ps 14 playground pool,pool,"(Playground, 90)",90,v
+Central Park - Safari Playground,MANHATTAN,central park - safari playground,M,central park,empiric,,,av
+Aqueduct Walk - Aqueduct Lands Playground,BRONX,aqueduct walk - aqueduct lands playground,X,aqueduct lands playground,pgs,"(Playground, 90)",90,v
+Van Cortlandt Park - Mosholu Golf Course,BRONX,van cortlandt park - mosholu golf course,X,van cortlandt park,empiric,,,av
+City Line Park,BROOKLYN,city line park,B,city line park,park_direct,,,av
+Sean's Place,QUEENS,sean's place,Q,sean's place,park_direct,,,av
+Playground One Forty,QUEENS,playground one forty,Q,playground one forty,park_direct,,,av
+Mount Hope Playground,BRONX,mount hope playground,X,mount hope playground,park_direct,,,av
+Garibaldi Playground,BROOKLYN,garibaldi playground,B,garibaldi playground,park_direct,,,av
+Prospect Park - Third Street Playground,BROOKLYN,prospect park - third street playground,B,prospect park,empiric,,,av
+Loring Field,BRONX,loring field,X,vito locascio field,other,"(a.r.r.o.w. field house, 85)",85,v
+Dodger Playground,BROOKLYN,dodger playground,B,dodger playground,park_direct,,,av
+Fort Totten Park,QUEENS,fort totten park,Q,fort totten park,park_direct,,,av
+Howard Von Dohlen Playground,QUEENS,howard von dohlen playground,Q,howard von dohlen playground,park_direct,,,av
+Andrews Playground,QUEENS,andrews playground,Q,andrews playground,pgs,"(Andrews Playground, 100)",100,av
+Van Nest Park,BRONX,van nest park,X,van nest park,park_direct,,,av
+Pool - Jackie Robinson Park,MANHATTAN,pool - jackie robinson park,M,jackie robinson pool,pool,"(jackie robinson pool, 95)",95,av
+Tremont Park,BRONX,tremont park,X,tremont park,park_direct,,,av
+Francis Lewis Playground - PS 130,QUEENS,francis lewis playground - ps 130,Q,francis lewis playground,pgs,"(Francis Lewis Playground, 95)",95,av
+Sachkerah Woods Playground,BRONX,sachkerah woods playground,X,sachkerah woods playground,pgs,"(Sachkerah Woods Playground, 100)",100,av
+Pool - Recreation Center 54,MANHATTAN,pool - recreation center 54,M,recreation center 54 pool,pool,"(recreation center 54 pool, 95)",95,av
+Asser Levy - Asser Levy Playground,BROOKLYN,asser levy - asser levy playground,B,asser levy park,empiric,,,av
+Recreation Center - Detective Keith Williams (Liberty Park),QUEENS,recreation center - detective keith williams (liberty park),Q,detective keith l williams park,other,"(queensbridge park, 85)",85,v
+Pierrepont Playground,BROOKLYN,pierrepont playground,B,pierrepont playground,park_direct,,,av
+Van Alst Playground - PS 171,QUEENS,van alst playground - ps 171,Q,ps 171 - van alst playground,pgs,"(Ps 171 - Van Alst Playground, 95)",95,av
+Baisley Pond Park - Sutphin Playground,QUEENS,baisley pond park - sutphin playground,Q,sutphin playground,pgs,"(Sutphin Playground, 90)",90,av
+Epiphany Playground,BROOKLYN,epiphany playground,B,epiphany playground,park_direct,,,av
+Dutch Kills Playground - PS 112,QUEENS,dutch kills playground - ps 112,Q,dutch kills playground (ps 112),pgs,"(Dutch Kills Playground (ps 112), 98)",98,av
+Bayside Playground - JHS 180,QUEENS,bayside playground - jhs 180,Q,bayside playground/jhs 180 playground,pgs,"(Bayside Playground/jhs 180 Playground, 95)",95,av
+Turtle Playground,QUEENS,turtle playground,Q,turtle playground,park_direct,,,av
+Aqueduct Walk - River Park,BRONX,aqueduct walk - river park,X,aqueduct walk,other,"(park, 90)",90,v
+Midland Playground,STATEN ISLAND,midland playground,R,midland playground,park_direct,,,av
+Alley Pond Park - Horatio Playground,QUEENS,alley pond park - horatio playground,Q,horatio playground,pgs,"(Horatio Playground, 90)",90,av
+Playground 70,MANHATTAN,playground 70,M,playground 70,pgs,"(Playground 70, 100)",100,av
+Lafayette Playground,BROOKLYN,lafayette playground,B,lafayette playground,park_direct,,,av
+Chester Playground,QUEENS,chester playground,Q,chester playground,park_direct,,,av
+Laurelton Playground,QUEENS,laurelton playground,Q,laurelton playground,park_direct,,,av
+Greenwood Playground,BROOKLYN,greenwood playground,B,greenwood playground,park_direct,,,av
+Auburndale Playground - PS 32,QUEENS,auburndale playground - ps 32,Q,auburndale playground,pgs,"(Auburndale Playground, 95)",95,av
+Abe Lincoln,MANHATTAN,abe lincoln,M,lincoln center plaza,other,"(abe stark skating rink, 85)",85,v
+Paerdegat Park,BROOKLYN,paerdegat park,B,paerdegat park,park_direct,,,av
+Grace Playground,BROOKLYN,grace playground,B,grace playground,park_direct,,,av
+Woodtree Playground,QUEENS,woodtree playground,Q,woodtree playground,park_direct,,,av
+Pool - Marcus Garvey Park,MANHATTAN,pool - marcus garvey park,M,marcus garvey pool,pool,"(marcus garvey pool, 95)",95,av
+Sperandeo Brothers Playground,BROOKLYN,sperandeo brothers playground,B,sperandeo brothers playground,park_direct,,,av
+Pool - PS 46 Playground,,pool - ps 46 playground,,ps 46 playground pool,pool,"(Playground, 90)",90,v
+Playground Ninety PS 148,QUEENS,playground ninety ps 148,Q,playground ninety xc,pgs,"(Playground, 90)",90,v
+Nehemiah Park,BROOKLYN,nehemiah park,B,nehemiah park,park_direct,,,av
+American Playground,BROOKLYN,american playground,B,american playground,park_direct,,,av
+Nautilus Playground - Brooklyn,BROOKLYN,nautilus playground - brooklyn,B,nautilus playground,pgs,"(Nautilus Playground, 90)",90,av
+Mathew  Muliner Playground,BRONX,mathew  muliner playground,X,matthews muliner playground,pgs,"(Matthews Muliner Playground, 94)",94,av
+Flushing Meadows and Corona Park - Triassic Playground,QUEENS,flushing meadows and corona park - triassic playground,Q,flushing meadows corona park,empiric,,,av
+Telephone Playground - PS 205,QUEENS,telephone playground - ps 205,Q,telephone playground,pgs,"(Telephone Playground, 95)",95,av
+Oracle Playground,BROOKLYN,oracle playground,B,oracle playground,park_direct,,,av
+Ehrenreich Austin Playground,QUEENS,ehrenreich austin playground,Q,ehrenreich-austin playground,pgs,"(Ehrenreich-austin Playground, 100)",100,av
+Central Park - Dana Discovery Nature Center,MANHATTAN,central park - dana discovery nature center,M,central park,empiric,,,av
+Vleigh Playground - PS 165,QUEENS,vleigh playground - ps 165,Q,vleigh playground,pgs,"(Playground, 90)",90,v
+Charles W Cooke Farm Park,BRONX,charles w cooke farm park,X,charles w cooke farm garden,other,"(park, 90)",90,v
+Jerome Playground,BROOKLYN,jerome playground,B,jerome playground,park_direct,,,av
+Pol. Officer Edward Byrne Park,QUEENS,pol. officer edward byrne park,Q,police officer edward byrne park,other,"(police officer edward byrne park, 94)",94,av
+Eugenio Maria De Hostos Playground,BROOKLYN,eugenio maria de hostos playground,B,eugenio maria de hostos playground,pgs,"(Eugenio Maria De Hostos Playground, 100)",100,av
+Luna Park Playground,BROOKLYN,luna park playground,B,luna park playground,pgs,"(Luna Park Playground, 100)",100,av
+Pool - Bushwick,BROOKLYN,pool - bushwick,B,bushwick pool,pool,"(bushwick pool, 95)",95,av
+Behagen Playground,BRONX,behagen playground,X,behagen playground,park_direct,,,av
+Steinway Playground and JHS 141,QUEENS,steinway playground and jhs 141,Q,steinway playground (jhs 141),pgs,"(Steinway Playground (jhs 141), 95)",95,av
+Freedom Square,QUEENS,freedom square,Q,freedom square playground,other,"(freedom square playground, 90)",90,av
+Ericsson Playground,BROOKLYN,ericsson playground,B,ericsson playground,park_direct,,,av
+Challenge Playground - PS 187,QUEENS,challenge playground - ps 187,Q,challenge playground,pgs,"(Challenge Playground, 95)",95,av
+Pool - Tony Dapolito,MANHATTAN,pool - tony dapolito,M,tony dapolito pool,pool,"(tony dapolito pool, 95)",95,av
+Tiffany Playground,BRONX,tiffany playground,X,tiffany playground,park_direct,,,av
+Robert Venable Park,BROOKLYN,robert venable park,B,robert e. venable park,other,"(robert e. venable park, 95)",95,av
+Pool - West Brighton,STATEN ISLAND,pool - west brighton,R,west brighton pool,pool,"(west brighton pool, 95)",95,av
+Green Central Knoll,BROOKLYN,green central knoll,B,green central knoll,park_direct,,,av
+Prospect Park - The Bandshell A,BROOKLYN,prospect park - the bandshell a,B,prospect park,empiric,,,av
+Pool - Fort Totten,QUEENS,pool - fort totten,Q,fort totten pool,pool,"(fort totten pool, 95)",95,av
+Joseph C Sauer Playground,MANHATTAN,joseph c sauer playground,M,joseph c. sauer park,other,"(Playground, 90)",90,v
+Van Cortlandt Park - Old Croton Aqueduct Trail Middle,BRONX,van cortlandt park - old croton aqueduct trail middle,X,van cortlandt park,empiric,,,av
+Cedar Grove,STATEN ISLAND,cedar grove,R,cedar grove playground,other,"(cedar grove playground, 90)",90,av
+Kaltenmeier Playground,STATEN ISLAND,kaltenmeier playground,R,kaltenmeier playground,park_direct,,,av
+Bergen Beach Playground,BROOKLYN,bergen beach playground,B,bergen beach playground,park_direct,,,av
+Babi Yar Triangle,BROOKLYN,babi yar triangle,B,triangle,other,"(triangle, 90)",90,?
+Westbourne Playground,QUEENS,westbourne playground,Q,westbourne playground,park_direct,,,av
+Washington Park,BRONX,washington park,X,washington park,park_direct,,,av
+Washington Park,BRONX,washington park,X,washington park,park_direct,,,av
+Jennifer's Playground,STATEN ISLAND,jennifer's playground,R,jennifer's playground,park_direct,,,av
+Paul Raimonda Playground,QUEENS,paul raimonda playground,Q,paul raimonda playground,park_direct,,,av
+Edmonds Playground,BROOKLYN,edmonds playground,B,edmonds playground,park_direct,,,av
+St Mary's Playground South,BRONX,st mary's playground south,X,st mary's playground south,pgs,"(St Mary's Playground South, 100)",100,av
+Thorpe Family Playground,BRONX,thorpe family playground,X,thorpe family playground,park_direct,,,av
+Recreation Center - Bowne Park,QUEENS,recreation center - bowne park,Q,bowne park,other,"(park, 90)",90,v
+Willets Point Playground - PS 209,QUEENS,willets point playground - ps 209,Q,willets point playground,pgs,"(Willets Point Playground, 95)",95,av
+Lions' Pride Playground,BROOKLYN,lions' pride playground,B,lions' pride playground,pgs,"(Lions' Pride Playground, 100)",100,av
+Mae Grant Playground,MANHATTAN,mae grant playground,M,mae grant playground,park_direct,,,av
+Peter Minuit Park,MANHATTAN,peter minuit park,M,peter minuit playground,other,"(park, 90)",90,v
+Magenta Playground,BRONX,magenta playground,X,magenta playground,park_direct,,,av
+Pool - Lyons,STATEN ISLAND,pool - lyons,R,lyons pool,pool,"(lyons pool, 95)",95,av
+Capt Jacob Joseph Playground,MANHATTAN,capt jacob joseph playground,M,capt jacob joseph playground,pgs,"(Capt Jacob Joseph Playground, 100)",100,av
+Pool - PS 20 Playground (Adelphi),BROOKLYN,pool - ps 20 playground (adelphi),B,parham playground,pgs,"(Playground, 90)",90,v
+Scarangella Park,BROOKLYN,scarangella park,B,scarangella park,park_direct,,,av
+Flushing Meadows and Corona Park - Jurassic Playground,QUEENS,flushing meadows and corona park - jurassic playground,Q,flushing meadows corona park,empiric,,,av
+Mazzei Playground,BRONX,mazzei playground,X,mazzei playground,park_direct,,,av
+Pool - Sunset Park,BROOKLYN,pool - sunset park,B,sunset park pool,pool,"(sunset park pool, 95)",95,av
+Pool - Howard,BROOKLYN,pool - howard,B,howard pool,pool,"(howard pool, 95)",95,av
+Little Claremont Park,BRONX,little claremont park,X,little claremont park,park_direct,,,av
+Mellett Playground,BROOKLYN,mellett playground,B,mellett playground,park_direct,,,av
+Howard Playground,BROOKLYN,howard playground,B,howard playground,park_direct,,,av
+Pool - Haffen,BRONX,pool - haffen,X,haffen pool,pool,"(haffen pool, 95)",95,av
+Vidalia Park,BRONX,vidalia park,X,vidalia park,park_direct,,,av
+Power Playground,BROOKLYN,power playground,B,power playground,park_direct,,,av
+Col Charles Young Playground,MANHATTAN,col charles young playground,M,col charles young playground,pgs,"(Col Charles Young Playground, 100)",100,av
+Baisley Pond Park - Lakeview Lane Playground,QUEENS,baisley pond park - lakeview lane playground,Q,lakeview lane playground,pgs,"(Lakeview Lane Playground, 90)",90,av
+White Playground,STATEN ISLAND,white playground,R,white playground,park_direct,,,av
+White Playground,STATEN ISLAND,white playground,R,white playground,park_direct,,,av
+Rochdale Park Playground  at JHS 72,QUEENS,rochdale park playground  at jhs 72,Q,rochdale park (jhs 72),pgs,"(Playground, 90)",90,v
+Harvey Playground,QUEENS,harvey playground,Q,harvey playground,pgs,"(Harvey Playground, 100)",100,av
+Watson Gleason Playground,BRONX,watson gleason playground,X,watson gleason playground,park_direct,,,av
+Starlight Park - Daniel Boone Playground,BRONX,starlight park - daniel boone playground,X,daniel boone playground,pgs,"(Playground, 90)",90,v
+Lt Joseph Petrosino Park,BROOKLYN,lt joseph petrosino park,B,lt. joseph petrosino park,other,"(lt. joseph petrosino park, 98)",98,av
+Riverside Park - Neufeld Playgound,MANHATTAN,riverside park - neufeld playgound,M,riverside park,pgs,"(Riverside Park, 90)",90,av
+Horseshoe Playground,BRONX,horseshoe playground,X,horseshoe playground,park_direct,,,av
+Gutenberg Playground,MANHATTAN,gutenberg playground,M,gutenberg playground,park_direct,,,av
+Willow Lake Playground - PS 197,QUEENS,willow lake playground - ps 197,Q,willow lake playground,pgs,"(Willow Lake Playground, 95)",95,av
+Van Cortlandt Park - Golf House and Lower Putnam Trail,BRONX,van cortlandt park - golf house and lower putnam trail,X,van cortlandt park,empiric,,,av
+Prospect Park - Lower Long Meadow,BROOKLYN,prospect park - lower long meadow,B,prospect park,empiric,,,av
+174th St Playground,BRONX,174th st playground,X,174th st playground,pgs,"(174th St Playground, 100)",100,av
+Aqueduct Walk - 227 Street Playground,BRONX,aqueduct walk - 227 street playground,X,227st playground,pgs,"(Playground, 90)",90,v
+Ocean Hill Playground,BROOKLYN,ocean hill playground,B,ocean hill playground,park_direct,,,av
+Forest Park - Mary Whalen Playground,QUEENS,forest park - mary whalen playground,Q,forest park,empiric,,,av
+Weeksville Playground,BROOKLYN,weeksville playground,B,weeksville playground,park_direct,,,av
+Alley Park - PS 213 Playground,QUEENS,alley park - ps 213 playground,Q,alley park,pgs,"(PARK, 90)",90,v
+Browne Park - Boone Playground,QUEENS,browne park - boone playground,Q,daniel boone playground,pgs,"(PARK, 90)",90,v
+Nathan Weidenbaum Park,QUEENS,nathan weidenbaum park,Q,nathan weidenbaum park,park_direct,,,av
+Pelham Bay Park - Orchard Beach Parking Lot,BRONX,pelham bay park - orchard beach parking lot,X,pelham bay park,empiric,,,av
+Central Park - Ross Pinetum,MANHATTAN,central park - ross pinetum,M,central park,empiric,,,av
+Carlton Park,STATEN ISLAND,carlton park,R,carlton park,park_direct,,,av
+Bayswater Park - Bayswater Playground,QUEENS,bayswater park - bayswater playground,Q,bayswater playground,pgs,"(Bayswater Playground, 90)",90,av
+Loreto Park,BRONX,loreto park,X,loreto playground,other,"(park, 90)",90,v
+Jesse Owens Playground,BROOKLYN,jesse owens playground,B,jesse owens playground,park_direct,,,av
+PFC Norton Playground,BROOKLYN,pfc norton playground,B,pfc norton playground,park_direct,,,av
+St Nicholas Playground South,MANHATTAN,st nicholas playground south,M,st nicholas south playground,pgs,"(St Nicholas South Playground, 95)",95,av
+Midland Field,STATEN ISLAND,midland field,R,midland field,park_direct,,,av
+Osborn Playground,BROOKLYN,osborn playground,B,osborn playground,park_direct,,,av
+Gorman Playground,QUEENS,gorman playground,Q,gorman playground,park_direct,,,av
+Powell Playground,BROOKLYN,powell playground,B,powell playground,park_direct,,,av
+Recreation Center - Hunt's Point,BRONX,recreation center - hunt's point,X,julio carballo fields,other,"(marcy green center, 85)",85,v
+Israel Putnam - PS 44,BROOKLYN,israel putnam - ps 44,B,p.s. 44,school,"(Ps/is 187, 85)",85,v
+Kennedy King Playground,BROOKLYN,kennedy king playground,B,kennedy king playground,park_direct,,,av
+Prospect Park - Lefferts Homestead Carousel,BROOKLYN,prospect park - lefferts homestead carousel,B,prospect park,empiric,,,av
+Bleecker Playground,MANHATTAN,bleecker playground,M,bleecker playground,park_direct,,,av
+Cauldwell Playground,BRONX,cauldwell playground,X,cauldwell playground,pgs,"(Cauldwell Playground, 100)",100,av
+Millbrook Playground,BRONX,millbrook playground,X,millbrook playground,park_direct,,,av
+The Creative Little Garden,MANHATTAN,the creative little garden,M,the creative little garden,park_direct,,,av
+Arthur Von Briesen Park,STATEN ISLAND,arthur von briesen park,R,von briesen park,other,"(von briesen park, 95)",95,av
+Greenpoint Playground,BROOKLYN,greenpoint playground,B,greenpoint playground,park_direct,,,av
+Beach Channel Playground - PS 183,QUEENS,beach channel playground - ps 183,Q,beach channel playground,pgs,"(Beach Channel Playground, 95)",95,av
+Jackie Robinson Park Playground - School,BROOKLYN,jackie robinson park playground - school,B,jackie robinson park,pgs,"(Jackie Robinson Park, 90)",90,av
+Ampere Playground - PS 64,QUEENS,ampere playground - ps 64,Q,ampere playground,pgs,"(Ampere Playground, 95)",95,av
+Nostrand Playground,BROOKLYN,nostrand playground,B,nostrand playground,park_direct,,,av
+Stockton Playground,BROOKLYN,stockton playground,B,stockton playground,park_direct,,,av
+William T Davis Wildlife Refuge,STATEN ISLAND,william t davis wildlife refuge,R,davis playground,other,"(davis playground, 85)",85,av
+Decatur Playground,BROOKLYN,decatur playground,B,decatur playground,park_direct,,,av
+Garrison Playground,BRONX,garrison playground,X,garrison playground,park_direct,,,av
+Recreation Center - St. Mary's,BRONX,recreation center - st. mary's,X,st. mary's park,other,"(marcy green center, 85)",85,v
+Crotona Park - Playground Of The Stars,BRONX,crotona park - playground of the stars,X,crotona park,empiric,,,av
+Playground Eighty - PS 115,QUEENS,playground eighty - ps 115,Q,playground eighty (lxxx),pgs,"(Playground, 90)",90,v
+35 Playground,QUEENS,35 playground,Q,ravenswood playground,pgs,"(Playground, 95)",95,v
+Van Cortlandt Park - Stables Area,BRONX,van cortlandt park - stables area,X,van cortlandt park,empiric,,,av
+Julio Carballo Field,BRONX,julio carballo field,X,julio carballo fields,other,"(julio carballo fields, 98)",98,av
+Starlight Park - Bridge Playground,BRONX,starlight park - bridge playground,X,bridge playground,pgs,"(Playground, 90)",90,v
+Highbridge Recreation Center,MANHATTAN,highbridge recreation center,M,highbridge park,other,"(recreation center 54, 87)",87,v
+Brook Park,BRONX,brook park,X,brook park,park_direct,,,av
+Clintonville Playground - JHS 194,QUEENS,clintonville playground - jhs 194,Q,clintonville playground,pgs,"(Clintonville Playground, 95)",95,av
+Jamaica Playground - PS 40,BROOKLYN,jamaica playground - ps 40,B,jamaica playground (ps 40),pgs,"(Jamaica Playground (ps 40), 98)",98,av
+Stars and Stripes Playground,BRONX,stars and stripes playground,X,stars  stripes playground,pgs,"(Stars nd Stripes Playground, 98)",98,av
+Hammel Playground,QUEENS,hammel playground,Q,hammel playground,park_direct,,,av
+Coleman Square Playground,MANHATTAN,coleman square playground,M,coleman playground,pgs,"(Coleman Playground, 95)",95,av
+Carmansville Playground,MANHATTAN,carmansville playground,M,carmansville playground,park_direct,,,av
+Police Officer Edward Byrne Park,QUEENS,police officer edward byrne park,Q,police officer edward byrne park,park_direct,,,av
+Linden Park - JHS 166,BROOKLYN,linden park - jhs 166,B,linden park,other,"(park, 90)",90,v
+Scarangella Park - Lafayette Playground,BROOKLYN,scarangella park - lafayette playground,B,lafayette playground,pgs,"(Lafayette Playground, 90)",90,av
+Hunt's Point Riverside Park,BRONX,hunt's point riverside park,X,hunts point riverside park,other,"(hunts point riverside park, 98)",98,av
+Saul Weprin Playground - PS 162,QUEENS,saul weprin playground - ps 162,Q,saul weprin playground,pgs,"(Saul Weprin Playground, 95)",95,av
+107th Street Pier,BROOKLYN,107th street pier,B,pier 107 cvii,other,"(pier 42, 85)",85,v
+Central Park - Conservatory Garden,MANHATTAN,central park - conservatory garden,M,central park,empiric,,,av
+Newtown Barge Terminal Playground,BROOKLYN,newtown barge terminal playground,B,newtown barge terminal playground,pgs,"(Newtown Barge Terminal Playground, 100)",100,av
+Clinton Community Garden,MANHATTAN,clinton community garden,M,clinton community garden,park_direct,,,av
+Fort Greene Playground,BROOKLYN,fort greene playground,B,fort greene playground,pgs,"(Fort Greene Playground, 100)",100,av
+Buswhick Playground,BROOKLYN,buswhick playground,B,bushwick playground,pgs,"(Bushwick Playground, 95)",95,av
+Maurice A Fitzgerald Playground,QUEENS,maurice a fitzgerald playground,Q,maurice a fitzgerald playground,park_direct,,,av
+Barretto Park,BRONX,barretto park,X,barretto park,park_direct,,,av
+Central Park - Pat Hoffman Friedman Playground,MANHATTAN,central park - pat hoffman friedman playground,M,central park,empiric,,,av
+Golf Course - Dyker Beach,BROOKLYN,golf course - dyker beach,B,dyker beach golf course,golf,"(manhattan beach, 85)",85,v
+Stanley Isaacs Court,MANHATTAN,stanley isaacs court,M,stanley isaacs playground,other,"(west 186th street basketball court, 85)",85,v
+Grady Playground,BROOKLYN,grady playground,B,grady playground,park_direct,,,av
+Old Town Playground,STATEN ISLAND,old town playground,R,old town playground,park_direct,,,av
+Red Hook Park - Bush Clinton Park Playground,QUEENS,red hook park - bush clinton park playground,Q,red hook recreation area,empiric,,,av
+Pontiac Playground,BRONX,pontiac playground,X,pontiac playground,park_direct,,,av
+Steeplechase Park,BROOKLYN,steeplechase park,B,steeplechase park,park_direct,,,av
+Sheltering Arms Park,MANHATTAN,sheltering arms park,M,sheltering arms playground,other,"(park, 90)",90,v
+Pelham Bay Park - Orchard Beach Playground,BRONX,pelham bay park - orchard beach playground,X,pelham bay park,empiric,,,av
+Van Cortlandt Park - North East Forest,BRONX,van cortlandt park - north east forest,X,van cortlandt park,empiric,,,av
+Forest Park - Joseph Devoy Playground,QUEENS,forest park - joseph devoy playground,Q,forest park,empiric,,,av
+Corporal John A Seravalli Playground,BRONX,corporal john a seravalli playground,X,corporal john a. seravalli playground,empiric,,,av
+Jacobs Ladder,BROOKLYN,jacobs ladder,B,jacob's ladder playground,other,"(jacob's ladder playground, 85)",85,av
+Cuite Park,BROOKLYN,cuite park,B,thomas j. cuite park,other,"(park, 90)",90,v
+George Walker Jr. Park,BROOKLYN,george walker jr. park,B,george walker jr. park,park_direct,,,av
+Brooklyn Bears Rockwell Pl Garden,BROOKLYN,brooklyn bears rockwell pl garden,B,brooklyn bears rockwell pl garden,park_direct,,,av
+Hunts Point Playground,BRONX,hunts point playground,X,hunts point playground,park_direct,,,av
+Lower Highland Playground,BROOKLYN,lower highland playground,B,lower highland playground,pgs,"(Lower Highland Playground, 100)",100,av
+Clason Point Park,BRONX,clason point park,X,soundview park,other,"(park, 90)",90,v
+Space Time Playground,BRONX,space time playground,X,space time playground,park_direct,,,av
+P.O. Serrano Playground,BRONX,p.o. serrano playground,X,p.o. serrano playground,park_direct,,,av
+Randall's Island Park,MANHATTAN,randall's island park,M,randall's island park,park_direct,,,av
+Canal Park,MANHATTAN,canal park,M,canal park,park_direct,,,av
+Recreation Center - Lost Battalion Hall,QUEENS,recreation center - lost battalion hall,Q,lost battalion hall recreation center,other,"(lost battalion hall recreation center, 95)",95,av
+Frank Golden Park,QUEENS,frank golden park,Q,frank golden park,park_direct,,,av
+Henry M Jackson Playground,MANHATTAN,henry m jackson playground,M,henry m jackson playground,pgs,"(Henry M Jackson Playground, 100)",100,av
+South Rochdale Playground - PS 80,QUEENS,south rochdale playground - ps 80,Q,south rochdale playground,pgs,"(South Rochdale Playground, 95)",95,av
+Canarsie Park - Dinapoli Playground,BROOKLYN,canarsie park - dinapoli playground,B,dinapoli playground,pgs,"(Dinapoli Playground, 90)",90,av
+Fresh Creek Nature Preserve,BROOKLYN,fresh creek nature preserve,B,fresh creek nature preserve,park_direct,,,av
+Reeds Basket Willow's Swamp,STATEN ISLAND,reeds basket willow's swamp,R,reed's basket willow swamp park,other,"(reed's basket willow swamp park, 86)",86,av
+James Weldon Johnson Playground - PS 57,MANHATTAN,james weldon johnson playground - ps 57,M,james weldon johnson playground,pgs,"(James Weldon Johnson Playground, 95)",95,av
+Merriam Playground - Upper,BRONX,merriam playground - upper,X,merriam playground (upper),pgs,"(Merriam Playground (upper), 98)",98,av
+Golf Course - Randalls Island Driving Range,MANHATTAN,golf course - randalls island driving range,M,randall's island park,other,"(clearview golf course, 85)",85,v
+Bayside Fields,QUEENS,bayside fields,Q,bayside fields,park_direct,,,av
+Fresh Meadows Playground - PS 173,QUEENS,fresh meadows playground - ps 173,Q,fresh meadows playground,pgs,"(Fresh Meadows Playground, 95)",95,av
+Recreation Center - North Meadow,MANHATTAN,recreation center - north meadow,M,central park,other,"(marcy green center, 85)",85,v
+Upper Highland Playground,BROOKLYN,upper highland playground,B,upper highland playground,pgs,"(Upper Highland Playground, 100)",100,av
+Bridge Park 3,BROOKLYN,bridge park 3,B,bridge park 3,park_direct,,,av
+Frank Golden Park - 136 Street Playground,QUEENS,frank golden park - 136 street playground,Q,136 st playground,pgs,"(Playground, 90)",90,v
+Arrow Community Garden,QUEENS,arrow community garden,Q,a.r.r.o.w. field house,other,"(garden, 90)",90,av
+Horace Harding Playground - PS 206,QUEENS,horace harding playground - ps 206,Q,horace harding playground,pgs,"(Horace Harding Playground, 95)",95,av
+Greencroft Playground - PS 53,STATEN ISLAND,greencroft playground - ps 53,R,greencroft playground,pgs,"(Greencroft Playground, 95)",95,av
+Pelham Bay Park - Orchard Beach Pavilion,BRONX,pelham bay park - orchard beach pavilion,X,pelham bay park,empiric,,,av
+Wald Playground,MANHATTAN,wald playground,M,wald playground,park_direct,,,av
+Ocean Parkway Malls,BROOKLYN,ocean parkway malls,B,ocean parkway malls,park_direct,,,av
+Pat Williams Playground,QUEENS,pat williams playground,Q,pat williams playground,park_direct,,,av
+Highbridge Park - Fort George Playground,MANHATTAN,highbridge park - fort george playground,M,ft george playground,pgs,"(Playground, 90)",90,v
+Flushing Meadows and Corona Park - World Ice Arena,QUEENS,flushing meadows and corona park - world ice arena,Q,flushing meadows corona park,empiric,,,av
+Nathan Straus Playground - PS 140,MANHATTAN,nathan straus playground - ps 140,M,nathan straus playground,pgs,"(Nathan Straus Playground, 95)",95,av
+Recreation Center - Mullaly,BRONX,recreation center - mullaly,X,mullaly park,other,"(recreation center 54, 87)",87,v
+East Springfield Playground,QUEENS,east springfield playground,Q,east springfield playground,park_direct,,,av
+Highbridge Park - CPF Playground,MANHATTAN,highbridge park - cpf playground,M,cpf playground,pgs,"(PARK, 90)",90,v
+Cabbell Park,QUEENS,cabbell park,Q,cabbell park,pgs,"(park, 90)",90,v
+Saint Nicholas Park - Arlington Ollie Edinboro Playground,MANHATTAN,saint nicholas park - arlington ollie edinboro playground,M,arlington edinboro playground,pgs,"(Playground, 90)",90,v
+Houston Playground,BROOKLYN,houston playground,B,houston playground,park_direct,,,av
+Breukelen Park,BROOKLYN,breukelen park,B,breukelen playground,pgs,"(park, 90)",90,v
+Jackie Robinson Park,MANHATTAN,jackie robinson park,M,jackie robinson park,park_direct,,,av
+Jackie Robinson Park,MANHATTAN,jackie robinson park,M,jackie robinson park,park_direct,,,av
+Sunshine Playground,MANHATTAN,sunshine playground,M,sunshine playground,park_direct,,,av
+Laurelton Parkway,QUEENS,laurelton parkway,Q,laurelton parkway,park_direct,,,av
+79th Street Boat Basin Marina,MANHATTAN,79th street boat basin marina,M,henry hudson parkway,other,"(thursby basin park, 85)",85,v
+Prospect Park - Ocean Avenue,BROOKLYN,prospect park - ocean avenue,B,prospect park,empiric,,,av
+Hoe Garden,BRONX,hoe garden,X,hoe garden,park_direct,,,av
+Pelham Bay Park - Central Woodland,BRONX,pelham bay park - central woodland,X,pelham bay park,empiric,,,av
+100 Percent Playground - PS 242,QUEENS,100 percent playground - ps 242,Q,100% playground,pgs,"(Playground, 90)",90,v
+Lannett Playground - PS 197,QUEENS,lannett playground - ps 197,Q,lannett playground,pgs,"(Playground, 90)",90,v
+115th Street Playground,QUEENS,115th street playground,Q,115th street playground,pgs,"(115th Street Playground, 100)",100,av
+Monsignor Mcgolrick Playground,BROOKLYN,monsignor mcgolrick playground,B,monsignor mcgolrick playground,pgs,"(Monsignor Mcgolrick Playground, 100)",100,av
+Ambrosini Field,BRONX,ambrosini field,X,ambrosini field,park_direct,,,av
+Bayswater Park,QUEENS,bayswater park,Q,bayswater park,park_direct,,,av
+Lafayette Gardens Playground,BROOKLYN,lafayette gardens playground,B,lafayette gardens playground,park_direct,,,av
+Tanahey Playground,MANHATTAN,tanahey playground,M,tanahey playground,park_direct,,,av
+Gunn Park - PS 18,QUEENS,gunn park - ps 18,Q,p.s. 18,school,"(Ps/is 187, 85)",85,v
+Gowanus Playground,BROOKLYN,gowanus playground,B,gowanus playground,pgs,"(Gowanus Playground, 100)",100,av
+Van Cortlandt Park - Parade Ground South,BRONX,van cortlandt park - parade ground south,X,van cortlandt park,empiric,,,av
+Rockaway Playground - N,QUEENS,rockaway playground - n,Q,rockaway playground - n,pgs,"(Rockaway Playground - N, 100)",100,av
+Riverside Park - Riverbank Playground,MANHATTAN,riverside park - riverbank playground,M,riverside park,pgs,"(Riverside Park, 90)",90,av
+Crotona Park - Prospect Park Playground,BRONX,crotona park - prospect park playground,X,prospect park,empiric,,,av
+Angelo Campanero Playground,BRONX,angelo campanero playground,X,angelo campanero playground,pgs,"(Angelo Campanero Playground, 100)",100,av
+Playground 62 - PS 220,QUEENS,playground 62 - ps 220,Q,playground sixty-two,pgs,"(Playground, 90)",90,v
+Little Flower Playground,MANHATTAN,little flower playground,M,little flower playground,park_direct,,,av
+174 St Playground,QUEENS,174 st playground,Q,174 st playground,pgs,"(174 St Playground, 100)",100,av
+Macarthur Park,STATEN ISLAND,macarthur park,R,macarthur park,park_direct,,,av
+Golf Course - Forest Park,QUEENS,golf course - forest park,Q,forest park,empiric,,,av
+Hinton Park,QUEENS,hinton park,Q,hinton park,park_direct,,,av
+Recreation Center - Williamsbridge Oval,BRONX,recreation center - williamsbridge oval,X,williamsbridge oval,other,"(williamsbridge oval, 90)",90,av
+Flushing Meadows and Corona Park - Buzz Vollmer Playground,QUEENS,flushing meadows and corona park - buzz vollmer playground,Q,flushing meadows corona park,empiric,,,av
+Central Park - Sheep Meadow,MANHATTAN,central park - sheep meadow,M,central park,empiric,,,av
+Herman Dolgon Playground,BROOKLYN,herman dolgon playground,B,herman dolgon playground,park_direct,,,av
+PS 155 Playground,MANHATTAN,ps 155 playground,M,ps 155 playground,pgs,"(Ps 155 Playground, 100)",100,av
+Miracle Garden,MANHATTAN,miracle garden,M,miracle garden,park_direct,,,av
+Miracle Garden,MANHATTAN,miracle garden,M,miracle garden,park_direct,,,av
+Golf Course - LaTourette,STATEN ISLAND,golf course - latourette,R,la tourette golf course,golf,"(la tourette golf course, 93)",93,av
+Downing Street Playground,MANHATTAN,downing street playground,M,downing street playground,park_direct,,,av
+Cadwallader Colden Playground - PS 214,QUEENS,cadwallader colden playground - ps 214,Q,cadwallader colden playground,pgs,"(Cadwallader Colden Playground, 95)",95,av
+100 Percent Playground - PS 242,BROOKLYN,100 percent playground - ps 242,B,100% playground,pgs,"(Playground, 90)",90,v
+Recreation Center - Playground for All Children,QUEENS,recreation center - playground for all children,Q,playground for all children,pgs,"(Playground, 90)",90,v
+Sixteen Sycamores Playground,BROOKLYN,sixteen sycamores playground,B,sixteen sycamores playground,park_direct,,,av
+Peace Park,BRONX,peace park,X,peace park,park_direct,,,av
+Real Good Park,QUEENS,real good park,Q,real good park,park_direct,,,av
+Inwood Hill Park - The Clove,MANHATTAN,inwood hill park - the clove,M,inwood hill park,empiric,,,av
+Linnaeus Playground,QUEENS,linnaeus playground,Q,linnaeus park,other,"(Playground, 90)",90,v
+Gonzalo Plasencia Playground,BROOKLYN,gonzalo plasencia playground,B,gonzalo plasencia playground,park_direct,,,av
+Captain Mario Fajardo Park,QUEENS,captain mario fajardo park,Q,captain mario fajardo park,pgs,"(park, 90)",90,v
+Van Cortlandt Park - Croton Woods,BRONX,van cortlandt park - croton woods,X,van cortlandt park,empiric,,,av
+Mcdonald Playground - Brooklyn,QUEENS,mcdonald playground - brooklyn,Q,mcdonald playground,pgs,"(Mcdonald Playground, 90)",90,av
+Mercer Playground,MANHATTAN,mercer playground,M,mercer playground,park_direct,,,av
+Tot Lot 116,MANHATTAN,tot lot 116,M,riverside park,other,"(lot, 90)",90,v
+Youth Village,BRONX,youth village,X,youth village,park_direct,,,av
+Seeley Park,BROOKLYN,seeley park,B,seeley park,park_direct,,,av
+Starr Playground,QUEENS,starr playground,Q,starr playground,park_direct,,,av
+Recreation Center - Alfred E. Smith,MANHATTAN,recreation center - alfred e. smith,M,alfred e. smith recreation center,recr,"(marcy green center, 85)",85,v
+Laurelton West Playground,QUEENS,laurelton west playground,Q,laurelton west playground,pgs,"(Laurelton West Playground, 100)",100,av
+Cunningham Park - Mclaughlin Playground,BRONX,cunningham park - mclaughlin playground,X,mclaughlin playground,pgs,"(Mclaughlin Playground, 90)",90,av
+Montbellier Park,QUEENS,montbellier park,Q,montbellier park,park_direct,,,av
+Pelham Bay Park - Playground For All Children,BRONX,pelham bay park - playground for all children,X,pelham bay park,empiric,,,av
+Underhill Playground - Queens,QUEENS,underhill playground - queens,Q,underhill playground,pgs,"(Underhill Playground, 95)",95,av
+Sy Seplowe Playground - PS 94,QUEENS,sy seplowe playground - ps 94,Q,p.s. 94,school,"(Playground, 90)",90,v
+Lieutenant Petrosino Square,MANHATTAN,lieutenant petrosino square,M,petrosino square,other,"(petrosino square, 90)",90,av
+Central Park - Blockhouse One,MANHATTAN,central park - blockhouse one,M,central park,empiric,,,av
+Staten Island Greenbelt - Southwest Latourette,STATEN ISLAND,staten island greenbelt - southwest latourette,R,greenbelt native plant center,empiric,,,av
+Judge Moses Weinstein Playground,QUEENS,judge moses weinstein playground,Q,judge moses weinstein playground,park_direct,,,av
+Van Cortlandt Park - NW Forest,BRONX,van cortlandt park - nw forest,X,van cortlandt park,empiric,,,av
+"Van Cortlandt Park - Mansion, Tennis Courts, Memorial Grove",BRONX,"van cortlandt park - mansion, tennis courts, memorial grove",X,van cortlandt park,empiric,,,av
+P.O. Nicholas Demutis Playground,QUEENS,p.o. nicholas demutis playground,Q,police officer nicholas demuti,pgs,"(Playground, 90)",90,v
+Kaiser Park - Leon S Kaiser Playground,BROOKLYN,kaiser park - leon s kaiser playground,B,leon s kaiser playground,pgs,"(Leon S Kaiser Playground, 90)",90,av
+Jamaica Bay Park,QUEENS,jamaica bay park,Q,jamaica bay park,park_direct,,,av
+101 Street Soccer Field,MANHATTAN,101 street soccer field,M,101st st. soccer field,pgs,"(ambrosini field, 85)",85,v
+Ramon Aponte Park,MANHATTAN,ramon aponte park,M,ramon aponte park,park_direct,,,av
+Coleman Playground,MANHATTAN,coleman playground,M,coleman playground,park_direct,,,av
+Powell's Cove Park,QUEENS,powell's cove park,Q,powell's cove park,park_direct,,,av
+Rainey Park - Bronx,BRONX,rainey park - bronx,X,rainey park playground,pgs,"(park, 90)",90,v
+Remsen Playground,BROOKLYN,remsen playground,B,remsen playground,park_direct,,,av
+Frederick B Judge Playground,QUEENS,frederick b judge playground,Q,frederick b judge playground,pgs,"(Frederick B Judge Playground, 100)",100,av
+Recreation Center - J. Hood Wright,MANHATTAN,recreation center - j. hood wright,M,j. hood wright recreation center,recr,"(marcy green center, 85)",85,v
+P. O. Serrano Playground,BRONX,p. o. serrano playground,X,p. o. serrano playground,pgs,"(P. O. Serrano Playground, 100)",100,av
+Alice Austen House and Park,STATEN ISLAND,alice austen house and park,R,alice austen park,other,"(park, 90)",90,v
+Crotona Park - Carter Playground,BRONX,crotona park - carter playground,X,crotona park,empiric,,,av
+Addabbo Playground,QUEENS,addabbo playground,Q,addabbo playground,pgs,"(Addabbo Playground, 100)",100,av
+Tot Lot One Hundred And Ten,MANHATTAN,tot lot one hundred and ten,M,riverside park,other,"(franklin d. roosevelt boardwalk and beach, 85)",85,v
+Evergreen Playground,BROOKLYN,evergreen playground,B,evergreen playground,park_direct,,,av
+Riverside Park - Palisades Playground,MANHATTAN,riverside park - palisades playground,M,riverside park,pgs,"(Riverside Park, 90)",90,av
+River Park,BRONX,river park,X,harlem river park,other,"(park, 90)",90,v
+Golf Course - Marine Park,BROOKLYN,golf course - marine park,B,marine park,empiric,,,av
+Jackie Robinson Playground,BROOKLYN,jackie robinson playground,B,jackie robinson playground,park_direct,,,av
+Rockaway Community Park,QUEENS,rockaway community park,Q,rockaway community park,park_direct,,,av
+Park Slope Playground,QUEENS,park slope playground,Q,park slope playground,park_direct,,,av
+Forest Park - Mary Whalen Playground,BRONX,forest park - mary whalen playground,X,forest park,empiric,,,av
+Fort 4 Playground,BRONX,fort 4 playground,X,fort #4 playground,pgs,"(Fort #4 Playground, 97)",97,av
+Brooklyn Botanic Garden 1 - EXPIRE,BROOKLYN,brooklyn botanic garden 1 - expire,B,brooklyn botanic garden,other,"(brooklyn botanic garden, 95)",95,av
+Central Park - Heckscher Ballfields and Playground,MANHATTAN,central park - heckscher ballfields and playground,M,central park,empiric,,,av
+Glendale Playground,QUEENS,glendale playground,Q,glendale playground,pgs,"(Glendale Playground, 100)",100,av
+Frederick B Judge Memorial Playground,QUEENS,frederick b judge memorial playground,Q,frederick b judge playground,pgs,"(Frederick B Judge Playground, 95)",95,av
+Tall Oak Playground - PS 46,QUEENS,tall oak playground - ps 46,Q,tall oak playground,pgs,"(Tall Oak Playground, 95)",95,av
+Equity Park,QUEENS,equity park,Q,equity park,park_direct,,,av
+Maclaughlin,BRONX,maclaughlin,X,maclaughlin playground,other,"(maclaughlin playground, 90)",90,av
+Eastchester  Playground,BRONX,eastchester  playground,X,eastchester playground,pgs,"(Eastchester Playground, 98)",98,av
+Queensbridge Baby Park,QUEENS,queensbridge baby park,Q,queensbridge park,other,"(queensbridge park, 95)",95,av
+Morgan Playground,BRONX,morgan playground,X,morgan playground,park_direct,,,av
+St Mary's Playground East,BRONX,st mary's playground east,X,st mary's playground east,pgs,"(St Mary's Playground East, 100)",100,av
+Roebling Playground,BROOKLYN,roebling playground,B,roebling playground,park_direct,,,av
+Galapo Playground,BROOKLYN,galapo playground,B,galapo playground,park_direct,,,av
+East Elmhurst Playground - PS 127,QUEENS,east elmhurst playground - ps 127,Q,east elmhurst playground,pgs,"(East Elmhurst Playground, 95)",95,av
+Broad Channel American Park,QUEENS,broad channel american park,Q,broad channel american park,park_direct,,,av
+Columbus Park - Korean War Veterans Plaza,BROOKLYN,columbus park - korean war veterans plaza,B,columbus park,other,"(columbus park, 90)",90,av
+Prospect Playground,BRONX,prospect playground,X,prospect playground,park_direct,,,av
+Pleasant Village Community Gdn,MANHATTAN,pleasant village community gdn,M,pleasant village community garden,other,"(pleasant village community garden, 95)",95,av
+Hellgate Field,QUEENS,hellgate field,Q,whitey ford field,other,"(a.r.r.o.w. field house, 85)",85,v
+Central Park - Conservatory Gardens West Landscape,MANHATTAN,central park - conservatory gardens west landscape,M,central park,empiric,,,av
+Goodwin Gardens,BROOKLYN,goodwin gardens,B,goodwin gardens,park_direct,,,av
+Northerleigh Park,STATEN ISLAND,northerleigh park,R,northerleigh park,park_direct,,,av
+Benson Playground,BROOKLYN,benson playground,B,benson playground,park_direct,,,av
+Mariners Harbor Playground,STATEN ISLAND,mariners harbor playground,R,mariners harbor playground,park_direct,,,av
+Staten Island Greenbelt Park - William T. Davis Wildlife Refuge,STATEN ISLAND,staten island greenbelt park - william t. davis wildlife refuge,R,greenbelt native plant center,empiric,,,av
+Cypress Hills Park,BROOKLYN,cypress hills park,B,cypress hills playground,other,"(park, 90)",90,v
+Arden Woods,STATEN ISLAND,arden woods,R,arden woods,park_direct,,,av
+Central Park - West 68th Street Playground,MANHATTAN,central park - west 68th street playground,M,central park,empiric,,,av
+Pearl St Playground,MANHATTAN,pearl st playground,M,pearl st playground,park_direct,,,av
+Alfred E Smith Park,MANHATTAN,alfred e smith park,M,alfred e. smith playground,other,"(park, 90)",90,v
+Tudor Grove Playground,MANHATTAN,tudor grove playground,M,tudor grove playground,park_direct,,,av
+Playground Of The Americas,MANHATTAN,playground of the americas,M,playground of the americas,park_direct,,,av
+Playground One Twenty Five - PS 125,MANHATTAN,playground one twenty five - ps 125,M,ps 125 playground,pgs,"(Playground, 90)",90,v
+Alley Pond Park - Wild Flower Meadow,QUEENS,alley pond park - wild flower meadow,Q,alley pond park,other,"(alley pond park, 90)",90,av
+Central Park - The Great Hill,MANHATTAN,central park - the great hill,M,central park,empiric,,,av
+Ten Mile River Playground,,ten mile river playground,,ten mile river playground,pgs,"(Ten Mile River Playground, 100)",100,av
+O'Donohue Park,QUEENS,o'donohue park,Q,rockaway beach and boardwalk,other,"(park, 90)",90,v
+Alley Playground - PS 213,QUEENS,alley playground - ps 213,Q,alley athletic playground,pgs,"(Playground, 90)",90,v
+Mariner's Marsh Park,STATEN ISLAND,mariner's marsh park,R,mariners marsh park,other,"(mariners marsh park, 97)",97,av
+Orchard Beach Park - Nature Center,BRONX,orchard beach park - nature center,X,orchard beach and promenade,beach,"(manhattan beach, 85)",85,av
+Bellerose Playground - PS 133,QUEENS,bellerose playground - ps 133,Q,bellerose playground,pgs,"(Bellerose Playground, 95)",95,av
+Field Of Dreams Park,BRONX,field of dreams park,X,field of dreams park,park_direct,,,av
+Newtown Playground,QUEENS,newtown playground,Q,newtown playground,park_direct,,,av
+Sgt William Dougherty Playground,BROOKLYN,sgt william dougherty playground,B,sgt william dougherty playground,pgs,"(Sgt William Dougherty Playground, 100)",100,av
+Hugenot Ponds Park,STATEN ISLAND,hugenot ponds park,R,huguenot ponds park,other,"(huguenot ponds park, 97)",97,av
+Pelham Bay Park - Hunter Island,BRONX,pelham bay park - hunter island,X,pelham bay park,empiric,,,av
+9th St Community Garden Park,MANHATTAN,9th st community garden park,M,9th st community garden park,park_direct,,,av
+Eastern Parkway Malls,BROOKLYN,eastern parkway malls,B,eastern parkway,other,"(eastern parkway, 95)",95,av
+Triborough Bridge Playground A,QUEENS,triborough bridge playground a,Q,triborough bridge playground a,pgs,"(Triborough Bridge Playground A, 100)",100,av
+Holy Cow Playground  - PS 179,QUEENS,holy cow playground  - ps 179,Q,holy cow playground,pgs,"(Playground, 90)",90,v
+Veterans Park,STATEN ISLAND,veterans park,R,veterans park,park_direct,,,av
+Veterans Park,STATEN ISLAND,veterans park,R,veterans park,park_direct,,,av
+Playground Twenty One - PS 184,QUEENS,playground twenty one - ps 184,Q,playground twenty-one,pgs,"(Playground Twenty-one, 95)",95,av
+Coney Island - Abe Stark Ice Skating Rink,BROOKLYN,coney island - abe stark ice skating rink,B,coney island creek park,other,"(coney island creek park, 85)",85,av
+Glenwood Playground,BROOKLYN,glenwood playground,B,glenwood playground,park_direct,,,av
+Drew Playground,BRONX,drew playground,X,drew playground,park_direct,,,av
+Joseph P Addabbo Memorial Park,QUEENS,joseph p addabbo memorial park,Q,tudor park,other,"(park, 90)",90,v
+Staten Island Greenbelt Park - Deere Park,STATEN ISLAND,staten island greenbelt park - deere park,R,greenbelt native plant center,empiric,,,av
+Prospect Park - Prospect Lake Near West Island,BROOKLYN,prospect park - prospect lake near west island,B,prospect park,empiric,,,av
+Fox Playground 2,BROOKLYN,fox playground 2,B,fox playground,pgs,"(Fox Playground, 95)",95,av
+Central Park - Bernard Playground,MANHATTAN,central park - bernard playground,M,central park,empiric,,,av
+Ave J Playground,BROOKLYN,ave j playground,B,ave j playground,pgs,"(Ave J Playground, 100)",100,av
+Gardens Of Union,BROOKLYN,gardens of union,B,gardens of union,park_direct,,,av
+Kings Plaza Marina,BRONX,kings plaza marina,X,marine park,other,"(padre plaza, 85)",85,v
+Holcombe Rucker Park,MANHATTAN,holcombe rucker park,M,holcombe rucker park,park_direct,,,av
+Pugsley Creek Park,BRONX,pugsley creek park,X,pugsley creek park,park_direct,,,av
+Mill Pond Park,BRONX,mill pond park,X,mill pond park,park_direct,,,av
+Pelham Bay Little League Park,BRONX,pelham bay little league park,X,pelham bay little league,other,"(pelham bay little league, 95)",95,av
+Livonia Park,BROOKLYN,livonia park,B,livonia park,park_direct,,,av
+Sobel Green,BROOKLYN,sobel green,B,sobel court park,other,"(marcy green center, 85)",85,v
+Vernon Playground,QUEENS,vernon playground,Q,vernon playground,pgs,"(Vernon Playground, 100)",100,av
+Triborough Bridge Playground C,QUEENS,triborough bridge playground c,Q,triborough bridge playground c,park_direct,,,av
+Pelham Bay Park - Nature Center,BRONX,pelham bay park - nature center,X,pelham bay park,empiric,,,av
+Bunker Ponds Park,STATEN ISLAND,bunker ponds park,R,bunker ponds park,park_direct,,,av
+Corona Golf Playground,QUEENS,corona golf playground,Q,corona golf playground,park_direct,,,av
+Mclaughlin Park,BROOKLYN,mclaughlin park,B,mclaughlin park,park_direct,,,av
+Hollis Playground - JHS 192,QUEENS,hollis playground - jhs 192,Q,hollis playground,pgs,"(Playground, 90)",90,v
+Joseph Austin Playground,QUEENS,joseph austin playground,Q,joseph austin playground,park_direct,,,av
+Eugene Mccabe Field,MANHATTAN,eugene mccabe field,M,eugene mccabe field,park_direct,,,av
+Knox-Gates Playground,BRONX,knox-gates playground,X,knox-gates playground,pgs,"(Knox-gates Playground, 100)",100,av
+Charlies Place,BROOKLYN,charlies place,B,charlie's place,other,"(charlie's place, 97)",97,av
+Ramirez Playground,BROOKLYN,ramirez playground,B,gilbert ramirez park,pgs,"(Playground, 90)",90,v
+Manhattan - Imagination Playground,MANHATTAN,manhattan - imagination playground,M,imagination playground,pgs,"(Imagination Playground, 90)",90,av
+Riverside Park - Skate Park,BRONX,riverside park - skate park,X,riverside park,other,"(riverside park, 90)",90,av
+Central Park - Wien Walk and Arsenal,MANHATTAN,central park - wien walk and arsenal,M,central park,empiric,,,av
+John Adams  Playground,QUEENS,john adams  playground,Q,john adams playground,pgs,"(John Adams Playground, 98)",98,av
+Recreation Center - Kingsbridge Heights,BRONX,recreation center - kingsbridge heights,X,kingsbridge heights community center,recr,"(red hook recreation area, 85)",85,v
+Downing Playground,MANHATTAN,downing playground,M,downing street playground,pgs,"(Downing Street Playground, 95)",95,av
+Playground Eighty Nine LXXXIX,MANHATTAN,playground eighty nine lxxxix,M,playground eighty nine lxxxix,park_direct,,,av
+French Charley's Playground,BRONX,french charley's playground,X,french charley playground,pgs,"(French Charley Playground, 96)",96,av
+Fresh Kills Park,STATEN ISLAND,fresh kills park,R,freshkills park,other,"(freshkills park, 97)",97,av
+Martin Luther Playground,BROOKLYN,martin luther playground,B,martin luther playground,park_direct,,,av
+Father Macris Park,MANHATTAN,father macris park,M,father macris park,park_direct,,,av
+Mount Hope Garden,BRONX,mount hope garden,X,mount hope garden,park_direct,,,av
+Jackie Robinson Playground,MANHATTAN,jackie robinson playground,M,jackie robinson playground,park_direct,,,av
+Floyd Patterson Field,BROOKLYN,floyd patterson field,B,floyd patterson ballfields,other,"(floyd patterson ballfields, 89)",89,av
+Paul W Kolbert Park and Rachel Haber Cohen Playground,BROOKLYN,paul w kolbert park and rachel haber cohen playground,B,paul w kolbert playground,pgs,"(Playground, 90)",90,v
+Kissena Velodrome - Cycling Track,QUEENS,kissena velodrome - cycling track,Q,kissena park,other,"(kissena park, 85)",85,av
+Bill Bojangle Robinson Playground,MANHATTAN,bill bojangle robinson playground,M,bill 'bojangle' robinson playground,pgs,"(Bill 'bojangle' Robinson Playground, 97)",97,av
+Pelham North Park Headquarters,BRONX,pelham north park headquarters,X,pelham parkway,other,"(park, 90)",90,v
+Linwood Playground,BROOKLYN,linwood playground,B,linwood playground,park_direct,,,av
+Annunciation Park,MANHATTAN,annunciation park,M,annunciation park,park_direct,,,av
+Bulova Park,QUEENS,bulova park,Q,bulova park,park_direct,,,av
+Jacob's Ladder Playground,BROOKLYN,jacob's ladder playground,B,jacob's ladder playground,park_direct,,,av
+Atlantic Playground,BROOKLYN,atlantic playground,B,josephine caminiti playground,pgs,"(Playground, 90)",90,v
+Pontiac Playground,BROOKLYN,pontiac playground,B,pontiac playground,park_direct,,,av
+Rachel Carson Playground,QUEENS,rachel carson playground,Q,rachel carson playground,pgs,"(Rachel Carson Playground, 100)",100,av
+Louis Pasteur Park,QUEENS,louis pasteur park,Q,louis pasteur park,park_direct,,,av
+Elizabeth Stroud Playground,BRONX,elizabeth stroud playground,X,elizabeth stroud playground,park_direct,,,av
+Stapleton Playground,STATEN ISLAND,stapleton playground,R,stapleton playground,park_direct,,,av
+Rev J Polite Playground and Stebbins Playground,BRONX,rev j polite playground and stebbins playground,X,stebbins playground,park_direct,"(Playground, 90)",90,v
+Carter G Woodson Childrens Park,BROOKLYN,carter g woodson childrens park,B,carter g. woodson children's park,other,"(carter g. woodson children's park, 97)",97,av
+Strong Street Playground,BRONX,strong street playground,X,strong street playground,pgs,"(Strong Street Playground, 100)",100,av
+Rockaway Beach and Boardwalk - Beach 17th St Playground,QUEENS,rockaway beach and boardwalk - beach 17th st playground,Q,beach 17th street playground,pgs,"(Playground, 90)",90,v
+Seaside Playground - PS 225,STATEN ISLAND,seaside playground - ps 225,R,seaside playground,pgs,"(Playground, 90)",90,v
+Bland Playground,QUEENS,bland playground,Q,bland playground,park_direct,,,av
+Cherry Clinton Playground,MANHATTAN,cherry clinton playground,M,cherry clinton playground,park_direct,,,av
+Frisch Field,BRONX,frisch field,X,frisch field in bronx park,pgs,"(a.r.r.o.w. field house, 85)",85,v
+Webster Ave Community Playground,BRONX,webster ave community playground,X,webster playground,pgs,"(Playground, 90)",90,v
+Bill Robinson,MANHATTAN,bill robinson,M,bill 'bojangle' robinson playground,pgs,"(jackie robinson park, 85)",85,v
+Beach - Cedar Grove,STATEN ISLAND,beach - cedar grove,R,cedar grove beach,beach,"(cedar grove beach, 95)",95,av
+Cherry Tree Playground,BRONX,cherry tree playground,X,cherry tree park,other,"(Playground, 90)",90,v
+Joseph Rodman Drake Park,BRONX,joseph rodman drake park,X,joseph rodman drake park,park_direct,,,av
+William E Kelly Memorial Park,BROOKLYN,william e kelly memorial park,B,kelly park,other,"(park, 90)",90,v
+Recreation Center - Morningside Park,MANHATTAN,recreation center - morningside park,M,morningside park,other,"(morningside park, 90)",90,av
+Aqueduct Walk - Waring Playground,BRONX,aqueduct walk - waring playground,X,waring playground,pgs,"(Playground, 90)",90,v
+The Dust Bowl,BROOKLYN,the dust bowl,B,quaker parrot park at the dust bowl,other,"(quaker parrot park at the dust bowl, 90)",90,av
+Webster Playground,BRONX,webster playground,X,webster playground,park_direct,,,av
+Captain Rivera Playground,BRONX,captain rivera playground,X,captain rivera playground,park_direct,,,av
+Central Park - Heckscher Playground,MANHATTAN,central park - heckscher playground,M,central park,empiric,,,av
+Ravenswood  Playground,QUEENS,ravenswood  playground,Q,ravenswood playground,pgs,"(Ravenswood Playground, 98)",98,av
+Governor Smith Playground,BRONX,governor smith playground,X,governor smith playground,park_direct,,,av
+Buz O'Rourke Playground,QUEENS,buz o'rourke playground,Q,buz o' rourke playground,pgs,"(Buz O' Rourke Playground, 98)",98,av
+Fort Independence Playground,STATEN ISLAND,fort independence playground,R,fort independence playground,park_direct,,,av
+Public Place,QUEENS,public place,Q,public place,park_direct,,,av
+Prospect Park - South West Entrance,BROOKLYN,prospect park - south west entrance,B,prospect park,empiric,,,av
+Elijah Stroud Playground,BROOKLYN,elijah stroud playground,B,elijah stroud playground,pgs,"(Elijah Stroud Playground, 100)",100,av
+Collyer Brothers Park,MANHATTAN,collyer brothers park,M,collyer brothers park,park_direct,,,av
+MacDonald Park,BROOKLYN,macdonald park,B,macdonald park,park_direct,,,av
+Tot Lot One Hundred and Twelve,MANHATTAN,tot lot one hundred and twelve,M,tot lot one hundred and twelve,pgs,"(faber pool and park, 85)",85,v
+Mercer St. Playground,MANHATTAN,mercer st. playground,M,mercer playground,pgs,"(Mercer Playground, 95)",95,av
+West 186th St Basketball Court,MANHATTAN,west 186th st basketball court,M,west 186th street basketball court,other,"(west 186th street basketball court, 94)",94,av
+Marc and Jason's Playground,BROOKLYN,marc and jason's playground,B,marc and jason's playground,park_direct,,,av
+Jefferson Market Garden,MANHATTAN,jefferson market garden,M,jefferson market garden,park_direct,,,av
+Delphin Greene Playground - PS 176,QUEENS,delphin greene playground - ps 176,Q,delphin greene playground,pgs,"(Delphin Greene Playground, 95)",95,av
+Kennedy Playground,QUEENS,kennedy playground,Q,kennedy playground,park_direct,,,av
+Chester Playground,BROOKLYN,chester playground,B,chester playground,park_direct,,,av
+Davidson Ave Community Playground,BRONX,davidson ave community playground,X,davidson playground,pgs,"(Playground, 90)",90,v
+Toad Hall Playground,STATEN ISLAND,toad hall playground,R,toad hall playground,park_direct,,,av
+Lopez Playground,STATEN ISLAND,lopez playground,R,lopez playground,park_direct,,,av
+City Island Wetlands,BRONX,city island wetlands,X,city island wetlands,park_direct,,,av
+Pool - Sheltering Arms Park,MANHATTAN,pool - sheltering arms park,M,sheltering arms pool,pool,"(sheltering arms pool, 95)",95,av
+Joyce Kilmer Park,BROOKLYN,joyce kilmer park,B,joyce kilmer park,park_direct,,,av
+Starlight Park - Jennie Jerome Playground,BRONX,starlight park - jennie jerome playground,X,jerome playground,pgs,"(Jerome Playground, 90)",90,av
+Golf Course - Pelham and Split Rock,BRONX,golf course - pelham and split rock,X,pelham bay golf course,golf,"(clearview golf course, 85)",85,v
+Hot Spot Tot Lot,BROOKLYN,hot spot tot lot,B,hot spot tot lot,park_direct,,,av
+Park at Richmond Parkway,STATEN ISLAND,park at richmond parkway,R,richmond parkway,other,"(park, 90)",90,v
+Golf Course - Flushing Meadows Corona Park Pitch and Putt,QUEENS,golf course - flushing meadows corona park pitch and putt,Q,flushing meadows corona park,empiric,,,av
+Wayanda Park - PS 34,QUEENS,wayanda park - ps 34,Q,p.s. 34,school,"(Ps/is 187, 85)",85,v
+Riverbend Playground,BRONX,riverbend playground,X,riverbend playground,park_direct,,,av
+Cunningham Park - Upper Playground,QUEENS,cunningham park - upper playground,Q,upper playground,pgs,"(Upper Playground, 90)",90,av
+Mccarren Park - Vincent V Abate Playground,QUEENS,mccarren park - vincent v abate playground,Q,vincent v abate playground,pgs,"(Vincent V Abate Playground, 90)",90,av
+Central Park - Reservoir Northeast,MANHATTAN,central park - reservoir northeast,M,central park,empiric,,,av
+Poseidon Playground,BROOKLYN,poseidon playground,B,poseidon playground,park_direct,,,av
+Pool - MacArthur,STATEN ISLAND,pool - macarthur,R,macarthur park,other,"(mapes pool, 85)",85,v
+Rivington St Playground,MANHATTAN,rivington st playground,M,rivington st playground,pgs,"(Rivington St Playground, 100)",100,av
+Garden Of Happiness,BRONX,garden of happiness,X,garden of happiness,park_direct,,,av
+Nathan Weidenbaum - Little Bush Park,QUEENS,nathan weidenbaum - little bush park,Q,nathan weidenbaum park,other,"(queensbridge park, 85)",85,v
+Seaside Playground - PS 225,QUEENS,seaside playground - ps 225,Q,seaside playground,pgs,"(Playground, 90)",90,v
+McGuire Fields,BROOKLYN,mcguire fields,B,mcguire fields,park_direct,,,av
+Galileo Park,BRONX,galileo park,X,galileo playground,other,"(park, 90)",90,v
+Pelham Bay Park - Memorial Grove,BRONX,pelham bay park - memorial grove,X,pelham bay park,empiric,,,av
+St Mary's Playground West,BRONX,st mary's playground west,X,st mary's playground west,pgs,"(St Mary's Playground West, 100)",100,av
+Sobel Court Park,STATEN ISLAND,sobel court park,R,sobel court park,park_direct,,,av
+Recreation Center - Faber Park,STATEN ISLAND,recreation center - faber park,R,faber pool and park,other,"(park, 90)",90,v
+Phil Scooter Rizzuto Park,QUEENS,phil scooter rizzuto park,Q,"phil ""scooter"" rizzuto park",other,"(phil ""scooter"" rizzuto park, 96)",96,av
+Harry Maze Playground,BROOKLYN,harry maze playground,B,harry maze playground,park_direct,,,av
+Harry Maze Memorial Park,BROOKLYN,harry maze memorial park,B,harry maze playground,other,"(park, 90)",90,v
+Capt Rivera Playground,BRONX,capt rivera playground,X,captain rivera playground,pgs,"(Captain Rivera Playground, 94)",94,av
+Hines Park,BRONX,hines park,X,hines park,park_direct,,,av
+Bailey Playground,BRONX,bailey playground,X,bailey playground,park_direct,,,av
+Bellaire Playground - PS 135,QUEENS,bellaire playground - ps 135,Q,bellaire playground,pgs,"(Bellaire Playground, 95)",95,av
+Givans Creek Woods Park,BRONX,givans creek woods park,X,givans creek woods,other,"(givans creek woods, 95)",95,av
+Tudor Park,QUEENS,tudor park,Q,tudor park,park_direct,,,av
+PS 1 Playground,BROOKLYN,ps 1 playground,B,ps 1 playground,pgs,"(Ps 1 Playground, 100)",100,av
+Rosewood Playground,BRONX,rosewood playground,X,rosewood playground,pgs,"(Rosewood Playground, 100)",100,av
+Central Park - Wollman Ice Skating Rink,MANHATTAN,central park - wollman ice skating rink,M,central park,empiric,,,av
+Locust Manor Playground  - PS 15,QUEENS,locust manor playground  - ps 15,Q,locust manor playground,pgs,"(Locust Manor Playground, 95)",95,av
+John Allen Payne Park,BROOKLYN,john allen payne park,B,john allen payne park,park_direct,,,av
+Imagine Playground,MANHATTAN,imagine playground,M,imagination playground,pgs,"(Playground, 90)",90,v
+Aqueduct Walk - Bronx River Parkway West,BRONX,aqueduct walk - bronx river parkway west,X,aqueduct walk,other,"(aqueduct walk, 90)",90,av
+Merriam Playground - Lower,BRONX,merriam playground - lower,X,merriam playground. (lower),pgs,"(Merriam Playground. (lower), 100)",100,av
+A Chiarantano Park,BROOKLYN,a chiarantano park,B,chiarantano playground,other,"(park, 90)",90,v
+Bedford Playground,QUEENS,bedford playground,Q,bedford playground,park_direct,,,av
+Vietnam Veterans Plaza,MANHATTAN,vietnam veterans plaza,M,vietnam veterans plaza,park_direct,,,av
+Farm Playground,QUEENS,farm playground,Q,farm playground,park_direct,,,av
+Owl's Head Park 1,BROOKLYN,owl's head park 1,B,owl's head park,other,"(owl's head park, 95)",95,av
+Paul W Kolbert Park and Rachel Haber Cohen Playground,MANHATTAN,paul w kolbert park and rachel haber cohen playground,M,paul w kolbert playground,pgs,"(Playground, 90)",90,v
+Breukelen Ballfields,BROOKLYN,breukelen ballfields,B,breukelen ballfields,park_direct,,,av
+Pelham Bay Park - Bartow-Pell Woods,BRONX,pelham bay park - bartow-pell woods,X,pelham bay park,empiric,,,av
+PS 45 Playground,STATEN ISLAND,ps 45 playground,R,ps 45 playground,pgs,"(Ps 45 Playground, 100)",100,av
+Rockaway Freeway and Kohlridir Sq,QUEENS,rockaway freeway and kohlridir sq,Q,rockaway freeway,other,"(rockaway freeway, 90)",90,av
+Tot Lot Park,QUEENS,tot lot park,Q,lot,other,"(lot, 90)",90,?
+Pool - Windmuller,QUEENS,pool - windmuller,Q,windmuller pool,pool,"(windmuller pool, 95)",95,av
+Sheepshead Bay Piers,BROOKLYN,sheepshead bay piers,B,sheepshead bay piers,park_direct,,,av
+Audubon Playground,MANHATTAN,audubon playground,M,audubon playground,park_direct,,,av
+Pool - Thompson Street,MANHATTAN,pool - thompson street,M,thompson street pool,pool,"(thompson street pool, 95)",95,av
+Coney Island Creek Park,BROOKLYN,coney island creek park,B,coney island creek park,park_direct,,,av
+Central Park - Frawleys Circle,MANHATTAN,central park - frawleys circle,M,central park,empiric,,,av
+Central Park - Pilgrim Hill and Conservatory Water,MANHATTAN,central park - pilgrim hill and conservatory water,M,central park,empiric,,,av
+Wallenberg Forest,BRONX,wallenberg forest,X,raoul wallenberg forest,other,"(raoul wallenberg forest, 95)",95,av
+Bushwick Playground and Pool,BROOKLYN,bushwick playground and pool,B,bushwick playground,pgs,"(Bushwick Playground, 95)",95,av
+Luiz Lopez Playground,STATEN ISLAND,luiz lopez playground,R,luis r lopez park,pgs,"(Playground, 90)",90,v
+Eleanor Roosevelt Playground,BROOKLYN,eleanor roosevelt playground,B,eleanor roosevelt playground,park_direct,,,av
+Van Dyke Playground,BROOKLYN,van dyke playground,B,van dyke playground,park_direct,,,av
+Dematti Playground,STATEN ISLAND,dematti playground,R,de matti playground,pgs,"(De Matti Playground, 97)",97,av
+Alstyne Playground,QUEENS,alstyne playground,Q,josephine caminiti playground,pgs,"(Playground, 90)",90,v
+Gun Hill  Playground,BRONX,gun hill  playground,X,gun hill playground,pgs,"(Gun Hill Playground, 97)",97,av
+Saint Marys Playground,BROOKLYN,saint marys playground,B,st mary's playground,pgs,"(St Mary's Playground, 90)",90,av
+Tottenville Shore Park,STATEN ISLAND,tottenville shore park,R,tottenville shore park,park_direct,,,av
+Sant Nicholas - Olive St Garden,BROOKLYN,sant nicholas - olive st garden,B,st. nicholas - olive st. garden,other,"(st. nicholas - olive st. garden, 95)",95,av
+Pool - Chelsea,MANHATTAN,pool - chelsea,M,chelsea pool,pool,"(chelsea pool, 95)",95,av
+Fulton Park,BRONX,fulton park,X,fulton park,park_direct,,,av
+Dan Ross Playground,QUEENS,dan ross playground,Q,dan ross playground,park_direct,,,av
+Castlewood Playground - PS 186,QUEENS,castlewood playground - ps 186,Q,castlewood playground,pgs,"(Castlewood Playground, 95)",95,av
+Playground One Thirty Four,BRONX,playground one thirty four,X,playground one thirty-four,pgs,"(Playground One Thirty-four, 100)",100,av
+Reiff Playground,QUEENS,reiff playground,Q,reiff playground,park_direct,,,av
+Cedar Grove Playground - JHS 218,QUEENS,cedar grove playground - jhs 218,Q,cedar grove playground,pgs,"(Cedar Grove Playground, 95)",95,av
+Sunshine Community Garden,BROOKLYN,sunshine community garden,B,sunshine community garden,park_direct,,,av
+Central Park - Strawberry Fields,MANHATTAN,central park - strawberry fields,M,central park,empiric,,,av
+Pelham Bay Park - Split Rock Trail,BRONX,pelham bay park - split rock trail,X,pelham bay park,empiric,,,av
+Pinocchio Playground,QUEENS,pinocchio playground,Q,pinocchio playground,park_direct,,,av
+Crotona Park - Hill and Dale Playground,BRONX,crotona park - hill and dale playground,X,crotona park,empiric,,,av
+St Mary's Playground,BROOKLYN,st mary's playground,B,st mary's playground,pgs,"(St Mary's Playground, 100)",100,av
+Corona Mac Park,QUEENS,corona mac park,Q,corona mac park,park_direct,,,av
+Prall Playground,STATEN ISLAND,prall playground,R,prall playground,park_direct,,,av
+Pool - St. Mary's,BRONX,pool - st. mary's,X,st. mary's pool,pool,"(st. mary's pool, 95)",95,av
+Terrapin Playground - JHS 51,STATEN ISLAND,terrapin playground - jhs 51,R,terrapin playground,pgs,"(Terrapin Playground, 95)",95,av
+Sandpiper Playground,QUEENS,sandpiper playground,Q,rockaway beach and boardwalk,other,"(Playground, 90)",90,v
+Blood Root Valley - Greenbelt,STATEN ISLAND,blood root valley - greenbelt,R,greenbelt native plant center,empiric,,,av
+Recreation Center - Gertrude Ederle,MANHATTAN,recreation center - gertrude ederle,M,gertrude ederle recreation center,other,"(gertrude ederle recreation center, 95)",95,av
+Westwood Park,STATEN ISLAND,westwood park,R,westwood park,park_direct,,,av
+Hattie Carthan Playground,BROOKLYN,hattie carthan playground,B,hattie carthan playground,park_direct,,,av
+Prospect Park - West Parade Grounds,BROOKLYN,prospect park - west parade grounds,B,prospect park,empiric,,,av
+Colgate Close,BRONX,colgate close,X,colgate close,park_direct,,,av
+Dr Ronald E McNair Playground,BROOKLYN,dr ronald e mcnair playground,B,dr. ronald e. mcnair playground,pgs,"(Dr. Ronald E. McNair Playground, 97)",97,av
+Leif Ericson Drive Shore Parkway - Mcguire Fields,BROOKLYN,leif ericson drive shore parkway - mcguire fields,B,mcguire fields,other,"(mcguire fields, 90)",90,av
+Annadale Green,STATEN ISLAND,annadale green,R,annadale green,park_direct,,,av
+Blackrock Playground,BRONX,blackrock playground,X,blackrock playground,pgs,"(Blackrock Playground, 100)",100,av
+Cozzens Woods and Long Pond Park,STATEN ISLAND,cozzens woods and long pond park,R,long pond park,other,"(park, 90)",90,v
+6th St and Ave B Community Garden,MANHATTAN,6th st and ave b community garden,M,6th st and ave b community garden,park_direct,,,av
+Recreation Center - Sorrentino,QUEENS,recreation center - sorrentino,Q,sorrentino recreation center,other,"(sorrentino recreation center, 95)",95,av
+Recreation Center - Cunningham,QUEENS,recreation center - cunningham,Q,cunningham park,other,"(marcy green center, 85)",85,v
+100 Percent Playground - PS 242,MANHATTAN,100 percent playground - ps 242,M,100% playground,pgs,"(Playground, 90)",90,v
+Playground A4 at Bailey and 234 Street,BRONX,playground a4 at bailey and 234 street,X,bailey playground,pgs,"(Playground, 90)",90,v
+Davis Playground,STATEN ISLAND,davis playground,R,davis playground,park_direct,,,av
+Dunbar Playground,BRONX,dunbar playground,X,dunbar playground,park_direct,,,av
+Convent Gardens,MANHATTAN,convent gardens,M,convent garden,other,"(convent garden, 97)",97,av
+Fishbridge Garden,MANHATTAN,fishbridge garden,M,fishbridge garden,park_direct,,,av
+Alexander Alley,BRONX,alexander alley,X,alexander's alley,other,"(alexander's alley, 95)",95,av
+Classon Neighborhood Playground,BROOKLYN,classon neighborhood playground,B,classon playground,pgs,"(Playground, 90)",90,v
+Pelham Bay Park - Rodmans Neck West,BRONX,pelham bay park - rodmans neck west,X,pelham bay park,empiric,,,av
+Rochdale Park Playground  at JHS 72,MANHATTAN,rochdale park playground  at jhs 72,M,north rochdale playground,pgs,"(Playground, 90)",90,v
+Fidler - Wyckoff House Park,BROOKLYN,fidler - wyckoff house park,B,fidler-wyckoff house park,other,"(fidler-wyckoff house park, 96)",96,av
+Kosciusko Pool,BROOKLYN,kosciusko pool,B,kosciuszko pool,pool,"(kosciuszko pool, 97)",97,av
+Spuyten Duyvil Shorefront Park and Half Moon Overlook,QUEENS,spuyten duyvil shorefront park and half moon overlook,Q,spuyten duyvil shorefront park,other,"(spuyten duyvil shorefront park, 90)",90,av
+Van Cortlandt Park - Ice Skating Rink,BRONX,van cortlandt park - ice skating rink,X,van cortlandt park,empiric,,,av
+De Matti Playground,STATEN ISLAND,de matti playground,R,de matti playground,park_direct,,,av
+Central Park - Nutters Battery and Fort Clinton Site,MANHATTAN,central park - nutters battery and fort clinton site,M,central park,empiric,,,av
+Lewis Simeon Park,QUEENS,lewis simeon park,Q,simeone park,other,"(park, 90)",90,v
+Crotona Park - Tremont Park,BRONX,crotona park - tremont park,X,crotona park,empiric,,,av
+La Tourette Park and Golf Course,STATEN ISLAND,la tourette park and golf course,R,la tourette golf course,golf,"(la tourette golf course, 95)",95,av
+Public Theatre,MANHATTAN,public theatre,M,the public theater,other,"(the public theater, 81)",81,av
+Murphys Brothers Playground,MANHATTAN,murphys brothers playground,M,murphy's brother's playground,other,"(Playground, 90)",90,v
+Deer Park,STATEN ISLAND,deer park,R,deere park,other,"(deere park, 95)",95,av
+Recreation Center - Garnetville Jennifer's Playground,STATEN ISLAND,recreation center - garnetville jennifer's playground,R,jennifer's playground,pgs,"(Playground, 90)",90,v
+La Guardia Playground,BROOKLYN,la guardia playground,B,la guardia playground,park_direct,,,av
+Sidney Hillman Playground,MANHATTAN,sidney hillman playground,M,sidney hillman playground,park_direct,,,av
+Queens Farm Museum,QUEENS,queens farm museum,Q,queens farm park,other,"(charles w cooke farm garden, 85)",85,v
+Brooklyn Bears Carlton Avenue Garden,BROOKLYN,brooklyn bears carlton avenue garden,B,brooklyn bears carlton ave garden,other,"(brooklyn bears carlton ave garden, 96)",96,av
+Admiral Triangle,BROOKLYN,admiral triangle,B,admiral triangle,park_direct,,,av
+Nautilus Playground - Queens,QUEENS,nautilus playground - queens,Q,nautilus playground,pgs,"(Nautilus Playground, 95)",95,av
+Recreation Area - First Park,MANHATTAN,recreation area - first park,M,first park,other,"(first park, 90)",90,av
+Recreation Center - Passerelle Building,QUEENS,recreation center - passerelle building,Q,passerelle building,recr,"(red hook recreation area, 85)",85,v
+Pulaski Park,BRONX,pulaski park,X,pulaski park,park_direct,,,av
+Playground Ninety - PS 148,QUEENS,playground ninety - ps 148,Q,playground ninety xc,pgs,"(Playground, 90)",90,v
+Recreation Center - McCarren Park,BROOKLYN,recreation center - mccarren park,B,mccarren park,other,"(mccarren park, 90)",90,av
+Gouverneur Playground,BRONX,gouverneur playground,X,gouverneur playground,park_direct,,,av
+Belmont Playground - Brooklyn,BROOKLYN,belmont playground - brooklyn,B,belmont playground,pgs,"(Belmont Playground, 90)",90,av
+Floyd Patterson Field,BRONX,floyd patterson field,X,floyd patterson ballfields,other,"(floyd patterson ballfields, 89)",89,av
+Faber Park,STATEN ISLAND,faber park,R,faber pool and park,other,"(park, 90)",90,v
+Henry Hudson Park,MANHATTAN,henry hudson park,M,henry hudson park,park_direct,,,av
+Duke Park,BROOKLYN,duke park,B,duke park,park_direct,,,av
+Harvard Playground,QUEENS,harvard playground,Q,harvard playground,park_direct,,,av
+Central Park - The Ramble,MANHATTAN,central park - the ramble,M,central park,empiric,,,av
+The Dust Bowl,MANHATTAN,the dust bowl,M,quaker parrot park at the dust bowl,other,"(quaker parrot park at the dust bowl, 90)",90,av
+Bridge Park 2,BROOKLYN,bridge park 2,B,bridge park,other,"(bridge park, 95)",95,av
+Pink Playground,BROOKLYN,pink playground,B,pink playground,park_direct,,,av
+Tenney Park,QUEENS,tenney park,Q,tenney park,pgs,"(park, 90)",90,v
+Crotona Park - Crotona Playground,BRONX,crotona park - crotona playground,X,crotona park,empiric,,,av
+Francis Lewis Playground - PS 130,BRONX,francis lewis playground - ps 130,X,francis lewis playground,pgs,"(Francis Lewis Playground, 95)",95,av
+Ditmars Park,BROOKLYN,ditmars park,B,ditmars park,park_direct,,,av
+PS 4 Paradise Garden,BROOKLYN,ps 4 paradise garden,B,p.s. 4,school,"(Ps/is 187, 85)",85,v
+Charlie's Place,BROOKLYN,charlie's place,B,charlie's place,park_direct,,,av
+Peters Field,MANHATTAN,peters field,M,peters field,park_direct,,,av
+Heckscher Playground,BROOKLYN,heckscher playground,B,heckscher playground,park_direct,,,av
+Dream Street Park,MANHATTAN,dream street park,M,dream street park,park_direct,,,av
+Pool - McCarren Park,BROOKLYN,pool - mccarren park,B,mccarren pool,pool,"(crotona pool, 85)",85,v
+Kossuth Playground,BRONX,kossuth playground,X,kossuth playground,pgs,"(Kossuth Playground, 100)",100,av
+Bath Playground,BROOKLYN,bath playground,B,bath playground,park_direct,,,av
+Castle Hill Little League,BRONX,castle hill little league,X,castle hill little league field,other,"(castle hill little league field, 95)",95,av
+Rodney Park North,BROOKLYN,rodney park north,B,rodney park north,park_direct,,,av
+Starlight Park - Havemeyer Playground,BRONX,starlight park - havemeyer playground,X,havemeyer playground,pgs,"(Playground, 90)",90,v
+Rolf Henry Playground,BROOKLYN,rolf henry playground,B,rolf henry playground,park_direct,,,av
+Highbridge Park - Sunken Playground,MANHATTAN,highbridge park - sunken playground,M,sunken playground,pgs,"(Sunken Playground, 90)",90,av
+Lyons Playground,BRONX,lyons playground,X,lyons square playground,pgs,"(Lyons Square Playground, 95)",95,av
+Central Park - Northwest Corner,MANHATTAN,central park - northwest corner,M,central park,empiric,,,av
+Pool - Lindower Park,BROOKLYN,pool - lindower park,B,lindower park pool,pool,"(lindower park pool, 95)",95,av
+Linden Park Playground,QUEENS,linden park playground,Q,linden park,pgs,"(Linden Park, 90)",90,av
+Surf Playground,BROOKLYN,surf playground,B,surf playground,park_direct,,,av
+Idlewild Park,QUEENS,idlewild park,Q,idlewild park,park_direct,,,av
+Haviland Playground,BRONX,haviland playground,X,haviland playground,park_direct,,,av
+Ten Eyck Playground,BROOKLYN,ten eyck playground,B,ten eyck playground,park_direct,,,av
+Central Park - Pat Hoffman Friedman Playground,BROOKLYN,central park - pat hoffman friedman playground,B,central park,empiric,,,av
+Conch Playground - PS 105,QUEENS,conch playground - ps 105,Q,conch playground,pgs,"(Playground, 90)",90,v
+Van Cortlandt Park - Van Cortlandt Stadium,BRONX,van cortlandt park - van cortlandt stadium,X,van cortlandt park,empiric,,,av
+Clinton Cherry Playground,MANHATTAN,clinton cherry playground,M,cherry clinton playground,pgs,"(Cherry Clinton Playground, 95)",95,av
+Fordham Landing Playground,BRONX,fordham landing playground,X,fordham landing playground,park_direct,,,av
+Hattie Carthan Garden,BROOKLYN,hattie carthan garden,B,hattie carthan playground,pgs,"(garden, 90)",90,v
+St Luke's Park,BRONX,st luke's park,X,st. luke's park,other,"(st. luke's park, 97)",97,av
+Squibb Park,BROOKLYN,squibb park,B,squibb park,park_direct,,,av
+PS 149 Playground,QUEENS,ps 149 playground,Q,northern playground,pgs,"(Ps 1 Playground, 94)",94,v
+Yak Playground,BROOKLYN,yak playground,B,yak playground,park_direct,,,av
+Playground 103,MANHATTAN,playground 103,M,playground 103 ciii,pgs,"(Playground 103 CIII, 95)",95,av
+Junction Playground,QUEENS,junction playground,Q,junction playground,park_direct,,,av
+Pomonok,QUEENS,pomonok,Q,pomonok playground,other,"(pomonok playground, 90)",90,av
+Seven Gables Playground - IS 74,QUEENS,seven gables playground - is 74,Q,seven gables playground,pgs,"(Seven Gables Playground, 95)",95,av
+Crotona Park - Clinton Playground,BRONX,crotona park - clinton playground,X,crotona park,empiric,,,av
+Prospect Park - Upper Long Meadow,BROOKLYN,prospect park - upper long meadow,B,prospect park,empiric,,,av
+Aqueduct Walk - Bronx River Parkway East,BRONX,aqueduct walk - bronx river parkway east,X,aqueduct walk,other,"(aqueduct walk, 90)",90,av
+Coney Island Boat Basin,BROOKLYN,coney island boat basin,B,coney island boat basin,park_direct,,,av
+Stebbins Playground,BRONX,stebbins playground,X,stebbins playground,park_direct,,,av
+PS 125 Playground,BROOKLYN,ps 125 playground,B,ps 125 playground,pgs,"(Ps 125 Playground, 100)",100,av
+Recreation Center - West Bronx,BRONX,recreation center - west bronx,X,west bronx recreation center,other,"(west bronx recreation center, 95)",95,av
+Rienzi Playground,BRONX,rienzi playground,X,rienzi playground,park_direct,,,av
+Recreation Center - West Bronx - expired,BRONX,recreation center - west bronx - expired,X,west bronx recreation center,other,"(west bronx recreation center, 95)",95,av
+Rodney Park Center,BROOKLYN,rodney park center,B,rodney park center,park_direct,,,av
+Machate Circle,BROOKLYN,machate circle,B,machate circle,park_direct,,,av
+Jerome Playground South,BRONX,jerome playground south,X,jerome playground south,park_direct,,,av
+Park Strip,BROOKLYN,park strip,B,park,other,"(park, 90)",90,?
+Hunter's Point Park,QUEENS,hunter's point park,Q,hunter's point south park,other,"(hunter's point south park, 95)",95,av
+James Madison Plaza,MANHATTAN,james madison plaza,M,james madison plaza,park_direct,,,av
+Tompkins Square Park,STATEN ISLAND,tompkins square park,R,tompkins square park,park_direct,,,av
+McCarren Park Ice Skating Rink,BROOKLYN,mccarren park ice skating rink,B,mccarren park,other,"(park, 90)",90,v
+Spring Creek Park,QUEENS,spring creek park,Q,spring creek park,park_direct,,,av
+Eibs Pond Park,STATEN ISLAND,eibs pond park,R,eibs pond park,park_direct,,,av
+Abyssinian Tot Lot,MANHATTAN,abyssinian tot lot,M,abyssinian tot lot,park_direct,,,av
+Arrochar Playground,STATEN ISLAND,arrochar playground,R,arrochar playground,park_direct,,,av
+Van Cortlandt Park - Middle Putnam Trail and Tibbets Brook,BRONX,van cortlandt park - middle putnam trail and tibbets brook,X,van cortlandt park,empiric,,,av
+Rocket Park,QUEENS,rocket park,Q,rocket park,park_direct,,,av
+146 St Playground,QUEENS,146 st playground,Q,playground 146,pgs,"(Playground 146, 95)",95,av
+Pool - Gertrude Ederle,MANHATTAN,pool - gertrude ederle,M,gertrude ederle recreation center,other,"(claremont pool, 85)",85,v
+Starlight Park,BRONX,starlight park,X,starlight park,park_direct,,,av
+Triborough Bridge Playground E,QUEENS,triborough bridge playground e,Q,triborough bridge playground e,park_direct,,,av
+Staten Island Greenbelt - Bucks Hollow,STATEN ISLAND,staten island greenbelt - bucks hollow,R,greenbelt native plant center,empiric,,,av
+Firemen's Memorial Garden,MANHATTAN,firemen's memorial garden,M,firemen's memorial garden,park_direct,,,av
+Co-Op City Field,BRONX,co-op city field,X,co-op city field,park_direct,,,av
+De Salvio Playground,MANHATTAN,de salvio playground,M,desalvio playground,pgs,"(Desalvio Playground, 97)",97,av
+Prospect Park - South West,BROOKLYN,prospect park - south west,B,prospect park,empiric,,,av
+Tribute Park,QUEENS,tribute park,Q,tribute park,park_direct,,,av
+Garden Playground,BROOKLYN,garden playground,B,garden playground,park_direct,,,av
+Pelham Bay Park - South Meadow,BRONX,pelham bay park - south meadow,X,pelham bay park,empiric,,,av
+Riverbank State Park,MANHATTAN,riverbank state park,M,riverbank playground,pgs,"(park, 90)",90,v
+Rodney Park South,BROOKLYN,rodney park south,B,rodney park south,park_direct,,,av
+Devoe Park,QUEENS,devoe park,Q,devoe park,park_direct,,,av
+Goble Playground,BRONX,goble playground,X,goble playground,park_direct,,,av
+Bartlett Playground,BROOKLYN,bartlett playground,B,bartlett playground,park_direct,,,av
+Brownsville Playground,BROOKLYN,brownsville playground,B,brownsville playground,park_direct,,,av
+Triborough Bridge Playground D,QUEENS,triborough bridge playground d,Q,triborough bridge playground d,park_direct,,,av
+Pool - PS 10,QUEENS,pool - ps 10,Q,ps 10 pool,pool,"(ps 10 pool, 95)",95,av
+Pool - Brooklyn Bridge Park Pop-Up,BROOKLYN,pool - brooklyn bridge park pop-up,B,brooklyn bridge park pool,pool,"(brooklyn bridge park pool, 95)",95,av
+Pool - Mariners Harbor Playground,STATEN ISLAND,pool - mariners harbor playground,R,mariners harbor playground,pgs,"(Mariners Harbor Playground, 95)",95,av
+Sunrise Playground - PS 195,BROOKLYN,sunrise playground - ps 195,B,sunrise playground,pgs,"(Playground, 90)",90,v
+Central Park - Lasker Ice Skating Rink,MANHATTAN,central park - lasker ice skating rink,M,central park,empiric,,,av
+Pool - Bronx River Playground,BRONX,pool - bronx river playground,X,bronx river playground pool,pool,"(Playground, 90)",90,v
+Van Cortlandt Park - Saturn Play Equipment,BRONX,van cortlandt park - saturn play equipment,X,van cortlandt park,empiric,,,av
+Sweetgum Playground,BRONX,sweetgum playground,X,sweetgum playground,pgs,"(Sweetgum Playground, 100)",100,av
+Aqueduct Walk - Rosewood Playground,BRONX,aqueduct walk - rosewood playground,X,rosewood playground,pgs,"(Playground, 90)",90,v
+Longfellow Garden,BRONX,longfellow garden,X,longfellow garden,park_direct,,,av
+Bildersee Playground,BROOKLYN,bildersee playground,B,bildersee playground,park_direct,,,av
+Riverside Park - Baseball Fields,QUEENS,riverside park - baseball fields,Q,riverside park,other,"(riverside park, 90)",90,av
+Roberto Clemente State Park,BRONX,roberto clemente state park,X,roberto clemente ballfield,other,"(park, 90)",90,v
+Kosciusko Street Garden,BROOKLYN,kosciusko street garden,B,kosciuszko street garden,other,"(kosciuszko street garden, 98)",98,av
+Prospect Park - Peninsula,BROOKLYN,prospect park - peninsula,B,prospect park,empiric,,,av
+Prospect Park - Prospect Lake Near Duck Island,BROOKLYN,prospect park - prospect lake near duck island,B,prospect park,empiric,,,av
+Prospect Park - Vale Of Cashmere Ellies Lawn,BROOKLYN,prospect park - vale of cashmere ellies lawn,B,prospect park,empiric,,,av
+Central Park - Reservoir Southeast,MANHATTAN,central park - reservoir southeast,M,central park,empiric,,,av
+Prospect Park - Ravine and The Pools,BROOKLYN,prospect park - ravine and the pools,B,prospect park,empiric,,,av
+Sutter Ballfields,BROOKLYN,sutter ballfields,B,sutter ballfields,park_direct,,,av
+Alexander Hamilton Playground,QUEENS,alexander hamilton playground,Q,alexander hamilton playground,park_direct,,,av
+River Garden,BRONX,river garden,X,river garden,park_direct,,,av
+Prospect Park - The Nethermead,BROOKLYN,prospect park - the nethermead,B,prospect park,empiric,,,av
+West 87th Street Garden,MANHATTAN,west 87th street garden,M,w 87th street garden,other,"(w 87th street garden, 93)",93,av
+Louis Cuvillier Park,MANHATTAN,louis cuvillier park,M,louis cuvillier park,park_direct,,,av
+I Am Park,BRONX,i am park,X,i-am-park,other,"(i-am-park, 100)",100,av
+Aqueduct Walk - Frisch Field In Bronx Park,BRONX,aqueduct walk - frisch field in bronx park,X,bronx park,other,"(bronx park, 90)",90,av
+Parks Council Success Garden,MANHATTAN,parks council success garden,M,parks council success garden,park_direct,,,av
+Recreation Center - A.R.R.O.W.,QUEENS,recreation center - a.r.r.o.w.,Q,a.r.r.o.w. field house,other,"(recreation center 54, 87)",87,v
+Clove's Tail,STATEN ISLAND,clove's tail,R,clove's tail,park_direct,,,av
+Metro North Community Gardens,QUEENS,metro north community gardens,Q,unity gardens,other,"(unity gardens, 90)",90,?
+Straus Park,MANHATTAN,straus park,M,straus park,park_direct,,,av
+Central Park - Great Lawn Playground,MANHATTAN,central park - great lawn playground,M,central park,empiric,,,av
+Leonardo Ingravallo Playground,QUEENS,leonardo ingravallo playground,Q,leonardo ingravallo playground,pgs,"(Leonardo Ingravallo Playground, 100)",100,av
+Recreation Center - Highbridge,MANHATTAN,recreation center - highbridge,M,highbridge park,other,"(highbridge park, 85)",85,av
+Bushwick Inlet Park,BROOKLYN,bushwick inlet park,B,bushwick inlet park,park_direct,,,av
+Long Island Mews,QUEENS,long island mews,Q,long island mews,park_direct,,,av
+Central Park - Park South,MANHATTAN,central park - park south,M,central park,empiric,,,av
+Clawson Playground - PS 50,STATEN ISLAND,clawson playground - ps 50,R,clawson playground,pgs,"(Clawson Playground, 95)",95,av
+6BC Botanical Garden,BROOKLYN,6bc botanical garden,B,6bc botanical garden,park_direct,,,av
+Weeping Beech - Margaret I Carmen Green,MANHATTAN,weeping beech - margaret i carmen green,M,margaret i. carman green - weeping beech,other,"(margaret i. carman green - weeping beech, 92)",92,av
+Agnes Haywood Playground,BROOKLYN,agnes haywood playground,B,agnes haywood playground,park_direct,,,av
+Elmhurst Park,QUEENS,elmhurst park,Q,elmhurst park,park_direct,,,av
+Beach - Coney Island,BROOKLYN,beach - coney island,B,coney island and coney island boardwalk,beach,"(coney island and coney island boardwalk, 85)",85,av
+Charlton Garden,BRONX,charlton garden,X,charlton garden,park_direct,,,av
+St Nicholas - Olive St Garden,BROOKLYN,st nicholas - olive st garden,B,st. nicholas - olive st. garden,other,"(st. nicholas - olive st. garden, 97)",97,av
+Beach - Rockaway,QUEENS,beach - rockaway,Q,rockaway beach and boardwalk,beach,"(orchard beach and promenade, 85)",85,v
+6BC Botanical Garden,MANHATTAN,6bc botanical garden,M,6bc botanical garden,park_direct,,,av
+Risse St Park,BRONX,risse st park,X,risse street park,other,"(park, 90)",90,v
+Jerome Slope,BRONX,jerome slope,X,jerome slope,park_direct,,,av
+D'Emic Playground,BROOKLYN,d'emic playground,B,d'emic playground,park_direct,,,av
+Project Eden,QUEENS,project eden,Q,project eden,park_direct,,,av
+Hallets Cove Playground,QUEENS,hallets cove playground,Q,hallets cove playground,park_direct,,,av
+Recreation Center - Crotona Park,BRONX,recreation center - crotona park,X,crotona park,empiric,,,av
+Prospect Park - Prospect Park West,BROOKLYN,prospect park - prospect park west,B,prospect park,empiric,,,av
+Queens Valley Playground - PS 164,BROOKLYN,queens valley playground - ps 164,B,queens valley playground,pgs,"(Queens Valley Playground, 95)",95,av
+Wilson Playground,BROOKLYN,wilson playground,B,wilson playground,park_direct,,,av
+Pool - Marie Curie Park,QUEENS,pool - marie curie park,Q,marie curie park pool,pool,"(marie curie park pool, 95)",95,av
+Willowbrook Parkway,STATEN ISLAND,willowbrook parkway,R,willowbrook parkway,park_direct,,,av
+Dr Ronald E McNair Playground,QUEENS,dr ronald e mcnair playground,Q,dr. ronald e. mcnair playground,pgs,"(Dr. Ronald E. McNair Playground, 97)",97,av
+Alley Pond Park - Nature Center,,alley pond park - nature center,,alley pond park,other,"(park, 90)",90,v
+Hook Creek Marsh,QUEENS,hook creek marsh,Q,hook creek park,other,"(red hook recreation area, 85)",85,v
+Fred Samuel Playground,MANHATTAN,fred samuel playground,M,fred samuel playground,park_direct,,,av
+Sophie Irene Loeb,MANHATTAN,sophie irene loeb,M,sophie irene loeb,park_direct,,,av
+Kennedy Playground,MANHATTAN,kennedy playground,M,kennedy playground,park_direct,,,av
+Prospect Park - Willink Hill,QUEENS,prospect park - willink hill,Q,prospect park,empiric,,,av
+St Nicholas - Powers St Garden,BROOKLYN,st nicholas - powers st garden,B,st. nicholas - powers st. garden,other,"(st. nicholas - powers st. garden, 97)",97,av
+Rev Lena Irons Unity Park,BRONX,rev lena irons unity park,X,rev lena irons unity park,park_direct,,,av
+Pool - Edenwald Houses,BRONX,pool - edenwald houses,X,edenwald houses pool,pool,"(edenwald houses pool, 95)",95,av
+Hendrick I Lott House,BROOKLYN,hendrick i lott house,B,hendrick i. lott house,other,"(hendrick i. lott house, 98)",98,av
+William H Seward Park,BROOKLYN,william h seward park,B,seward park,other,"(park, 90)",90,v
+Playground Of The Americas,QUEENS,playground of the americas,Q,playground of the americas,park_direct,,,av
+Hallets Point Playground - Area B,QUEENS,hallets point playground - area b,Q,hallets point playground (area b),pgs,"(Hallets Point Playground (area B), 98)",98,av
+Recreation Center - Betsy Head CBO- Amboy Neighborhood Center,BROOKLYN,recreation center - betsy head cbo- amboy neighborhood center,B,amboy neighborhood center,other,"(amboy neighborhood center, 90)",90,av
+Staten Island Industrial Park,STATEN ISLAND,staten island industrial park,R,staten island industrial park,park_direct,,,av
+Harlem Lane Playground,MANHATTAN,harlem lane playground,M,harlem lane playground,park_direct,,,av
+Bridge and Tunnel Park,QUEENS,bridge and tunnel park,Q,bridge and tunnel park,park_direct,,,av
+Brant Point Wildlife Sanctuary,QUEENS,brant point wildlife sanctuary,Q,brant point wildlife sanctuary,park_direct,,,av
+Mclaughlin Park,QUEENS,mclaughlin park,Q,mclaughlin park,park_direct,,,av
+Lie Playground - Real Good Park,QUEENS,lie playground - real good park,Q,real good park,pgs,"(PARK, 90)",90,v
+Central Park - The Lake,MANHATTAN,central park - the lake,M,central park,empiric,,,av
+Staten Island Greenbelt,STATEN ISLAND,staten island greenbelt,R,greenbelt native plant center,empiric,,,av
+Marlboro Playground,BROOKLYN,marlboro playground,B,marlboro playground,park_direct,,,av
+Central Park - Wallach Walk and East Green,MANHATTAN,central park - wallach walk and east green,M,central park,empiric,,,av
+Stop and Go Playground,BRONX,stop and go playground,X,stop  go playground,pgs,"(Stop nd Go Playground, 98)",98,av
+El Puente - Earth Spirit Garden,BROOKLYN,el puente - earth spirit garden,B,earth spirit garden,other,"(earth spirit garden, 90)",90,av
+Central Park - Reservoir Running Track and Landscape,MANHATTAN,central park - reservoir running track and landscape,M,central park,empiric,,,av
+The Amazing Garden,BROOKLYN,the amazing garden,B,the amazing garden,park_direct,,,av
+Rodney Playground Center,BROOKLYN,rodney playground center,B,rodney playground center,park_direct,,,av
+Bridge Park,BRONX,bridge park,X,bridge park,park_direct,,,av
+Bridge Park,BRONX,bridge park,X,bridge park,park_direct,,,av
+Flushing Meadows Corona Park,BRONX,flushing meadows corona park,X,flushing meadows corona park,park_direct,,,av
+Starlight Park - Peace Park,BRONX,starlight park - peace park,X,starlight park,other,"(starlight park, 90)",90,av
+Catbird Playground,MANHATTAN,catbird playground,M,catbird playground,pgs,"(Catbird Playground, 100)",100,av
+Drumgoole Tot Lot Playground,STATEN ISLAND,drumgoole tot lot playground,R,drumgoole tot lot,other,"(Playground, 90)",90,v
+Starlight Park - Plimpton Playground,BRONX,starlight park - plimpton playground,X,plimpton playground,pgs,"(Playground, 90)",90,v
+Seaside Playground - PS 225,BROOKLYN,seaside playground - ps 225,B,seaside playground,pgs,"(Playground, 90)",90,v
+Pelham Bay Park - The Meadow,BRONX,pelham bay park - the meadow,X,pelham bay park,empiric,,,av
+Castlewood Playground - PS 186,BROOKLYN,castlewood playground - ps 186,B,castlewood playground,pgs,"(Castlewood Playground, 95)",95,av
+A Child's Place,BROOKLYN,a child's place,B,hunter's point south park,other,"(hunter's point south park, 85)",85,?
+Parkside Playground - Bronx,BRONX,parkside playground - bronx,X,parkside playground,pgs,"(Parkside Playground, 95)",95,av
+Paerdegat Basin Park,BROOKLYN,paerdegat basin park,B,paerdegat basin park,park_direct,,,av
+M L King Houses Playground,MANHATTAN,m l king houses playground,M,dr martin luther king jr park,pgs,"(Playground, 90)",90,v
+Playground Fifty-Two,BRONX,playground fifty-two,X,playground fifty-two,pgs,"(Playground Fifty-two, 100)",100,av
+Dubos Point Wildlife Sanctuary,QUEENS,dubos point wildlife sanctuary,Q,dubos point wildlife sanctuary,park_direct,,,av
+Recreation Area,MANHATTAN,recreation area,M,recreational area,other,"(recreational area, 94)",94,av
+Gun Hill Playground,BRONX,gun hill playground,X,gun hill playground,park_direct,,,av
+Under The Tracks Playground,BROOKLYN,under the tracks playground,B,under the tracks playground,pgs,"(Under The Tracks Playground, 100)",100,av
+La Guardia Playground South,BROOKLYN,la guardia playground south,B,la guardia playground south,pgs,"(La Guardia Playground South, 100)",100,av
+Chelsea Park,QUEENS,chelsea park,Q,chelsea park,park_direct,,,av
+Dyker Playground,STATEN ISLAND,dyker playground,R,dyker playground,pgs,"(Dyker Playground, 100)",100,av
+Playground One-Forty,QUEENS,playground one-forty,Q,playground one-forty,pgs,"(Playground One-forty, 100)",100,av
+Rodney Playground North,BROOKLYN,rodney playground north,B,rodney playground north,park_direct,,,av
+Hunt's Point Riverside Park,MANHATTAN,hunt's point riverside park,M,hunts point riverside park,other,"(hunts point riverside park, 98)",98,av
+6BC Botanical Garden,BRONX,6bc botanical garden,X,6bc botanical garden,park_direct,,,av
+Sunset Park,MANHATTAN,sunset park,M,sunset park,park_direct,,,av
+West 104th Street Garden,MANHATTAN,west 104th street garden,M,w 104th street garden,other,"(w 104th street garden, 93)",93,av
+Recreation Center - Haffen Park,BRONX,recreation center - haffen park,X,haffen park,other,"(haffen park, 90)",90,av
+New Ballfield,STATEN ISLAND,new ballfield,R,william f. passannante ballfield,other,"(william f. passannante ballfield, 85)",85,v
+TLC Sculpture Park Garden,BROOKLYN,tlc sculpture park garden,B,tlc sculpture park garden,park_direct,,,av
+PS 286 Playground,BROOKLYN,ps 286 playground,B,ps 286 playground,pgs,"(Ps 286 Playground, 100)",100,av
