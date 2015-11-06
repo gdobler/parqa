@@ -8,7 +8,7 @@ though it is not. Half of the names are either fuzzy, unoficcial, outdated, or, 
 - [X] All 311 calls from NYC Open Data portal were collected
 - [X] They were joined into one dataframe, and filtered by **Agency == DPR** and **Location not in (Streers, Streets/Curbs) ** (as we are interested in DPR proprty only).   This resulted in ... calls from 2010 til now  (TBD)
 - [X] All **Facility Name** values vere deduped, unique values were saved as a left part of ontlogy (ontology in this case is marely key:value table)
-- [X] On the other hand, park properties datasets were collected. Due to specifics of 311 calls, I had to collect all different types of properties frop open sources, such as **recreation centers, school playgrounds, golf courses, playgrounds, parks, beaches, pools** (links to be defined). 
+- [X] On the other hand, park properties datasets were collected. Due to specifics of 311 calls, I had to collect all different types of properties frop open sources, such as **recreation centers, school playgrounds, golf courses, playgrounds, parks, beaches, pools** [List of sources](SOURCES.md). 
 - [X] Each dataset was parsed (most of them available as XML, few (recreation centers and golf courses) were geocoded using google API and checked manually. 
 - [X] Again, each dataset was spatially joined (using their centroids) with Park District boundaries. [Notebooks](wrangling_DPR/dpr_add_parkDistrict/)
 - [X] Then, list of unique 311 locations (left part of ontology) was checked against names in datasets in several steps [Notebook](Ontology2.0.ipynb):
@@ -23,8 +23,8 @@ though it is not. Half of the names are either fuzzy, unoficcial, outdated, or, 
 	- all other names were matched against parks dataset
 	here sequense was defined imirically and matters, as a lot of properties have overlapping names. This approach helped to recognize with 100% accuracy about 85% of calls. As a result, right part of the ontolgy was formed, including "correct" name, dataset (parks or pools, for example), and matching ratio (from 0 to 100%).
 - [X] All ontology then was checked manually (using Open Refine). during the check, almost 100% of the dataset was recognized (apart of few unrecognizable names). Also, code (Ontology) was updated to improve it perfomance for future usage.
-- [x] All data (mainly,geolocation and Park District ID) was added to ontology (right side). Several missing pD IDs (mainly for riverside parks) were handled manually
-- [X] Using ontology, each call was matched to specific DPR property and therefore park district and geolocation.
-
+- [X] 6 Unrecognizible names require some investigation, as they cause 24 records to dissapear. For now, they are extracted to [this table](onto_data/failed_to_match.csv)
+- [x] All data (mainly,geolocation and Park District ID) was added to ontology (right side). Several missing pD IDs (mainly for riverside parks) were handled manually [Notebook](Matching_Ontology.ipynb)
+- [X] Using ontology, each call was matched to specific DPR property and therefore park district and geopoint. Those without "Park Facility Names" were spatially joined to park Districts.
 
 

@@ -984,808 +984,811 @@
 982,cedar grove,cedar grove playground,other,av,Q-08,-73.8244701441,40.7361611782
 983,kaltenmeier playground,kaltenmeier playground,park_direct,av,R-01,-74.0687998715,40.6148292318
 984,bergen beach playground,bergen beach playground,park_direct,av,B-18,-73.9095345986,40.6224274815
-985,westbourne playground,westbourne playground,park_direct,av,Q-14,-73.7644093519,40.6079973045
-986,washington park,washington park,park_direct,av,X-06,-73.8936132881,40.8557591851
-987,washington park,washington park,park_direct,av,B-06,-73.9855681527,40.6727197479
-988,washington park,washington park,park_direct,av,X-06,-73.8936132881,40.8557591851
-989,washington park,washington park,park_direct,av,B-06,-73.9855681527,40.6727197479
-990,jennifer's playground,jennifer's playground,park_direct,av,R-01,-74.1631296787,40.6200533757
-991,paul raimonda playground,paul raimonda playground,park_direct,av,Q-01,-73.8974460799,40.7728024939
-992,edmonds playground,edmonds playground,park_direct,av,B-02,-73.9715348681,40.6891881524
-993,st mary's playground south,st mary's playground south,pgs,av,X-01,-73.9139,40.8104
-994,thorpe family playground,thorpe family playground,park_direct,av,X-06,-73.8948768142,40.8562232052
-995,recreation center - bowne park,bowne park,other,v,Q-07,-73.8073631011,40.77052045
-996,willets point playground - ps 209,willets point playground,pgs,av,Q-07,-73.7963,40.7838
-997,lions' pride playground,lions' pride playground,pgs,av,B-05,-73.8997,40.6626
-998,mae grant playground,mae grant playground,park_direct,av,M-11,-73.949440034,40.792439563
-999,peter minuit park,peter minuit playground,other,v,M-11,-73.9472314724,40.7947707459
-1000,magenta playground,magenta playground,park_direct,av,X-12,-73.8678666042,40.8737461446
-1001,pool - lyons,lyons pool,pool,av,R-01,-74.0743,40.6369
-1002,capt jacob joseph playground,capt jacob joseph playground,pgs,av,M-03,-73.9899,40.7136
-1003,pool - ps 20 playground (adelphi),parham playground,pgs,v,B-02,-73.9708,40.6903
-1004,scarangella park,scarangella park,park_direct,av,B-13,-73.9843388587,40.5946659441
-1005,flushing meadows and corona park - jurassic playground,flushing meadows corona park,empiric,av,Q-15,-73.8417856108,40.743279099
-1006,mazzei playground,mazzei playground,park_direct,av,X-11,-73.8584684796,40.8625412562
-1007,pool - sunset park,sunset park pool,pool,av,B-07,-74.0026,40.6472
-1008,pool - howard,howard pool,pool,av,B-16,-73.9089,40.6727
-1009,little claremont park,little claremont park,park_direct,av,X-03,-73.9037546706,40.8387762483
-1010,mellett playground,mellett playground,park_direct,av,B-15,-73.9574472194,40.596986607
-1011,howard playground,howard playground,park_direct,av,B-16,-73.9080880299,40.6717256361
-1012,pool - haffen,haffen pool,pool,av,X-12,-73.8392,40.8743
-1013,pool - haffen,haffen pool,pool,av,X-12,-73.8394,40.8744
-1014,vidalia park,vidalia park,park_direct,av,X-06,-73.8814306109,40.8438649437
-1015,power playground,power playground,park_direct,av,B-18,-73.9273220141,40.6181299505
-1016,col charles young playground,col charles young playground,pgs,av,M-10,-73.9357,40.8193
-1017,baisley pond park - lakeview lane playground,lakeview lane playground,pgs,av,Q-12,-73.7824,40.6777
-1018,white playground,white playground,park_direct,av,M-11,-73.9459060421,40.7916415685
-1019,white playground,white playground,park_direct,av,R-01,-74.0631363222,40.6075798223
-1020,white playground,white playground,park_direct,av,M-11,-73.9459060421,40.7916415685
-1021,white playground,white playground,park_direct,av,R-01,-74.0631363222,40.6075798223
-1022,rochdale park playground  at jhs 72,rochdale park (jhs 72),pgs,v,Q-12,-73.775,40.6742
-1023,harvey playground,harvey playground,pgs,av,Q-07,-73.8237,40.7826
-1024,watson gleason playground,watson gleason playground,park_direct,av,X-09,-73.8689639814,40.828441781
-1025,starlight park - daniel boone playground,daniel boone playground,pgs,v,X-03,-73.8859,40.8296
-1026,lt joseph petrosino park,lt. joseph petrosino park,other,av,B-11,-73.998512284,40.61911977
-1027,riverside park - neufeld playgound,riverside park,pgs,av,M-14,-73.976,40.7967
-1028,horseshoe playground,horseshoe playground,park_direct,av,X-02,-73.8976915697,40.8241212193
-1029,gutenberg playground,gutenberg playground,park_direct,av,M-04,-73.9901653301,40.7634643373
-1030,willow lake playground - ps 197,willow lake playground,pgs,av,Q-06,-73.8371,40.7226
-1031,van cortlandt park - golf house and lower putnam trail,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1032,prospect park - lower long meadow,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1033,174th st playground,174th st playground,pgs,av,X-09,-73.8778,40.8344
-1034,aqueduct walk - 227 street playground,227st playground,pgs,v,X-14,-73.8642,40.8909
-1035,ocean hill playground,ocean hill playground,park_direct,av,B-16,-73.9121857508,40.6744279303
-1036,forest park - mary whalen playground,forest park,empiric,av,Q-16,-73.853002977,40.7020526074
-1037,weeksville playground,weeksville playground,park_direct,av,B-03,-73.9194740653,40.6772480515
-1038,alley park - ps 213 playground,alley park,pgs,v,Q-11,-73.7451,40.7472
-1039,browne park - boone playground,daniel boone playground,pgs,v,X-03,-73.8859,40.8296
-1040,nathan weidenbaum park,nathan weidenbaum park,park_direct,av,Q-02,-73.9022443947,40.7381602928
-1041,pelham bay park - orchard beach parking lot,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1042,central park - ross pinetum,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1043,carlton park,carlton park,park_direct,av,R-03,-74.2023079154,40.5330718378
-1044,carlton park,carlton park,park_direct,av,R-03,-74.1844723405,40.5519154899
-1045,bayswater park - bayswater playground,bayswater playground,pgs,av,Q-14,-73.767,40.599
-1046,loreto park,loreto playground,other,v,X-11,-73.8521192961,40.8490580199
-1047,jesse owens playground,jesse owens playground,park_direct,av,B-03,-73.9323933885,40.6913724629
-1048,pfc norton playground,pfc norton playground,park_direct,av,B-15,-73.9449016723,40.6145812036
-1049,st nicholas playground south,st nicholas south playground,pgs,av,M-10,-73.9472,40.8111
-1050,midland field,midland field,park_direct,av,R-02,-74.0985998443,40.576163733
-1051,osborn playground,osborn playground,park_direct,av,B-16,-73.9060431289,40.6556430775
-1052,gorman playground,gorman playground,park_direct,av,Q-03,-73.8842369646,40.7623842836
-1053,powell playground,powell playground,park_direct,av,B-16,-73.9048274853,40.6712729404
-1054,recreation center - hunt's point,julio carballo fields,other,v,X-02,-73.8892507607,40.8156009557
-1055,israel putnam - ps 44,p.s. 44,school,v,R-01,-74.157597911,40.6317642187
-1056,kennedy king playground,kennedy king playground,park_direct,av,B-17,-73.9220324017,40.6585960888
-1057,prospect park - lefferts homestead carousel,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1058,bleecker playground,bleecker playground,park_direct,av,M-02,-74.0054863467,40.7362982037
-1059,cauldwell playground,cauldwell playground,pgs,av,X-03,-73.9073,40.8229
-1060,millbrook playground,millbrook playground,park_direct,av,X-01,-73.9166478385,40.8043540918
-1061,the creative little garden,the creative little garden,park_direct,av,M-03,-73.982587598,40.7246509667
-1062,arthur von briesen park,von briesen park,other,av,R-01,-74.0586225788,40.6077514442
-1063,greenpoint playground,greenpoint playground,park_direct,av,B-01,-73.9590161586,40.7357315279
-1064,beach channel playground - ps 183,beach channel playground,pgs,av,Q-14,-73.8058,40.589
-1065,jackie robinson park playground - school,jackie robinson park,pgs,av,B-03,-73.9277,40.6802
-1066,jackie robinson park playground - school,jackie robinson park,pgs,av,M-10,-73.9412,40.8259
-1067,ampere playground - ps 64,ampere playground,pgs,av,Q-09,-73.857,40.6815
-1068,nostrand playground,nostrand playground,park_direct,av,B-17,-73.9470580867,40.6381148428
-1069,stockton playground,stockton playground,park_direct,av,B-03,-73.9486737671,40.6972837368
-1070,william t davis wildlife refuge,davis playground,other,av,R-01,-74.0856098568,40.6422860218
-1071,decatur playground,decatur playground,park_direct,av,B-03,-73.9365511827,40.6814357141
-1072,garrison playground,garrison playground,park_direct,av,X-01,-73.9283164288,40.817539281
-1073,recreation center - st. mary's,st. mary's park,other,v,X-01,-73.9122189654,40.8114699391
-1074,recreation center - st. mary's,st. mary's park,other,v,B-06,-73.9972199046,40.6764312268
-1075,recreation center - st. mary's,st. mary's park,other,v,B-06,-73.9975404992,40.6757855782
-1076,crotona park - playground of the stars,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
-1077,playground eighty - ps 115,playground eighty (lxxx),pgs,v,Q-13,-73.7096,40.7447
-1078,35 playground,ravenswood playground,pgs,v,Q-01,-73.9352,40.7629
-1079,van cortlandt park - stables area,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1080,julio carballo field,julio carballo fields,other,av,X-02,-73.8892507607,40.8156009557
-1081,starlight park - bridge playground,bridge playground,pgs,v,X-04,-73.9242,40.8443
-1082,highbridge recreation center,highbridge park,other,v,M-12A,-73.9304651001,40.846501499
-1083,highbridge recreation center,highbridge park,other,v,X-04,-73.9267891522,40.8420769652
-1084,brook park,brook park,park_direct,av,X-01,-73.9187390534,40.8095452552
-1085,clintonville playground - jhs 194,clintonville playground,pgs,av,Q-07,-73.8073,40.7831
-1086,jamaica playground - ps 40,jamaica playground (ps 40),pgs,av,Q-12,-73.791,40.6932
-1087,stars and stripes playground,stars  stripes playground,pgs,av,X-12,-73.8396,40.8855
-1088,hammel playground,hammel playground,park_direct,av,Q-14,-73.8093741492,40.588202858
-1089,coleman square playground,coleman playground,pgs,av,M-03,-73.9932,40.7112
-1090,carmansville playground,carmansville playground,park_direct,av,M-09,-73.9442577257,40.8291888221
-1091,police officer edward byrne park,police officer edward byrne park,park_direct,av,Q-10,-73.8074420132,40.6673391911
-1092,linden park - jhs 166,linden park,other,v,B-05,-73.8869986176,40.6589523844
-1093,scarangella park - lafayette playground,lafayette playground,pgs,av,B-03,-73.9301,40.6926
-1094,scarangella park - lafayette playground,lafayette playground,pgs,av,B-13,-73.9854,40.5946
-1095,hunt's point riverside park,hunts point riverside park,other,av,X-02,-73.8816008156,40.8176824444
-1096,saul weprin playground - ps 162,saul weprin playground,pgs,av,Q-11,-73.7764,40.748
-1097,107th street pier,pier 107 cvii,other,v,M-11,-73.9366464772,40.7890719341
-1098,central park - conservatory garden,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1099,newtown barge terminal playground,newtown barge terminal playground,pgs,av,B-01,-73.96,40.7359
-1100,clinton community garden,clinton community garden,park_direct,av,M-04,-73.9917338694,40.7627793216
-1101,fort greene playground,fort greene playground,pgs,av,B-02,-73.9771,40.6924
-1102,buswhick playground,bushwick playground,pgs,av,B-04,-73.9122,40.6961
-1103,maurice a fitzgerald playground,maurice a fitzgerald playground,park_direct,av,Q-09,-73.8397534266,40.6903187626
-1104,barretto park,barretto park,park_direct,av,X-02,-73.8886304423,40.8128497158
-1105,central park - pat hoffman friedman playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1106,golf course - dyker beach,dyker beach golf course,golf,v,B-10,-74.019322,40.612496
-1107,stanley isaacs court,stanley isaacs playground,other,v,M-08,-73.944366003,40.7830856651
-1108,grady playground,grady playground,park_direct,av,B-13,-73.9647123653,40.5830531067
-1109,old town playground,old town playground,park_direct,av,R-02,-74.081361105,40.5953947665
-1110,red hook park - bush clinton park playground,red hook recreation area,empiric,av,B-06,-74.0056997559,40.6718688587
-1111,pontiac playground,pontiac playground,park_direct,av,X-01,-73.9082310558,40.8142517087
-1112,steeplechase park,steeplechase park,park_direct,av,B-13,-73.9839579841,40.5740714616
-1113,sheltering arms park,sheltering arms playground,other,v,M-09,-73.9558595789,40.8150427475
-1114,pelham bay park - orchard beach playground,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1115,van cortlandt park - north east forest,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1116,forest park - joseph devoy playground,forest park,empiric,av,Q-16,-73.853002977,40.7020526074
-1117,corporal john a seravalli playground,corporal john a. seravalli playground,empiric,av,M-02,-74.0047936709,40.7390711593
-1118,jacobs ladder,jacob's ladder playground,other,av,B-01,-73.9670277962,40.7048688929
-1119,cuite park,thomas j. cuite park,other,v,B-07,-73.9786563771,40.6542360521
-1120,george walker jr. park,george walker jr. park,park_direct,av,B-05,-73.8951131575,40.6786176084
-1121,brooklyn bears rockwell pl garden,brooklyn bears rockwell pl garden,park_direct,av,B-02,-73.9792644029,40.6869459936
-1122,hunts point playground,hunts point playground,park_direct,av,X-02,-73.8859705198,40.8141365598
-1123,lower highland playground,lower highland playground,pgs,av,B-05,-73.8856,40.684
-1124,clason point park,soundview park,other,v,X-09,-73.8662327228,40.8115799914
-1125,space time playground,space time playground,park_direct,av,X-09,-73.8598761049,40.8223244962
-1126,p.o. serrano playground,p.o. serrano playground,park_direct,av,X-09,-73.8510155465,40.8234002894
-1127,randall's island park,randall's island park,park_direct,av,M-11R,-73.9217838021,40.7956532901
-1128,canal park,canal park,park_direct,av,M-01,-74.0105809762,40.7253444324
-1129,recreation center - lost battalion hall,lost battalion hall recreation center,other,av,Q-06,-73.8651022818,40.7322194217
-1130,frank golden park,frank golden park,park_direct,av,Q-07,-73.8337390261,40.7848364554
-1131,henry m jackson playground,henry m jackson playground,pgs,av,M-03,-73.9815,40.714
-1132,south rochdale playground - ps 80,south rochdale playground,pgs,av,Q-12,-73.7691,40.6738
-1133,canarsie park - dinapoli playground,dinapoli playground,pgs,av,B-18,-73.8931,40.6308
-1134,fresh creek nature preserve,fresh creek nature preserve,park_direct,av,B-18,-73.8844686214,40.6439790898
-1135,reeds basket willow's swamp,reed's basket willow swamp park,other,av,R-02,-74.1042696789,40.6013742863
-1136,james weldon johnson playground - ps 57,james weldon johnson playground,pgs,av,M-11,-73.9418,40.7972
-1137,merriam playground - upper,merriam playground (upper),pgs,av,X-04,-73.9269,40.8406
-1138,golf course - randalls island driving range,randall's island park,other,v,M-11R,-73.9217838021,40.7956532901
-1139,bayside fields,bayside fields,park_direct,av,Q-11,-73.7856999522,40.7729719924
-1140,fresh meadows playground - ps 173,fresh meadows playground,pgs,av,Q-08,-73.7962,40.7341
-1141,recreation center - north meadow,central park,other,v,M-13,-73.9655584012,40.7824838384
-1142,upper highland playground,upper highland playground,pgs,av,B-05,-73.8927,40.6829
-1143,bridge park 3,bridge park 3,park_direct,av,B-02,-73.9852536191,40.7003011668
-1144,frank golden park - 136 street playground,136 st playground,pgs,v,Q-07,-73.833,40.7848
-1145,arrow community garden,a.r.r.o.w. field house,other,av,Q-01,-73.9262867645,40.7558283869
-1146,horace harding playground - ps 206,horace harding playground,pgs,av,Q-06,-73.8605,40.7332
-1147,greencroft playground - ps 53,greencroft playground,pgs,av,R-03,-74.1364,40.5518
-1148,pelham bay park - orchard beach pavilion,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1149,wald playground,wald playground,park_direct,av,M-03,-73.9768821501,40.7196903447
-1150,ocean parkway malls,ocean parkway malls,park_direct,av,B-12,-73.9690710814,40.6121568335
-1151,pat williams playground,pat williams playground,park_direct,av,Q-13,-73.7295167995,40.7130395036
-1152,highbridge park - fort george playground,ft george playground,pgs,v,M-12A,-73.9259,40.8584
-1153,flushing meadows and corona park - world ice arena,flushing meadows corona park,empiric,av,Q-15,-73.8417856108,40.743279099
-1154,nathan straus playground - ps 140,nathan straus playground,pgs,av,M-03,-73.984,40.7192
-1155,recreation center - mullaly,mullaly park,other,v,X-04,-73.9242072201,40.8327744684
-1156,east springfield playground,east springfield playground,park_direct,av,Q-13,-73.7400052604,40.6984275962
-1157,highbridge park - cpf playground,cpf playground,pgs,v,M-12A,-73.9339,40.842
-1158,cabbell park,cabbell park,pgs,v,Q-13,-73.7429,40.6893
-1159,saint nicholas park - arlington ollie edinboro playground,arlington edinboro playground,pgs,v,M-09,-73.9468,40.8205
-1160,houston playground,houston playground,park_direct,av,B-16,-73.9050707586,40.672204421
-1161,breukelen park,breukelen playground,pgs,v,B-18,-73.8939,40.6536
-1162,jackie robinson park,jackie robinson park,park_direct,av,B-03,-73.9278117156,40.6802120196
-1163,jackie robinson park,jackie robinson park,park_direct,av,M-10,-73.9411297968,40.8265850181
-1164,jackie robinson park,jackie robinson park,park_direct,av,B-03,-73.9278117156,40.6802120196
-1165,jackie robinson park,jackie robinson park,park_direct,av,M-10,-73.9411297968,40.8265850181
-1166,sunshine playground,sunshine playground,park_direct,av,M-11,-73.9478471177,40.7884925153
-1167,laurelton parkway,laurelton parkway,park_direct,av,Q-13,-73.7317570942,40.6774017361
-1168,79th street boat basin marina,henry hudson parkway,other,v,X-08,-73.9047569262,40.897375086
-1169,prospect park - ocean avenue,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1170,hoe garden,hoe garden,park_direct,av,X-02,-73.8900961739,40.8226400608
-1171,pelham bay park - central woodland,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1172,100 percent playground - ps 242,100% playground,pgs,v,B-18,-73.8992,40.6465
-1173,lannett playground - ps 197,lannett playground,pgs,v,Q-14,-73.7441,40.5995
-1174,115th street playground,115th street playground,pgs,av,Q-07,-73.8526,40.7852
-1175,monsignor mcgolrick playground,monsignor mcgolrick playground,pgs,av,B-01,-73.9433,40.7253
-1176,ambrosini field,ambrosini field,park_direct,av,X-10,-73.7833929588,40.8445008803
-1177,bayswater park,bayswater park,park_direct,av,Q-14,-73.7696584459,40.5995034848
-1178,lafayette gardens playground,lafayette gardens playground,park_direct,av,B-03,-73.9575065662,40.6897534254
-1179,tanahey playground,tanahey playground,park_direct,av,M-03,-73.9951803044,40.7101602436
-1180,gunn park - ps 18,p.s. 18,school,v,M-12,-73.91218129,40.8717834129
-1181,gowanus playground,gowanus playground,pgs,av,B-06,-73.9879,40.6846
-1182,van cortlandt park - parade ground south,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1183,rockaway playground - n,rockaway playground - n,pgs,av,Q-14,-73.8087,40.5854
-1184,riverside park - riverbank playground,riverside park,pgs,av,M-14,-73.976,40.7967
-1185,crotona park - prospect park playground,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1186,angelo campanero playground,angelo campanero playground,pgs,av,X-11,-73.8429,40.8681
-1187,playground 62 - ps 220,playground sixty-two,pgs,v,Q-06,-73.8529,40.7361
-1188,little flower playground,little flower playground,park_direct,av,M-03,-73.9882368549,40.7124371532
-1189,174 st playground,174 st playground,pgs,av,Q-12,-73.778,40.6935
-1190,macarthur park,macarthur park,park_direct,av,M-06,-73.9651474043,40.7522039165
-1191,golf course - forest park,forest park,empiric,av,Q-16,-73.853002977,40.7020526074
-1192,hinton park,hinton park,park_direct,av,Q-03,-73.8549427207,40.7560112389
-1193,recreation center - williamsbridge oval,williamsbridge oval,other,av,X-07,-73.8773857164,40.8776274396
-1194,flushing meadows and corona park - buzz vollmer playground,flushing meadows corona park,empiric,av,Q-15,-73.8417856108,40.743279099
-1195,central park - sheep meadow,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1196,herman dolgon playground,herman dolgon playground,park_direct,av,B-15,-73.9400025503,40.5980920557
-1197,ps 155 playground,ps 155 playground,pgs,av,M-11,-73.9355,40.7973
-1198,miracle garden,miracle garden,park_direct,av,M-03,-73.9835276947,40.7226526189
-1199,miracle garden,miracle garden,park_direct,av,X-06,-73.8877323487,40.8424701322
-1200,miracle garden,miracle garden,park_direct,av,M-03,-73.9835276947,40.7226526189
-1201,miracle garden,miracle garden,park_direct,av,X-06,-73.8877323487,40.8424701322
-1202,golf course - latourette,la tourette golf course,golf,av,R-02,-74.146957,40.576395
-1203,downing street playground,downing street playground,park_direct,av,M-02,-74.0027144708,40.7298538106
-1204,cadwallader colden playground - ps 214,cadwallader colden playground,pgs,av,Q-07,-73.8272,40.7702
-1205,100 percent playground - ps 242,100% playground,pgs,v,B-18,-73.8992,40.6465
-1206,recreation center - playground for all children,playground for all children,pgs,v,Q-15,-73.8492,40.7411
-1207,recreation center - playground for all children,playground for all children,pgs,v,X-15,-73.8256,40.8485
-1208,sixteen sycamores playground,sixteen sycamores playground,park_direct,av,B-02,-73.981005684,40.6867917268
-1209,peace park,peace park,park_direct,av,X-05,-73.9051714873,40.8451842063
-1210,real good park,real good park,park_direct,av,Q-06,-73.8573454627,40.7355563272
-1211,inwood hill park - the clove,inwood hill park,empiric,av,M-12,-73.9255128836,40.8725600843
-1212,linnaeus playground,linnaeus park,other,v,Q-11,-73.7507443522,40.7538056239
-1213,gonzalo plasencia playground,gonzalo plasencia playground,park_direct,av,B-07,-74.0084233782,40.6525852554
-1214,captain mario fajardo park,captain mario fajardo park,pgs,v,Q-07,-73.8147,40.7434
-1215,van cortlandt park - croton woods,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1216,mcdonald playground - brooklyn,mcdonald playground,pgs,av,B-15,-73.972,40.6006
-1217,mcdonald playground - brooklyn,mcdonald playground,pgs,av,R-01,-74.1153,40.6296
-1218,mercer playground,mercer playground,park_direct,av,M-02,-73.9962089719,40.7275889185
-1219,tot lot 116,riverside park,other,v,M-14,-73.9536580952,40.826069869
-1220,tot lot 116,riverside park,other,v,M-14,-73.9745612683,40.7988335229
-1221,youth village,youth village,park_direct,av,X-03,-73.9029275725,40.8287041334
-1222,seeley park,seeley park,park_direct,av,B-07,-73.9778398149,40.6533824334
-1223,starr playground,starr playground,park_direct,av,Q-05,-73.9178063957,40.7097855707
-1224,recreation center - alfred e. smith,alfred e. smith recreation center,recr,v,M-03,-73.9967905,40.7105245
-1225,laurelton west playground,laurelton west playground,pgs,av,Q-13,-73.727,40.685
-1226,cunningham park - mclaughlin playground,mclaughlin playground,pgs,av,Q-08,-73.7663,40.7255
-1227,cunningham park - mclaughlin playground,mclaughlin playground,pgs,av,X-08,-73.9054,40.8879
-1228,montbellier park,montbellier park,park_direct,av,Q-12,-73.7565773143,40.6747200363
-1229,pelham bay park - playground for all children,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1230,underhill playground - queens,underhill playground,pgs,av,B-08,-73.9657,40.6767
-1231,underhill playground - queens,underhill playground,pgs,av,Q-11,-73.7879,40.7448
-1232,sy seplowe playground - ps 94,p.s. 94,school,v,B-07,-74.0089866256,40.6437443486
-1233,lieutenant petrosino square,petrosino square,other,av,M-02,-73.9974385461,40.7217122916
-1234,central park - blockhouse one,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1235,staten island greenbelt - southwest latourette,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
-1236,judge moses weinstein playground,judge moses weinstein playground,park_direct,av,Q-08,-73.8205852843,40.7180182667
-1237,van cortlandt park - nw forest,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1238,"van cortlandt park - mansion, tennis courts, memorial grove",van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1239,p.o. nicholas demutis playground,police officer nicholas demuti,pgs,v,Q-10,-73.8393,40.6818
-1240,kaiser park - leon s kaiser playground,leon s kaiser playground,pgs,av,B-13,-73.9954,40.5782
-1241,jamaica bay park,jamaica bay park,park_direct,av,Q-14,-73.7686778353,40.6178679657
-1242,101 street soccer field,101st st. soccer field,pgs,v,M-14,-73.9736,40.8007
-1243,ramon aponte park,ramon aponte park,park_direct,av,M-04,-73.9893505993,40.7614478738
-1244,coleman playground,coleman playground,park_direct,av,M-03,-73.9935201125,40.7111718247
-1245,powell's cove park,powell's cove park,park_direct,av,Q-07,-73.8350243045,40.7900554572
-1246,rainey park - bronx,rainey park playground,pgs,v,Q-01,-73.9403,40.7667
-1247,remsen playground,remsen playground,park_direct,av,B-18,-73.907355898,40.6423266053
-1248,frederick b judge playground,frederick b judge playground,pgs,av,Q-10,-73.8082,40.6835
-1249,recreation center - j. hood wright,j. hood wright recreation center,recr,v,M-12,-73.9404478,40.8463854
-1250,p. o. serrano playground,p. o. serrano playground,pgs,av,X-09,-73.851,40.8234
-1251,alice austen house and park,alice austen park,other,v,R-01,-74.0625730379,40.6158359398
-1252,crotona park - carter playground,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
-1253,addabbo playground,addabbo playground,pgs,av,Q-10,-73.854,40.6731
-1254,tot lot one hundred and ten,riverside park,other,v,M-14,-73.9536580952,40.826069869
-1255,tot lot one hundred and ten,riverside park,other,v,M-14,-73.9745612683,40.7988335229
-1256,evergreen playground,evergreen playground,park_direct,av,B-04,-73.9107589572,40.6861077875
-1257,riverside park - palisades playground,riverside park,pgs,av,M-14,-73.976,40.7967
-1258,river park,harlem river park,other,v,M-11,-73.9339638333,40.8063039871
-1259,river park,harlem river park,other,v,M-11,-73.9346204321,40.8077851404
-1260,river park,harlem river park,other,v,M-11,-73.9315336449,40.8037884226
-1261,river park,harlem river park,other,v,M-11,-73.9309188254,40.8036321246
-1262,river park,harlem river park,other,v,X-04,-73.9308430313,40.8391840049
-1263,golf course - marine park,marine park,empiric,av,B-18,-73.9203077445,40.5967983084
-1264,jackie robinson playground,jackie robinson playground,park_direct,av,B-09,-73.959237386,40.6657903514
-1265,rockaway community park,rockaway community park,park_direct,av,Q-14,-73.7804236818,40.6034954315
-1266,park slope playground,park slope playground,park_direct,av,B-06,-73.9785512319,40.6768333838
-1267,forest park - mary whalen playground,forest park,empiric,av,Q-16,-73.853002977,40.7020526074
-1268,fort 4 playground,fort #4 playground,pgs,av,X-08,-73.9009,40.8747
-1269,brooklyn botanic garden 1 - expire,brooklyn botanic garden,other,av,B-19,-73.9638700612,40.667719246
-1270,central park - heckscher ballfields and playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1271,glendale playground,glendale playground,pgs,av,Q-05,-73.8818,40.7049
-1272,frederick b judge memorial playground,frederick b judge playground,pgs,av,Q-10,-73.8082,40.6835
-1273,tall oak playground - ps 46,tall oak playground,pgs,av,Q-11,-73.7582,40.7462
-1274,equity park,equity park,park_direct,av,Q-09,-73.8533203594,40.6912511267
-1275,maclaughlin,maclaughlin playground,other,av,X-08,-73.9053336508,40.8879626616
-1276,eastchester  playground,eastchester playground,pgs,av,X-11,-73.8528,40.8698
-1277,queensbridge baby park,queensbridge park,other,av,Q-01,-73.9481856467,40.7557953144
-1278,morgan playground,morgan playground,park_direct,av,X-03,-73.9074353051,40.8322742957
-1279,st mary's playground east,st mary's playground east,pgs,av,X-01,-73.9104,40.8103
-1280,roebling playground,roebling playground,park_direct,av,B-01,-73.9617248558,40.7063488925
-1281,galapo playground,galapo playground,park_direct,av,B-15,-73.9467295958,40.5979954488
-1282,east elmhurst playground - ps 127,east elmhurst playground,pgs,av,Q-03,-73.8709,40.7655
-1283,broad channel american park,broad channel american park,park_direct,av,Q-14,-73.8228193073,40.5963990867
-1284,columbus park - korean war veterans plaza,columbus park,other,av,M-03,-74.0000040837,40.7151404124
-1285,columbus park - korean war veterans plaza,columbus park,other,av,B-02,-73.9899686241,40.6936517952
-1286,prospect playground,prospect playground,park_direct,av,X-06,-73.8907341127,40.8432527366
-1287,pleasant village community gdn,pleasant village community garden,other,av,M-11,-73.9316056037,40.7965728096
-1288,hellgate field,whitey ford field,other,v,Q-01,-73.9348355927,40.7776469608
-1289,central park - conservatory gardens west landscape,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1290,goodwin gardens,goodwin gardens,park_direct,av,B-04,-73.9234513997,40.6911333932
-1291,northerleigh park,northerleigh park,park_direct,av,R-01,-74.134087164,40.62283325
-1292,benson playground,benson playground,park_direct,av,B-11,-74.0022610972,40.6024335176
-1293,mariners harbor playground,mariners harbor playground,park_direct,av,R-01,-74.1604711794,40.6365637031
-1294,staten island greenbelt park - william t. davis wildlife refuge,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
-1295,cypress hills park,cypress hills playground,other,v,B-05,-73.8716811927,40.6704436958
-1296,arden woods,arden woods,park_direct,av,R-03,-74.190492081,40.557932397
-1297,central park - west 68th street playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1298,pearl st playground,pearl st playground,park_direct,av,M-01,-74.0039725103,40.7078218989
-1299,alfred e smith park,alfred e. smith playground,other,v,M-03,-73.9974813224,40.7105979164
-1300,tudor grove playground,tudor grove playground,park_direct,av,M-06,-73.971149285,40.7490469914
-1301,playground of the americas,playground of the americas,park_direct,av,M-02,-74.0027146903,40.728002741
-1302,playground one twenty five - ps 125,ps 125 playground,pgs,v,B-16,-73.9091,40.6651
-1303,alley pond park - wild flower meadow,alley pond park,other,av,Q-11,-73.7468585479,40.7536076531
-1304,central park - the great hill,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1305,ten mile river playground,ten mile river playground,pgs,av,M-14,-73.9523,40.8298
-1306,o'donohue park,rockaway beach and boardwalk,other,v,Q-14,-73.7761361368,40.5886009332
-1307,alley playground - ps 213,alley athletic playground,pgs,v,Q-13,-73.7343,40.7395
-1308,mariner's marsh park,mariners marsh park,other,av,R-01,-74.1749646152,40.6371600054
-1309,orchard beach park - nature center,orchard beach and promenade,beach,av,X-15A,-73.7938,40.8664
-1310,bellerose playground - ps 133,bellerose playground,pgs,av,Q-13,-73.7179,40.7328
-1311,field of dreams park,field of dreams park,park_direct,av,X-02,-73.892271515,40.8265840136
-1312,newtown playground,newtown playground,park_direct,av,Q-04,-73.869525761,40.7363130075
-1313,sgt william dougherty playground,sgt william dougherty playground,pgs,av,B-01,-73.9371,40.7237
-1314,hugenot ponds park,huguenot ponds park,other,av,R-03,-74.1895824572,40.5303759262
-1315,pelham bay park - hunter island,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1316,9th st community garden park,9th st community garden park,park_direct,av,M-03,-73.9774606837,40.7253717619
-1317,eastern parkway malls,eastern parkway,other,av,B-08,-73.9457888015,40.6698907856
-1318,triborough bridge playground a,triborough bridge playground a,pgs,av,Q-01,-73.923016,40.776005
-1319,holy cow playground  - ps 179,holy cow playground,pgs,v,Q-08,-73.7774,40.7414
-1320,veterans park,veterans park,park_direct,av,R-01,-74.131768666,40.6371972351
-1321,veterans park,veterans park,park_direct,av,Q-14,-73.8188867405,40.6110392105
-1322,veterans park,veterans park,park_direct,av,R-01,-74.131768666,40.6371972351
-1323,veterans park,veterans park,park_direct,av,Q-14,-73.8188867405,40.6110392105
-1324,playground twenty one - ps 184,playground twenty-one,pgs,av,Q-07,-73.7985,40.7783
-1325,coney island - abe stark ice skating rink,coney island creek park,other,av,B-13,-74.0046688141,40.5814543404
-1326,glenwood playground,glenwood playground,park_direct,av,B-18,-73.9197878082,40.6367406989
-1327,drew playground,drew playground,park_direct,av,X-03,-73.9033325347,40.8331458923
-1328,joseph p addabbo memorial park,tudor park,other,v,Q-10,-73.8521294565,40.6726227164
-1329,staten island greenbelt park - deere park,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
-1330,prospect park - prospect lake near west island,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1331,fox playground 2,fox playground,pgs,av,B-18,-73.9239,40.6323
-1332,fox playground 2,fox playground,pgs,av,X-02,-73.8985,40.815
-1333,central park - bernard playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1334,ave j playground,ave j playground,pgs,av,B-18,-73.8931,40.644
-1335,gardens of union,gardens of union,park_direct,av,B-06,-73.9824682581,40.6769260127
-1336,kings plaza marina,marine park,other,v,B-18,-73.9203077445,40.5967983084
-1337,holcombe rucker park,holcombe rucker park,park_direct,av,M-10,-73.9359540219,40.8292141577
-1338,pugsley creek park,pugsley creek park,park_direct,av,X-09,-73.8514644657,40.8119401326
-1339,mill pond park,mill pond park,park_direct,av,X-04,-73.9317127384,40.8220884266
-1340,pelham bay little league park,pelham bay little league,other,av,X-11,-73.8393442184,40.8415762999
-1341,livonia park,livonia park,park_direct,av,B-16,-73.9019979204,40.6639380903
-1342,sobel green,sobel court park,other,v,R-01,-74.0837861617,40.6149708196
-1343,vernon playground,vernon playground,pgs,av,Q-01,-73.947,40.7571
-1344,vernon playground,vernon playground,pgs,av,Q-01,-73.947,40.7571
-1345,triborough bridge playground c,triborough bridge playground c,park_direct,av,Q-01,-73.9222387704,40.7739775834
-1346,pelham bay park - nature center,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1347,bunker ponds park,bunker ponds park,park_direct,av,R-03,-74.1827528554,40.5235872733
-1348,corona golf playground,corona golf playground,park_direct,av,Q-04,-73.854611302,40.7475823806
-1349,mclaughlin park,mclaughlin park,park_direct,av,B-02,-73.986047143,40.696514822
-1350,hollis playground - jhs 192,hollis playground,pgs,v,Q-12,-73.7531,40.7065
-1351,joseph austin playground,joseph austin playground,park_direct,av,Q-08,-73.8006993004,40.7158575886
-1352,eugene mccabe field,eugene mccabe field,park_direct,av,M-11,-73.9416435596,40.8023943708
-1353,knox-gates playground,knox-gates playground,pgs,av,X-07,-73.8852,40.8819
-1354,charlies place,charlie's place,other,av,B-03,-73.9459776762,40.699140184
-1355,ramirez playground,gilbert ramirez park,pgs,v,B-01,-73.9345,40.706
-1356,manhattan - imagination playground,imagination playground,pgs,av,B-19,-73.963,40.6586
-1357,riverside park - skate park,riverside park,other,av,M-14,-73.9536580952,40.826069869
-1358,riverside park - skate park,riverside park,other,av,M-14,-73.9745612683,40.7988335229
-1359,central park - wien walk and arsenal,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1360,john adams  playground,john adams playground,pgs,av,Q-10,-73.8355,40.6773
-1361,recreation center - kingsbridge heights,kingsbridge heights community center,recr,v,X-08,-73.900715,40.877579
-1362,downing playground,downing street playground,pgs,av,M-02,-74.0027,40.7298
-1363,playground eighty nine lxxxix,playground eighty nine lxxxix,park_direct,av,M-07,-73.9718911165,40.7886445203
-1364,french charley's playground,french charley playground,pgs,av,X-14,-73.8763,40.8699
-1365,fresh kills park,freshkills park,other,av,R-02,-74.1776154254,40.5840350698
-1366,martin luther playground,martin luther playground,park_direct,av,B-07,-74.0197462848,40.6457850349
-1367,father macris park,father macris park,park_direct,av,R-02,-74.1616340634,40.6166242816
-1368,mount hope garden,mount hope garden,park_direct,av,X-05,-73.9053593131,40.85255831
-1369,jackie robinson playground,jackie robinson playground,park_direct,av,B-09,-73.959237386,40.6657903514
-1370,floyd patterson field,floyd patterson ballfields,other,av,B-16,-73.9040870088,40.6608756757
-1371,paul w kolbert park and rachel haber cohen playground,paul w kolbert playground,pgs,v,B-14,-73.958,40.6203
-1372,kissena velodrome - cycling track,kissena park,other,av,Q-07,-73.804828603,40.7453463949
-1373,bill bojangle robinson playground,bill 'bojangle' robinson playground,pgs,av,M-10,-73.9373,40.8253
-1374,pelham north park headquarters,pelham parkway,other,v,X-11,-73.8527017626,40.8575206954
-1375,linwood playground,linwood playground,park_direct,av,B-05,-73.8803710378,40.6661071245
-1376,annunciation park,annunciation park,park_direct,av,M-09,-73.952090474,40.8182865744
-1377,bulova park,bulova park,park_direct,av,Q-03,-73.892234378,40.7631068631
-1378,jacob's ladder playground,jacob's ladder playground,park_direct,av,B-01,-73.9670277962,40.7048688929
-1379,atlantic playground,josephine caminiti playground,pgs,v,Q-04,-73.8616,40.7439
-1380,pontiac playground,pontiac playground,park_direct,av,X-01,-73.9082310558,40.8142517087
-1381,rachel carson playground,rachel carson playground,pgs,av,Q-07,-73.8224,40.7492
-1382,louis pasteur park,louis pasteur park,park_direct,av,Q-11,-73.7353545508,40.762038812
-1383,elizabeth stroud playground,elizabeth stroud playground,park_direct,av,B-03,-73.9310898683,40.6796622142
-1384,stapleton playground,stapleton playground,park_direct,av,R-01,-74.0796508393,40.6232474503
-1385,rev j polite playground and stebbins playground,stebbins playground,park_direct,v,X-02,-73.8985172876,40.8227673313
-1386,carter g woodson childrens park,carter g. woodson children's park,other,av,B-16,-73.9058318627,40.6684542655
-1387,strong street playground,strong street playground,pgs,av,X-08,-73.8981,40.8714
-1388,rockaway beach and boardwalk - beach 17th st playground,beach 17th street playground,pgs,v,Q-14,-73.7477,40.5949
-1389,seaside playground - ps 225,seaside playground,pgs,v,Q-14,-73.8309,40.5806
-1390,bland playground,bland playground,park_direct,av,Q-07,-73.8311323331,40.7582711711
-1391,cherry clinton playground,cherry clinton playground,park_direct,av,M-03,-73.9862802947,40.711312936
-1392,frisch field,frisch field in bronx park,pgs,v,X-07,-73.8809,40.8684
-1393,webster ave community playground,webster playground,pgs,v,X-06,-73.8929,40.8593
-1394,bill robinson,bill 'bojangle' robinson playground,pgs,v,M-10,-73.9373,40.8253
-1395,beach - cedar grove,cedar grove beach,beach,av,R-03,-74.105231,40.558154
-1396,cherry tree playground,cherry tree park,other,v,M-11,-73.9472055242,40.7872386883
-1397,joseph rodman drake park,joseph rodman drake park,park_direct,av,X-02,-73.8825304359,40.8102627261
-1398,william e kelly memorial park,kelly park,other,v,B-15,-73.9576420128,40.6041785632
-1399,william e kelly memorial park,kelly park,other,v,B-15,-73.956480925,40.6043838427
-1400,recreation center - morningside park,morningside park,other,av,M-09,-73.9583797726,40.8057604505
-1401,aqueduct walk - waring playground,waring playground,pgs,v,X-14,-73.8714,40.8605
-1402,the dust bowl,quaker parrot park at the dust bowl,other,av,B-10,-74.0134951871,40.632680671
-1403,webster playground,webster playground,park_direct,av,X-06,-73.892892275,40.8593838598
-1404,captain rivera playground,captain rivera playground,park_direct,av,X-01,-73.9069325941,40.817934267
-1405,central park - heckscher playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1406,ravenswood  playground,ravenswood playground,pgs,av,Q-01,-73.9352,40.7629
-1407,governor smith playground,governor smith playground,park_direct,av,X-01,-73.9207573566,40.8193455375
-1408,buz o'rourke playground,buz o' rourke playground,pgs,av,Q-11,-73.7712,40.771
-1409,fort independence playground,fort independence playground,park_direct,av,X-08,-73.8949071689,40.8818912361
-1410,public place,public place,park_direct,av,B-05,-73.865107998,40.6782597181
-1411,prospect park - south west entrance,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1412,elijah stroud playground,elijah stroud playground,pgs,av,B-08,-73.9619,40.675
-1413,collyer brothers park,collyer brothers park,park_direct,av,M-10,-73.9410600886,40.8085434125
-1414,macdonald park,macdonald park,park_direct,av,Q-06,-73.8468032729,40.7222372517
-1415,tot lot one hundred and twelve,tot lot one hundred and twelve,pgs,v,M-14,-73.9679,40.8065
-1416,mercer st. playground,mercer playground,pgs,av,M-02,-73.9963,40.7276
-1417,west 186th st basketball court,west 186th street basketball court,other,av,M-12,-73.9309279649,40.8518792165
-1418,marc and jason's playground,marc and jason's playground,park_direct,av,B-09,-73.9495255249,40.6635198517
-1419,jefferson market garden,jefferson market garden,park_direct,av,M-02,-73.9995140135,40.7344425347
-1420,delphin greene playground - ps 176,delphin greene playground,pgs,av,Q-13,-73.7291,40.6849
-1421,kennedy playground,kennedy playground,park_direct,av,Q-11,-73.779334934,40.7717125271
-1422,chester playground,chester playground,park_direct,av,B-16,-73.9118484843,40.6686940027
-1423,davidson ave community playground,davidson playground,pgs,v,X-05,-73.9077,40.8551
-1424,toad hall playground,toad hall playground,park_direct,av,R-02,-74.1195780686,40.6086901449
-1425,lopez playground,lopez playground,park_direct,av,R-01,-74.0850541951,40.611486669
-1426,city island wetlands,city island wetlands,park_direct,av,X-10,-73.7918190243,40.8478737075
-1427,pool - sheltering arms park,sheltering arms pool,pool,av,M-09,-73.9557,40.8148
-1428,joyce kilmer park,joyce kilmer park,park_direct,av,X-04,-73.9226603146,40.8285258674
-1429,starlight park - jennie jerome playground,jerome playground,pgs,av,B-05,-73.8795,40.659
-1430,golf course - pelham and split rock,pelham bay golf course,golf,v,X-15,-73.809133,40.875098
-1431,hot spot tot lot,hot spot tot lot,park_direct,av,B-14,-73.9567156764,40.6310422823
-1432,park at richmond parkway,richmond parkway,other,v,R-03,-74.1510611176,40.5700171602
-1433,golf course - flushing meadows corona park pitch and putt,flushing meadows corona park,empiric,av,Q-15,-73.8417856108,40.743279099
-1434,wayanda park - ps 34,p.s. 34,school,v,B-01,-73.9497388231,40.7263513219
-1435,riverbend playground,riverbend playground,park_direct,av,X-07,-73.9057795546,40.8720662494
-1436,cunningham park - upper playground,upper playground,pgs,av,Q-08,-73.7752,40.7264
-1437,mccarren park - vincent v abate playground,vincent v abate playground,pgs,av,B-01,-73.9498,40.7213
-1438,central park - reservoir northeast,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1439,poseidon playground,poseidon playground,park_direct,av,B-13,-73.9920830716,40.5724500276
-1440,pool - macarthur,macarthur park,other,v,M-06,-73.9651474043,40.7522039165
-1441,rivington st playground,rivington st playground,pgs,av,M-03,-73.9917,40.7214
-1442,garden of happiness,garden of happiness,park_direct,av,X-06,-73.8849849009,40.8485368806
-1443,nathan weidenbaum - little bush park,nathan weidenbaum park,other,v,Q-02,-73.9022443947,40.7381602928
-1444,seaside playground - ps 225,seaside playground,pgs,v,Q-14,-73.8309,40.5806
-1445,mcguire fields,mcguire fields,park_direct,av,B-18,-73.8993864608,40.6136476493
-1446,galileo park,galileo playground,other,v,X-05,-73.9156887918,40.8486044367
-1447,pelham bay park - memorial grove,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1448,st mary's playground west,st mary's playground west,pgs,av,X-01,-73.9128,40.813
-1449,sobel court park,sobel court park,park_direct,av,R-01,-74.0837861617,40.6149708196
-1450,recreation center - faber park,faber pool and park,other,v,R-01,-74.135720569,40.6410019606
-1451,phil scooter rizzuto park,"phil ""scooter"" rizzuto park",other,av,Q-09,-73.8215866578,40.694792951
-1452,harry maze playground,harry maze playground,park_direct,av,B-17,-73.9231758782,40.6434178408
-1453,harry maze memorial park,harry maze playground,other,v,B-17,-73.9231758782,40.6434178408
-1454,capt rivera playground,captain rivera playground,pgs,av,X-01,-73.9069,40.8179
-1455,hines park,hines park,park_direct,av,X-03,-73.9056553843,40.8286020465
-1456,bailey playground,bailey playground,park_direct,av,X-08,-73.9000267097,40.8820624725
-1457,bellaire playground - ps 135,bellaire playground,pgs,av,Q-13,-73.758,40.7216
-1458,givans creek woods park,givans creek woods,other,av,X-10,-73.8298410363,40.880074393
-1459,tudor park,tudor park,park_direct,av,Q-10,-73.8521294565,40.6726227164
-1460,ps 1 playground,ps 1 playground,pgs,av,B-07,-74.0121,40.6494
-1461,rosewood playground,rosewood playground,pgs,av,X-14,-73.871,40.873
-1462,central park - wollman ice skating rink,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1463,locust manor playground  - ps 15,locust manor playground,pgs,av,Q-12,-73.7564,40.6861
-1464,john allen payne park,john allen payne park,park_direct,av,B-07,-74.0238809496,40.639972199
-1465,imagine playground,imagination playground,pgs,v,B-19,-73.963,40.6586
-1466,aqueduct walk - bronx river parkway west,aqueduct walk,other,av,X-07,-73.9021617732,40.8651270507
-1467,aqueduct walk - bronx river parkway west,aqueduct walk,other,av,X-05,-73.9092042331,40.856691868
-1468,merriam playground - lower,merriam playground. (lower),pgs,av,X-04,-73.9264,40.8389
-1469,a chiarantano park,chiarantano playground,other,v,B-17,-73.9333755419,40.6369289549
-1470,bedford playground,bedford playground,park_direct,av,B-01,-73.9638701253,40.7082873075
-1471,vietnam veterans plaza,vietnam veterans plaza,park_direct,av,M-01,-74.009898907,40.7026111415
-1472,farm playground,farm playground,park_direct,av,Q-08,-73.7773480464,40.7357394955
-1473,owl's head park 1,owl's head park,other,av,B-10,-74.0322502813,40.6401425141
-1474,paul w kolbert park and rachel haber cohen playground,paul w kolbert playground,pgs,v,B-14,-73.958,40.6203
-1475,breukelen ballfields,breukelen ballfields,park_direct,av,B-18,-73.8925062775,40.6525170462
-1476,pelham bay park - bartow-pell woods,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1477,ps 45 playground,ps 45 playground,pgs,av,R-01,-74.1076,40.6279
-1478,rockaway freeway and kohlridir sq,rockaway freeway,other,av,Q-14,-73.7946359334,40.5919205198
-1479,pool - windmuller,windmuller pool,pool,av,Q-02,-73.9107,40.7475
-1480,sheepshead bay piers,sheepshead bay piers,park_direct,av,B-15,-73.9447152688,40.5833392005
-1481,audubon playground,audubon playground,park_direct,av,M-12,-73.9381044878,40.8415192895
-1482,pool - thompson street,thompson street pool,pool,av,M-02,-74.0024,40.7256
-1483,coney island creek park,coney island creek park,park_direct,av,B-13,-74.0046688141,40.5814543404
-1484,central park - frawleys circle,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1485,central park - pilgrim hill and conservatory water,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1486,wallenberg forest,raoul wallenberg forest,other,av,X-08,-73.9178096795,40.8874646486
-1487,bushwick playground and pool,bushwick playground,pgs,av,B-04,-73.9122,40.6961
-1488,luiz lopez playground,luis r lopez park,pgs,v,R-01,-74.085,40.6115
-1489,eleanor roosevelt playground,eleanor roosevelt playground,park_direct,av,B-03,-73.9355767379,40.6927668135
-1490,van dyke playground,van dyke playground,park_direct,av,B-16,-73.9040102704,40.664431202
-1491,dematti playground,de matti playground,pgs,av,R-01,-74.0742,40.6145
-1492,alstyne playground,josephine caminiti playground,pgs,v,Q-04,-73.8616,40.7439
-1493,gun hill  playground,gun hill playground,pgs,av,X-12,-73.8655,40.8747
-1494,saint marys playground,st mary's playground,pgs,av,B-06,-73.9972,40.6764
-1495,saint marys playground,st mary's playground,pgs,av,B-06,-73.9975,40.6758
-1496,tottenville shore park,tottenville shore park,park_direct,av,R-03,-74.2535629224,40.5109216932
-1497,sant nicholas - olive st garden,st. nicholas - olive st. garden,other,av,B-01,-73.9390516322,40.7133004902
-1498,pool - chelsea,chelsea pool,pool,av,M-04,-74.0022,40.7483
-1499,fulton park,fulton park,park_direct,av,B-03,-73.932576794,40.6797582301
-1500,dan ross playground,dan ross playground,park_direct,av,B-10,-74.0215891904,40.6228033561
-1501,castlewood playground - ps 186,castlewood playground,pgs,av,Q-13,-73.7224,40.7493
-1502,playground one thirty four,playground one thirty-four,pgs,av,X-01,-73.9177,40.8035
-1503,reiff playground,reiff playground,park_direct,av,Q-05,-73.9017282017,40.7185826015
-1504,cedar grove playground - jhs 218,cedar grove playground,pgs,av,Q-08,-73.8237,40.737
-1505,sunshine community garden,sunshine community garden,park_direct,av,B-01,-73.9440109873,40.7052893601
-1506,central park - strawberry fields,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1507,pelham bay park - split rock trail,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1508,pinocchio playground,pinocchio playground,park_direct,av,Q-05,-73.8752941833,40.7055233601
-1509,crotona park - hill and dale playground,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
-1510,st mary's playground,st mary's playground,pgs,av,B-06,-73.9972,40.6764
-1511,st mary's playground,st mary's playground,pgs,av,B-06,-73.9975,40.6758
-1512,corona mac park,corona mac park,park_direct,av,Q-04,-73.8590887337,40.7403358063
-1513,prall playground,prall playground,park_direct,av,R-01,-74.1181371167,40.6286028326
-1514,pool - st. mary's,st. mary's pool,pool,av,X-01,-73.9141,40.8114
-1515,terrapin playground - jhs 51,terrapin playground,pgs,av,B-06,-73.9855,40.673
-1516,sandpiper playground,rockaway beach and boardwalk,other,v,Q-14,-73.7761361368,40.5886009332
-1517,blood root valley - greenbelt,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
-1518,recreation center - gertrude ederle,gertrude ederle recreation center,other,av,M-07,-73.9887292691,40.7712935962
-1519,westwood park,westwood park,park_direct,av,R-02,-74.1418602163,40.606411512
-1520,hattie carthan playground,hattie carthan playground,park_direct,av,B-03,-73.9461393894,40.6856025972
-1521,prospect park - west parade grounds,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1522,colgate close,colgate close,park_direct,av,X-09,-73.8814882825,40.8241576737
-1523,dr ronald e mcnair playground,dr. ronald e. mcnair playground,pgs,av,M-11,-73.9381,40.8026
-1524,leif ericson drive shore parkway - mcguire fields,mcguire fields,other,av,B-18,-73.8993864608,40.6136476493
-1525,annadale green,annadale green,park_direct,av,R-03,-74.1776519015,40.5414374241
-1526,blackrock playground,blackrock playground,pgs,av,X-09,-73.858,40.8284
-1527,cozzens woods and long pond park,long pond park,other,v,R-03,-74.2281928078,40.5137674802
-1528,6th st and ave b community garden,6th st and ave b community garden,park_direct,av,M-03,-73.9820813762,40.72432138
-1529,recreation center - sorrentino,sorrentino recreation center,other,av,Q-14,-73.7513563619,40.6024293616
-1530,recreation center - cunningham,cunningham park,other,v,Q-08,-73.768809023,40.7337888331
-1531,100 percent playground - ps 242,100% playground,pgs,v,B-18,-73.8992,40.6465
-1532,playground a4 at bailey and 234 street,bailey playground,pgs,v,X-08,-73.9004,40.8816
-1533,davis playground,davis playground,park_direct,av,R-01,-74.0856098568,40.6422860218
-1534,dunbar playground,dunbar playground,park_direct,av,X-03,-73.906443751,40.8230107773
-1535,convent gardens,convent garden,other,av,M-09,-73.9426777424,40.8283389443
-1536,fishbridge garden,fishbridge garden,park_direct,av,M-01,-74.0013770044,40.7090702742
-1537,alexander alley,alexander's alley,other,av,X-01,-73.9232270155,40.8115079987
-1538,classon neighborhood playground,classon playground,pgs,v,B-02,-73.9606,40.6894
-1539,pelham bay park - rodmans neck west,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1540,rochdale park playground  at jhs 72,north rochdale playground,pgs,v,Q-12,-73.7749,40.68
-1541,fidler - wyckoff house park,fidler-wyckoff house park,other,av,B-17,-73.9206398607,40.6445456138
-1542,kosciusko pool,kosciuszko pool,pool,av,B-03,-73.9496,40.6912
-1543,spuyten duyvil shorefront park and half moon overlook,spuyten duyvil shorefront park,other,av,X-08,-73.9207990649,40.8784752108
-1544,van cortlandt park - ice skating rink,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1545,de matti playground,de matti playground,park_direct,av,R-01,-74.074184806,40.6145327226
-1546,central park - nutters battery and fort clinton site,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1547,lewis simeon park,simeone park,other,v,Q-04,-73.859923614,40.7409795314
-1548,crotona park - tremont park,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
-1549,la tourette park and golf course,la tourette golf course,golf,av,R-02,-74.146957,40.576395
-1550,public theatre,the public theater,other,av,M-02,-73.9917546677,40.7289627059
-1551,murphys brothers playground,murphy's brother's playground,other,v,M-06,-73.9733971628,40.7302432197
-1552,deer park,deere park,other,av,R-02,-74.1093036367,40.6060444199
-1553,recreation center - garnetville jennifer's playground,jennifer's playground,pgs,v,R-01,-74.1631,40.6201
-1554,la guardia playground,la guardia playground,park_direct,av,B-01,-73.9591725022,40.7099150046
-1555,la guardia playground,la guardia playground,park_direct,av,B-01,-73.9597482256,40.7104546497
-1556,sidney hillman playground,sidney hillman playground,park_direct,av,M-03,-73.9796574307,40.7152183456
-1557,queens farm museum,queens farm park,other,v,Q-13,-73.7224938707,40.7477805364
-1558,brooklyn bears carlton avenue garden,brooklyn bears carlton ave garden,other,av,B-02,-73.9710641014,40.6857081842
-1559,admiral triangle,admiral triangle,park_direct,av,B-06,-74.001079889,40.6769277921
-1560,nautilus playground - queens,nautilus playground,pgs,av,B-13,-73.9963,40.5717
-1561,nautilus playground - queens,nautilus playground,pgs,av,Q-12,-73.7708,40.685
-1562,recreation area - first park,first park,other,av,M-03,-73.9896394802,40.7235177911
-1563,recreation center - passerelle building,passerelle building,recr,v,Q-15,-73.8448469,40.7428054
-1564,pulaski park,pulaski park,park_direct,av,X-01,-73.9245656896,40.8052423117
-1565,playground ninety - ps 148,playground ninety xc,pgs,v,Q-03,-73.8786,40.7573
-1566,recreation center - mccarren park,mccarren park,other,av,B-01,-73.9518237858,40.7208770305
-1567,gouverneur playground,gouverneur playground,park_direct,av,X-03,-73.9034327874,40.8357212636
-1568,belmont playground - brooklyn,belmont playground,pgs,av,B-05,-73.8629,40.6757
-1569,belmont playground - brooklyn,belmont playground,pgs,av,X-06,-73.8876,40.8503
-1570,floyd patterson field,floyd patterson ballfields,other,av,B-16,-73.9040870088,40.6608756757
-1571,faber park,faber pool and park,other,v,R-01,-74.135720569,40.6410019606
-1572,henry hudson park,henry hudson park,park_direct,av,X-08,-73.9199627805,40.8813294534
-1573,duke park,duke park,park_direct,av,B-05,-73.8932476415,40.6668214056
-1574,harvard playground,harvard playground,park_direct,av,Q-12,-73.781560193,40.7091199963
-1575,central park - the ramble,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1576,the dust bowl,quaker parrot park at the dust bowl,other,av,B-10,-74.0134951871,40.632680671
-1577,bridge park 2,bridge park,other,av,B-02,-73.9858988894,40.7010376829
-1578,bridge park 2,bridge park,other,av,X-05,-73.9270643322,40.8463125645
-1579,pink playground,pink playground,park_direct,av,B-05,-73.8626676663,40.6665456912
-1580,tenney park,tenney park,pgs,v,Q-13,-73.7156,40.7495
-1581,crotona park - crotona playground,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
-1582,francis lewis playground - ps 130,francis lewis playground,pgs,av,Q-07,-73.8257,40.7962
-1583,francis lewis playground - ps 130,francis lewis playground,pgs,av,Q-11,-73.7841,40.7605
-1584,ditmars park,ditmars park,park_direct,av,Q-01,-73.9071563004,40.7716065713
-1585,ps 4 paradise garden,p.s. 4,school,v,R-03,-74.1948877582,40.5522656978
-1586,charlie's place,charlie's place,park_direct,av,B-03,-73.9459776762,40.699140184
-1587,peters field,peters field,park_direct,av,Q-12,-73.7748394325,40.7060148052
-1588,heckscher playground,heckscher playground,park_direct,av,B-04,-73.9182682337,40.6951149062
-1589,dream street park,dream street park,park_direct,av,M-11,-73.9350367369,40.8027363968
-1590,pool - mccarren park,mccarren pool,pool,v,B-01,-73.9495,40.7201
-1591,kossuth playground,kossuth playground,pgs,av,X-07,-73.8826,40.8778
-1592,bath playground,bath playground,park_direct,av,B-11,-73.993139907,40.5949708598
-1593,castle hill little league,castle hill little league field,other,av,X-09,-73.8440249999,40.8324182633
-1594,rodney park north,rodney park north,park_direct,av,B-01,-73.9563215786,40.7090738437
-1595,starlight park - havemeyer playground,havemeyer playground,pgs,v,X-09,-73.848,40.8299
-1596,rolf henry playground,rolf henry playground,park_direct,av,B-09,-73.9475065758,40.6557950656
-1597,highbridge park - sunken playground,sunken playground,pgs,av,M-12A,-73.9361,40.8377
-1598,lyons playground,lyons square playground,pgs,av,X-02,-73.8881,40.8228
-1599,central park - northwest corner,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1600,pool - lindower park,lindower park pool,pool,av,B-18,-73.9113,40.6124
-1601,linden park playground,linden park,pgs,av,B-05,-73.8876,40.6583
-1602,linden park playground,linden park,pgs,av,B-05,-73.8875,40.6592
-1603,linden park playground,linden park,pgs,av,Q-04,-73.8619,40.7486
-1604,surf playground,surf playground,park_direct,av,B-13,-73.9923536728,40.5737170672
-1605,idlewild park,idlewild park,park_direct,av,Q-13,-73.7522896278,40.6504280147
-1606,haviland playground,haviland playground,park_direct,av,X-09,-73.8586171964,40.8290429938
-1607,ten eyck playground,ten eyck playground,park_direct,av,B-01,-73.9388235037,40.7088665845
-1608,central park - pat hoffman friedman playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1609,conch playground - ps 105,conch playground,pgs,v,Q-14,-73.7808,40.596
-1610,van cortlandt park - van cortlandt stadium,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1611,clinton cherry playground,cherry clinton playground,pgs,av,M-03,-73.9863,40.7113
-1612,fordham landing playground,fordham landing playground,park_direct,av,X-07,-73.9097797254,40.8644028681
-1613,hattie carthan garden,hattie carthan playground,pgs,v,B-03,-73.9461,40.6856
-1614,st luke's park,st. luke's park,other,av,X-01,-73.9153842762,40.8056373513
-1615,squibb park,squibb park,park_direct,av,B-02,-73.995473492,40.7008999011
-1616,ps 149 playground,northern playground,pgs,v,Q-03,-73.8746,40.7561
-1617,yak playground,yak playground,park_direct,av,B-15,-73.936480236,40.5922793229
-1618,playground 103,playground 103 ciii,pgs,av,M-11,-73.9391,40.7871
-1619,junction playground,junction playground,park_direct,av,Q-03,-73.872143043,40.7547069269
-1620,pomonok,pomonok playground,other,av,Q-08,-73.8139309913,40.7360986836
-1621,seven gables playground - is 74,seven gables playground,pgs,av,Q-11,-73.7664,40.7442
-1622,crotona park - clinton playground,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
-1623,prospect park - upper long meadow,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1624,aqueduct walk - bronx river parkway east,aqueduct walk,other,av,X-07,-73.9021617732,40.8651270507
-1625,aqueduct walk - bronx river parkway east,aqueduct walk,other,av,X-05,-73.9092042331,40.856691868
-1626,coney island boat basin,coney island boat basin,park_direct,av,B-13,-73.9913863234,40.5827026715
-1627,stebbins playground,stebbins playground,park_direct,av,X-02,-73.8985172876,40.8227673313
-1628,ps 125 playground,ps 125 playground,pgs,av,B-16,-73.9091,40.6651
-1629,recreation center - west bronx,west bronx recreation center,other,av,X-04,-73.9194016277,40.8442781508
-1630,rienzi playground,rienzi playground,park_direct,av,X-12,-73.8585674278,40.8876182849
-1631,recreation center - west bronx - expired,west bronx recreation center,other,av,X-04,-73.9194016277,40.8442781508
-1632,rodney park center,rodney park center,park_direct,av,B-01,-73.9567138433,40.7084975077
-1633,machate circle,machate circle,park_direct,av,B-14,-73.9721902693,40.6510279789
-1634,jerome playground south,jerome playground south,park_direct,av,X-04,-73.9138202686,40.8448360762
-1635,hunter's point park,hunter's point south park,other,av,Q-02,-73.9609498151,40.7425164766
-1636,james madison plaza,james madison plaza,park_direct,av,M-03,-74.0004651446,40.711471885
-1637,tompkins square park,tompkins square park,park_direct,av,M-03,-73.9817129411,40.7264520614
-1638,mccarren park ice skating rink,mccarren park,other,v,B-01,-73.9518237858,40.7208770305
-1639,spring creek park,spring creek park,park_direct,av,B-05,-73.8623146816,40.6595758148
-1640,spring creek park,spring creek park,park_direct,av,B-18,-73.8786747126,40.640387404
-1641,spring creek park,spring creek park,park_direct,av,B-05,-73.8713449388,40.6520244121
-1642,eibs pond park,eibs pond park,park_direct,av,R-01,-74.0811131282,40.6111494198
-1643,abyssinian tot lot,abyssinian tot lot,park_direct,av,M-10,-73.9408544898,40.8171811914
-1644,arrochar playground,arrochar playground,park_direct,av,R-02,-74.0709337947,40.5977433278
-1645,van cortlandt park - middle putnam trail and tibbets brook,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1646,rocket park,rocket park,park_direct,av,Q-10,-73.8462785128,40.6706678177
-1647,146 st playground,playground 146,pgs,av,Q-07,-73.8213,40.7462
-1648,pool - gertrude ederle,gertrude ederle recreation center,other,v,M-07,-73.9887292691,40.7712935962
-1649,starlight park,starlight park,park_direct,av,X-09,-73.8824340714,40.8331856291
-1650,triborough bridge playground e,triborough bridge playground e,park_direct,av,Q-01,-73.9208746817,40.7730038162
-1651,staten island greenbelt - bucks hollow,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
-1652,firemen's memorial garden,firemen's memorial garden,park_direct,av,M-03,-73.9779679529,40.7242604039
-1653,co-op city field,co-op city field,park_direct,av,X-10,-73.8236342143,40.8758152605
-1654,de salvio playground,desalvio playground,pgs,av,M-02,-73.9961,40.7216
-1655,prospect park - south west,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1656,tribute park,tribute park,park_direct,av,Q-14,-73.8390801008,40.582096781
-1657,garden playground,garden playground,park_direct,av,B-04,-73.9383117545,40.701094233
-1658,pelham bay park - south meadow,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1659,riverbank state park,riverbank playground,pgs,v,M-14,-73.9538,40.8257
-1660,rodney park south,rodney park south,park_direct,av,B-01,-73.9572589663,40.7075301742
-1661,devoe park,devoe park,park_direct,av,X-07,-73.9062458436,40.8633117264
-1662,goble playground,goble playground,park_direct,av,X-04,-73.9170456808,40.8437670883
-1663,bartlett playground,bartlett playground,park_direct,av,B-01,-73.9460442991,40.7009128628
-1664,brownsville playground,brownsville playground,park_direct,av,B-16,-73.9022215696,40.6565246981
-1665,triborough bridge playground d,triborough bridge playground d,park_direct,av,Q-01,-73.9215565425,40.773493046
-1666,pool - ps 10,ps 10 pool,pool,av,Q-01,-73.9113,40.7607
-1667,pool - brooklyn bridge park pop-up,brooklyn bridge park pool,pool,av,B-02,-73.9986,40.6995
-1668,pool - mariners harbor playground,mariners harbor playground,pgs,av,R-01,-74.1605,40.6365
-1669,sunrise playground - ps 195,sunrise playground,pgs,v,Q-13,-73.7364,40.6527
-1670,central park - lasker ice skating rink,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1671,pool - bronx river playground,bronx river playground pool,pool,v,X-09,-73.8778,40.8342
-1672,van cortlandt park - saturn play equipment,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
-1673,sweetgum playground,sweetgum playground,pgs,av,X-15,-73.8262,40.8512
-1674,aqueduct walk - rosewood playground,rosewood playground,pgs,v,X-14,-73.871,40.873
-1675,longfellow garden,longfellow garden,park_direct,av,X-02,-73.8875568677,40.8255950681
-1676,bildersee playground,bildersee playground,park_direct,av,B-18,-73.9116451484,40.635666984
-1677,riverside park - baseball fields,riverside park,other,av,M-14,-73.9536580952,40.826069869
-1678,riverside park - baseball fields,riverside park,other,av,M-14,-73.9745612683,40.7988335229
-1679,roberto clemente state park,roberto clemente ballfield,other,v,B-01,-73.967668994,40.7063531362
-1680,kosciusko street garden,kosciuszko street garden,other,av,B-03,-73.9392487715,40.6922445823
-1681,prospect park - peninsula,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1682,prospect park - prospect lake near duck island,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1683,prospect park - vale of cashmere ellies lawn,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1684,central park - reservoir southeast,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1685,prospect park - ravine and the pools,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1686,sutter ballfields,sutter ballfields,park_direct,av,B-05,-73.8875735782,40.6711582695
-1687,alexander hamilton playground,alexander hamilton playground,park_direct,av,M-09,-73.9512856113,40.8230791549
-1688,river garden,river garden,park_direct,av,X-06,-73.8766304648,40.8419521928
-1689,prospect park - the nethermead,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1690,west 87th street garden,w 87th street garden,other,av,M-07,-73.970926237,40.7870913566
-1691,louis cuvillier park,louis cuvillier park,park_direct,av,M-11,-73.9308914942,40.8009019768
-1692,i am park,i-am-park,other,av,X-01,-73.9101995193,40.8112935952
-1693,aqueduct walk - frisch field in bronx park,bronx park,other,av,X-11,-73.875820076,40.8566400511
-1694,parks council success garden,parks council success garden,park_direct,av,M-10,-73.9428151582,40.8138045765
-1695,recreation center - a.r.r.o.w.,a.r.r.o.w. field house,other,v,Q-01,-73.9262867645,40.7558283869
-1696,clove's tail,clove's tail,park_direct,av,R-01,-74.1138294905,40.6131376263
-1697,straus park,straus park,park_direct,av,M-07,-73.9681756041,40.8017469193
-1698,central park - great lawn playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1699,leonardo ingravallo playground,leonardo ingravallo playground,pgs,av,Q-07,-73.8173,40.7762
-1700,recreation center - highbridge,highbridge park,other,av,M-12A,-73.9304651001,40.846501499
-1701,recreation center - highbridge,highbridge park,other,av,X-04,-73.9267891522,40.8420769652
-1702,bushwick inlet park,bushwick inlet park,park_direct,av,B-01,-73.9605275224,40.7239676188
-1703,long island mews,long island mews,park_direct,av,Q-02,-73.8902035799,40.7360974567
-1704,central park - park south,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1705,clawson playground - ps 50,clawson playground,pgs,av,R-03,-74.1236,40.5605
-1706,6bc botanical garden,6bc botanical garden,park_direct,av,M-03,-73.9806751319,40.7238418902
-1707,weeping beech - margaret i carmen green,margaret i. carman green - weeping beech,other,av,Q-07,-73.8246394867,40.7633965377
-1708,agnes haywood playground,agnes haywood playground,park_direct,av,X-12,-73.8618138155,40.8802955895
-1709,elmhurst park,elmhurst park,park_direct,av,Q-04,-73.8851273198,40.7298958019
-1710,beach - coney island,coney island and coney island boardwalk,beach,av,B-13,-73.9441,40.573
-1711,charlton garden,charlton garden,park_direct,av,X-03,-73.9071028063,40.8246805759
-1712,st nicholas - olive st garden,st. nicholas - olive st. garden,other,av,B-01,-73.9390516322,40.7133004902
-1713,beach - rockaway,rockaway beach and boardwalk,beach,v,Q-14,-73.7693,40.5898
-1714,6bc botanical garden,6bc botanical garden,park_direct,av,M-03,-73.9806751319,40.7238418902
-1715,risse st park,risse street park,other,v,X-07,-73.8852862237,40.8785650426
-1716,jerome slope,jerome slope,park_direct,av,X-04,-73.9259115917,40.8324981273
-1717,d'emic playground,d'emic playground,park_direct,av,B-07,-74.0049394819,40.656008841
-1718,project eden,project eden,park_direct,av,Q-06,-73.8576465614,40.7162040328
-1719,hallets cove playground,hallets cove playground,park_direct,av,Q-01,-73.9359962215,40.7728451811
-1720,recreation center - crotona park,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
-1721,prospect park - prospect park west,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1722,queens valley playground - ps 164,queens valley playground,pgs,av,Q-08,-73.8237,40.7219
-1723,wilson playground,wilson playground,park_direct,av,B-18,-73.8948518864,40.6426729264
-1724,pool - marie curie park,marie curie park pool,pool,av,Q-11,-73.7716,40.7569
-1725,willowbrook parkway,willowbrook parkway,park_direct,av,R-02,-74.1347998765,40.5835581929
-1726,dr ronald e mcnair playground,dr. ronald e. mcnair playground,pgs,av,M-11,-73.9381,40.8026
-1727,alley pond park - nature center,alley pond park,other,v,Q-11,-73.7468585479,40.7536076531
-1728,hook creek marsh,hook creek park,other,v,Q-13,-73.742196093,40.6487785771
-1729,fred samuel playground,fred samuel playground,park_direct,av,M-10,-73.9392367166,40.8171557463
-1730,sophie irene loeb,sophie irene loeb,park_direct,av,M-03,-73.9943037684,40.7132898927
-1731,kennedy playground,kennedy playground,park_direct,av,Q-11,-73.779334934,40.7717125271
-1732,prospect park - willink hill,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
-1733,st nicholas - powers st garden,st. nicholas - powers st. garden,other,av,B-01,-73.9397152826,40.7127365472
-1734,rev lena irons unity park,rev lena irons unity park,park_direct,av,X-03,-73.9066574094,40.831044325
-1735,pool - edenwald houses,edenwald houses pool,pool,av,X-12,-73.8453,40.8843
-1736,hendrick i lott house,hendrick i. lott house,other,av,B-18,-73.9326450915,40.6103294091
-1737,william h seward park,seward park,other,v,M-03,-73.9892281589,40.7147901269
-1738,playground of the americas,playground of the americas,park_direct,av,M-02,-74.0027146903,40.728002741
-1739,hallets point playground - area b,hallets point playground (area b),pgs,av,Q-01,-73.9373,40.7743
-1740,recreation center - betsy head cbo- amboy neighborhood center,amboy neighborhood center,other,av,B-16,-73.9139134739,40.6652344823
-1741,staten island industrial park,staten island industrial park,park_direct,av,R-02,-74.174011314,40.6125850066
-1742,harlem lane playground,harlem lane playground,park_direct,av,M-10,-73.934877318,40.825980228
-1743,bridge and tunnel park,bridge and tunnel park,park_direct,av,Q-02,-73.9513414052,40.7419288059
-1744,brant point wildlife sanctuary,brant point wildlife sanctuary,park_direct,av,Q-14,-73.8031838921,40.5984589921
-1745,mclaughlin park,mclaughlin park,park_direct,av,B-02,-73.986047143,40.696514822
-1746,lie playground - real good park,real good park,pgs,v,Q-06,-73.8573,40.7356
-1747,central park - the lake,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1748,staten island greenbelt,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
-1749,marlboro playground,marlboro playground,park_direct,av,B-13,-73.9808434703,40.5912192647
-1750,central park - wallach walk and east green,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1751,stop and go playground,stop  go playground,pgs,av,X-06,-73.8988,40.8451
-1752,el puente - earth spirit garden,earth spirit garden,other,av,B-01,-73.959429336,40.7125341415
-1753,central park - reservoir running track and landscape,central park,empiric,av,M-13,-73.9655584012,40.7824838384
-1754,the amazing garden,the amazing garden,park_direct,av,B-06,-74.0033440411,40.6831357626
-1755,rodney playground center,rodney playground center,park_direct,av,B-01,-73.9555706836,40.7102558299
-1756,bridge park,bridge park,park_direct,av,B-02,-73.9858988894,40.7010376829
-1757,bridge park,bridge park,park_direct,av,X-05,-73.9270643322,40.8463125645
-1758,bridge park,bridge park,park_direct,av,B-02,-73.9858988894,40.7010376829
-1759,bridge park,bridge park,park_direct,av,X-05,-73.9270643322,40.8463125645
-1760,flushing meadows corona park,flushing meadows corona park,park_direct,av,Q-15,-73.8417856108,40.743279099
-1761,starlight park - peace park,starlight park,other,av,X-09,-73.8824340714,40.8331856291
-1762,catbird playground,catbird playground,pgs,av,M-08,-73.9448,40.7739
-1763,drumgoole tot lot playground,drumgoole tot lot,other,v,R-03,-74.179890451,40.5494009524
-1764,starlight park - plimpton playground,plimpton playground,pgs,v,X-04,-73.9223,40.844
-1765,seaside playground - ps 225,seaside playground,pgs,v,Q-14,-73.8309,40.5806
-1766,pelham bay park - the meadow,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
-1767,castlewood playground - ps 186,castlewood playground,pgs,av,Q-13,-73.7224,40.7493
-1768,parkside playground - bronx,parkside playground,pgs,av,B-15,-73.9436,40.6104
-1769,parkside playground - bronx,parkside playground,pgs,av,X-11,-73.868,40.8684
-1770,paerdegat basin park,paerdegat basin park,park_direct,av,B-18,-73.9067426141,40.6264520059
-1771,m l king houses playground,dr martin luther king jr park,pgs,v,B-05,-73.8904,40.6677
-1772,playground fifty-two,playground fifty-two,pgs,av,X-02,-73.9016,40.8151
-1773,dubos point wildlife sanctuary,dubos point wildlife sanctuary,park_direct,av,Q-14,-73.7910005155,40.6007819542
-1774,recreation area,recreational area,other,av,M-14,-73.9518069328,40.8306406758
-1775,gun hill playground,gun hill playground,park_direct,av,X-12,-73.8655081929,40.8746954842
-1776,under the tracks playground,under the tracks playground,pgs,av,B-06,-73.993193,40.672264
-1777,la guardia playground south,la guardia playground south,pgs,av,B-01,-73.9593,40.7099
-1778,chelsea park,chelsea park,park_direct,av,M-04,-74.0007282575,40.7499416479
-1779,dyker playground,dyker playground,pgs,av,B-10,-74.0127,40.6128
-1780,playground one-forty,playground one-forty,pgs,av,Q-12,-73.8013,40.6751
-1781,rodney playground north,rodney playground north,park_direct,av,B-01,-73.9549702775,40.7111016853
-1782,hunt's point riverside park,hunts point riverside park,other,av,X-02,-73.8816008156,40.8176824444
-1783,6bc botanical garden,6bc botanical garden,park_direct,av,M-03,-73.9806751319,40.7238418902
-1784,sunset park,sunset park,park_direct,av,B-07,-74.0037434376,40.6479762856
-1785,west 104th street garden,w 104th street garden,other,av,M-07,-73.9619268002,40.7968883242
-1786,recreation center - haffen park,haffen park,other,av,X-12,-73.8391658525,40.8736831532
-1787,new ballfield,william f. passannante ballfield,other,v,M-02,-74.0022532561,40.728556919
-1788,tlc sculpture park garden,tlc sculpture park garden,park_direct,av,B-05,-73.9006500371,40.6727184267
-1789,ps 286 playground,ps 286 playground,pgs,av,B-15,-73.9385,40.5909
+985,babi yar triangle,triangle,other,av,X-03,-73.9108556559,40.8245641614
+986,babi yar triangle,triangle,other,av,B-05,-73.8774271735,40.6687302277
+987,babi yar triangle,triangle,other,av,B-18,-73.9167288982,40.6166022214
+988,westbourne playground,westbourne playground,park_direct,av,Q-14,-73.7644093519,40.6079973045
+989,washington park,washington park,park_direct,av,X-06,-73.8936132881,40.8557591851
+990,washington park,washington park,park_direct,av,B-06,-73.9855681527,40.6727197479
+991,washington park,washington park,park_direct,av,X-06,-73.8936132881,40.8557591851
+992,washington park,washington park,park_direct,av,B-06,-73.9855681527,40.6727197479
+993,jennifer's playground,jennifer's playground,park_direct,av,R-01,-74.1631296787,40.6200533757
+994,paul raimonda playground,paul raimonda playground,park_direct,av,Q-01,-73.8974460799,40.7728024939
+995,edmonds playground,edmonds playground,park_direct,av,B-02,-73.9715348681,40.6891881524
+996,st mary's playground south,st mary's playground south,pgs,av,X-01,-73.9139,40.8104
+997,thorpe family playground,thorpe family playground,park_direct,av,X-06,-73.8948768142,40.8562232052
+998,recreation center - bowne park,bowne park,other,v,Q-07,-73.8073631011,40.77052045
+999,willets point playground - ps 209,willets point playground,pgs,av,Q-07,-73.7963,40.7838
+1000,lions' pride playground,lions' pride playground,pgs,av,B-05,-73.8997,40.6626
+1001,mae grant playground,mae grant playground,park_direct,av,M-11,-73.949440034,40.792439563
+1002,peter minuit park,peter minuit playground,other,v,M-11,-73.9472314724,40.7947707459
+1003,magenta playground,magenta playground,park_direct,av,X-12,-73.8678666042,40.8737461446
+1004,pool - lyons,lyons pool,pool,av,R-01,-74.0743,40.6369
+1005,capt jacob joseph playground,capt jacob joseph playground,pgs,av,M-03,-73.9899,40.7136
+1006,pool - ps 20 playground (adelphi),parham playground,pgs,v,B-02,-73.9708,40.6903
+1007,scarangella park,scarangella park,park_direct,av,B-13,-73.9843388587,40.5946659441
+1008,flushing meadows and corona park - jurassic playground,flushing meadows corona park,empiric,av,Q-15,-73.8417856108,40.743279099
+1009,mazzei playground,mazzei playground,park_direct,av,X-11,-73.8584684796,40.8625412562
+1010,pool - sunset park,sunset park pool,pool,av,B-07,-74.0026,40.6472
+1011,pool - howard,howard pool,pool,av,B-16,-73.9089,40.6727
+1012,little claremont park,little claremont park,park_direct,av,X-03,-73.9037546706,40.8387762483
+1013,mellett playground,mellett playground,park_direct,av,B-15,-73.9574472194,40.596986607
+1014,howard playground,howard playground,park_direct,av,B-16,-73.9080880299,40.6717256361
+1015,pool - haffen,haffen pool,pool,av,X-12,-73.8392,40.8743
+1016,pool - haffen,haffen pool,pool,av,X-12,-73.8394,40.8744
+1017,vidalia park,vidalia park,park_direct,av,X-06,-73.8814306109,40.8438649437
+1018,power playground,power playground,park_direct,av,B-18,-73.9273220141,40.6181299505
+1019,col charles young playground,col charles young playground,pgs,av,M-10,-73.9357,40.8193
+1020,baisley pond park - lakeview lane playground,lakeview lane playground,pgs,av,Q-12,-73.7824,40.6777
+1021,white playground,white playground,park_direct,av,M-11,-73.9459060421,40.7916415685
+1022,white playground,white playground,park_direct,av,R-01,-74.0631363222,40.6075798223
+1023,white playground,white playground,park_direct,av,M-11,-73.9459060421,40.7916415685
+1024,white playground,white playground,park_direct,av,R-01,-74.0631363222,40.6075798223
+1025,rochdale park playground  at jhs 72,rochdale park (jhs 72),pgs,v,Q-12,-73.775,40.6742
+1026,harvey playground,harvey playground,pgs,av,Q-07,-73.8237,40.7826
+1027,watson gleason playground,watson gleason playground,park_direct,av,X-09,-73.8689639814,40.828441781
+1028,starlight park - daniel boone playground,daniel boone playground,pgs,v,X-03,-73.8859,40.8296
+1029,lt joseph petrosino park,lt. joseph petrosino park,other,av,B-11,-73.998512284,40.61911977
+1030,riverside park - neufeld playgound,riverside park,pgs,av,M-14,-73.976,40.7967
+1031,horseshoe playground,horseshoe playground,park_direct,av,X-02,-73.8976915697,40.8241212193
+1032,gutenberg playground,gutenberg playground,park_direct,av,M-04,-73.9901653301,40.7634643373
+1033,willow lake playground - ps 197,willow lake playground,pgs,av,Q-06,-73.8371,40.7226
+1034,van cortlandt park - golf house and lower putnam trail,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1035,prospect park - lower long meadow,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1036,174th st playground,174th st playground,pgs,av,X-09,-73.8778,40.8344
+1037,aqueduct walk - 227 street playground,227st playground,pgs,v,X-14,-73.8642,40.8909
+1038,ocean hill playground,ocean hill playground,park_direct,av,B-16,-73.9121857508,40.6744279303
+1039,forest park - mary whalen playground,forest park,empiric,av,Q-16,-73.853002977,40.7020526074
+1040,weeksville playground,weeksville playground,park_direct,av,B-03,-73.9194740653,40.6772480515
+1041,alley park - ps 213 playground,alley park,pgs,v,Q-11,-73.7451,40.7472
+1042,browne park - boone playground,daniel boone playground,pgs,v,X-03,-73.8859,40.8296
+1043,nathan weidenbaum park,nathan weidenbaum park,park_direct,av,Q-02,-73.9022443947,40.7381602928
+1044,pelham bay park - orchard beach parking lot,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1045,central park - ross pinetum,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1046,carlton park,carlton park,park_direct,av,R-03,-74.2023079154,40.5330718378
+1047,carlton park,carlton park,park_direct,av,R-03,-74.1844723405,40.5519154899
+1048,bayswater park - bayswater playground,bayswater playground,pgs,av,Q-14,-73.767,40.599
+1049,loreto park,loreto playground,other,v,X-11,-73.8521192961,40.8490580199
+1050,jesse owens playground,jesse owens playground,park_direct,av,B-03,-73.9323933885,40.6913724629
+1051,pfc norton playground,pfc norton playground,park_direct,av,B-15,-73.9449016723,40.6145812036
+1052,st nicholas playground south,st nicholas south playground,pgs,av,M-10,-73.9472,40.8111
+1053,midland field,midland field,park_direct,av,R-02,-74.0985998443,40.576163733
+1054,osborn playground,osborn playground,park_direct,av,B-16,-73.9060431289,40.6556430775
+1055,gorman playground,gorman playground,park_direct,av,Q-03,-73.8842369646,40.7623842836
+1056,powell playground,powell playground,park_direct,av,B-16,-73.9048274853,40.6712729404
+1057,recreation center - hunt's point,julio carballo fields,other,v,X-02,-73.8892507607,40.8156009557
+1058,israel putnam - ps 44,p.s. 44,school,v,R-01,-74.157597911,40.6317642187
+1059,kennedy king playground,kennedy king playground,park_direct,av,B-17,-73.9220324017,40.6585960888
+1060,prospect park - lefferts homestead carousel,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1061,bleecker playground,bleecker playground,park_direct,av,M-02,-74.0054863467,40.7362982037
+1062,cauldwell playground,cauldwell playground,pgs,av,X-03,-73.9073,40.8229
+1063,millbrook playground,millbrook playground,park_direct,av,X-01,-73.9166478385,40.8043540918
+1064,the creative little garden,the creative little garden,park_direct,av,M-03,-73.982587598,40.7246509667
+1065,arthur von briesen park,von briesen park,other,av,R-01,-74.0586225788,40.6077514442
+1066,greenpoint playground,greenpoint playground,park_direct,av,B-01,-73.9590161586,40.7357315279
+1067,beach channel playground - ps 183,beach channel playground,pgs,av,Q-14,-73.8058,40.589
+1068,jackie robinson park playground - school,jackie robinson park,pgs,av,B-03,-73.9277,40.6802
+1069,jackie robinson park playground - school,jackie robinson park,pgs,av,M-10,-73.9412,40.8259
+1070,ampere playground - ps 64,ampere playground,pgs,av,Q-09,-73.857,40.6815
+1071,nostrand playground,nostrand playground,park_direct,av,B-17,-73.9470580867,40.6381148428
+1072,stockton playground,stockton playground,park_direct,av,B-03,-73.9486737671,40.6972837368
+1073,william t davis wildlife refuge,davis playground,other,av,R-01,-74.0856098568,40.6422860218
+1074,decatur playground,decatur playground,park_direct,av,B-03,-73.9365511827,40.6814357141
+1075,garrison playground,garrison playground,park_direct,av,X-01,-73.9283164288,40.817539281
+1076,recreation center - st. mary's,st. mary's park,other,v,X-01,-73.9122189654,40.8114699391
+1077,recreation center - st. mary's,st. mary's park,other,v,B-06,-73.9972199046,40.6764312268
+1078,recreation center - st. mary's,st. mary's park,other,v,B-06,-73.9975404992,40.6757855782
+1079,crotona park - playground of the stars,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
+1080,playground eighty - ps 115,playground eighty (lxxx),pgs,v,Q-13,-73.7096,40.7447
+1081,35 playground,ravenswood playground,pgs,v,Q-01,-73.9352,40.7629
+1082,van cortlandt park - stables area,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1083,julio carballo field,julio carballo fields,other,av,X-02,-73.8892507607,40.8156009557
+1084,starlight park - bridge playground,bridge playground,pgs,v,X-04,-73.9242,40.8443
+1085,highbridge recreation center,highbridge park,other,v,M-12A,-73.9304651001,40.846501499
+1086,highbridge recreation center,highbridge park,other,v,X-04,-73.9267891522,40.8420769652
+1087,brook park,brook park,park_direct,av,X-01,-73.9187390534,40.8095452552
+1088,clintonville playground - jhs 194,clintonville playground,pgs,av,Q-07,-73.8073,40.7831
+1089,jamaica playground - ps 40,jamaica playground (ps 40),pgs,av,Q-12,-73.791,40.6932
+1090,stars and stripes playground,stars  stripes playground,pgs,av,X-12,-73.8396,40.8855
+1091,hammel playground,hammel playground,park_direct,av,Q-14,-73.8093741492,40.588202858
+1092,coleman square playground,coleman playground,pgs,av,M-03,-73.9932,40.7112
+1093,carmansville playground,carmansville playground,park_direct,av,M-09,-73.9442577257,40.8291888221
+1094,police officer edward byrne park,police officer edward byrne park,park_direct,av,Q-10,-73.8074420132,40.6673391911
+1095,linden park - jhs 166,linden park,other,v,B-05,-73.8869986176,40.6589523844
+1096,scarangella park - lafayette playground,lafayette playground,pgs,av,B-03,-73.9301,40.6926
+1097,scarangella park - lafayette playground,lafayette playground,pgs,av,B-13,-73.9854,40.5946
+1098,hunt's point riverside park,hunts point riverside park,other,av,X-02,-73.8816008156,40.8176824444
+1099,saul weprin playground - ps 162,saul weprin playground,pgs,av,Q-11,-73.7764,40.748
+1100,107th street pier,pier 107 cvii,other,v,M-11,-73.9366464772,40.7890719341
+1101,central park - conservatory garden,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1102,newtown barge terminal playground,newtown barge terminal playground,pgs,av,B-01,-73.96,40.7359
+1103,clinton community garden,clinton community garden,park_direct,av,M-04,-73.9917338694,40.7627793216
+1104,fort greene playground,fort greene playground,pgs,av,B-02,-73.9771,40.6924
+1105,buswhick playground,bushwick playground,pgs,av,B-04,-73.9122,40.6961
+1106,maurice a fitzgerald playground,maurice a fitzgerald playground,park_direct,av,Q-09,-73.8397534266,40.6903187626
+1107,barretto park,barretto park,park_direct,av,X-02,-73.8886304423,40.8128497158
+1108,central park - pat hoffman friedman playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1109,golf course - dyker beach,dyker beach golf course,golf,v,B-10,-74.019322,40.612496
+1110,stanley isaacs court,stanley isaacs playground,other,v,M-08,-73.944366003,40.7830856651
+1111,grady playground,grady playground,park_direct,av,B-13,-73.9647123653,40.5830531067
+1112,old town playground,old town playground,park_direct,av,R-02,-74.081361105,40.5953947665
+1113,red hook park - bush clinton park playground,red hook recreation area,empiric,av,B-06,-74.0056997559,40.6718688587
+1114,pontiac playground,pontiac playground,park_direct,av,X-01,-73.9082310558,40.8142517087
+1115,steeplechase park,steeplechase park,park_direct,av,B-13,-73.9839579841,40.5740714616
+1116,sheltering arms park,sheltering arms playground,other,v,M-09,-73.9558595789,40.8150427475
+1117,pelham bay park - orchard beach playground,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1118,van cortlandt park - north east forest,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1119,forest park - joseph devoy playground,forest park,empiric,av,Q-16,-73.853002977,40.7020526074
+1120,corporal john a seravalli playground,corporal john a. seravalli playground,empiric,av,M-02,-74.0047936709,40.7390711593
+1121,jacobs ladder,jacob's ladder playground,other,av,B-01,-73.9670277962,40.7048688929
+1122,cuite park,thomas j. cuite park,other,v,B-07,-73.9786563771,40.6542360521
+1123,george walker jr. park,george walker jr. park,park_direct,av,B-05,-73.8951131575,40.6786176084
+1124,brooklyn bears rockwell pl garden,brooklyn bears rockwell pl garden,park_direct,av,B-02,-73.9792644029,40.6869459936
+1125,hunts point playground,hunts point playground,park_direct,av,X-02,-73.8859705198,40.8141365598
+1126,lower highland playground,lower highland playground,pgs,av,B-05,-73.8856,40.684
+1127,clason point park,soundview park,other,v,X-09,-73.8662327228,40.8115799914
+1128,space time playground,space time playground,park_direct,av,X-09,-73.8598761049,40.8223244962
+1129,p.o. serrano playground,p.o. serrano playground,park_direct,av,X-09,-73.8510155465,40.8234002894
+1130,randall's island park,randall's island park,park_direct,av,M-11R,-73.9217838021,40.7956532901
+1131,canal park,canal park,park_direct,av,M-01,-74.0105809762,40.7253444324
+1132,recreation center - lost battalion hall,lost battalion hall recreation center,other,av,Q-06,-73.8651022818,40.7322194217
+1133,frank golden park,frank golden park,park_direct,av,Q-07,-73.8337390261,40.7848364554
+1134,henry m jackson playground,henry m jackson playground,pgs,av,M-03,-73.9815,40.714
+1135,south rochdale playground - ps 80,south rochdale playground,pgs,av,Q-12,-73.7691,40.6738
+1136,canarsie park - dinapoli playground,dinapoli playground,pgs,av,B-18,-73.8931,40.6308
+1137,fresh creek nature preserve,fresh creek nature preserve,park_direct,av,B-18,-73.8844686214,40.6439790898
+1138,reeds basket willow's swamp,reed's basket willow swamp park,other,av,R-02,-74.1042696789,40.6013742863
+1139,james weldon johnson playground - ps 57,james weldon johnson playground,pgs,av,M-11,-73.9418,40.7972
+1140,merriam playground - upper,merriam playground (upper),pgs,av,X-04,-73.9269,40.8406
+1141,golf course - randalls island driving range,randall's island park,other,v,M-11R,-73.9217838021,40.7956532901
+1142,bayside fields,bayside fields,park_direct,av,Q-11,-73.7856999522,40.7729719924
+1143,fresh meadows playground - ps 173,fresh meadows playground,pgs,av,Q-08,-73.7962,40.7341
+1144,recreation center - north meadow,central park,other,v,M-13,-73.9655584012,40.7824838384
+1145,upper highland playground,upper highland playground,pgs,av,B-05,-73.8927,40.6829
+1146,bridge park 3,bridge park 3,park_direct,av,B-02,-73.9852536191,40.7003011668
+1147,frank golden park - 136 street playground,136 st playground,pgs,v,Q-07,-73.833,40.7848
+1148,arrow community garden,a.r.r.o.w. field house,other,av,Q-01,-73.9262867645,40.7558283869
+1149,horace harding playground - ps 206,horace harding playground,pgs,av,Q-06,-73.8605,40.7332
+1150,greencroft playground - ps 53,greencroft playground,pgs,av,R-03,-74.1364,40.5518
+1151,pelham bay park - orchard beach pavilion,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1152,wald playground,wald playground,park_direct,av,M-03,-73.9768821501,40.7196903447
+1153,ocean parkway malls,ocean parkway malls,park_direct,av,B-12,-73.9690710814,40.6121568335
+1154,pat williams playground,pat williams playground,park_direct,av,Q-13,-73.7295167995,40.7130395036
+1155,highbridge park - fort george playground,ft george playground,pgs,v,M-12A,-73.9259,40.8584
+1156,flushing meadows and corona park - world ice arena,flushing meadows corona park,empiric,av,Q-15,-73.8417856108,40.743279099
+1157,nathan straus playground - ps 140,nathan straus playground,pgs,av,M-03,-73.984,40.7192
+1158,recreation center - mullaly,mullaly park,other,v,X-04,-73.9242072201,40.8327744684
+1159,east springfield playground,east springfield playground,park_direct,av,Q-13,-73.7400052604,40.6984275962
+1160,highbridge park - cpf playground,cpf playground,pgs,v,M-12A,-73.9339,40.842
+1161,cabbell park,cabbell park,pgs,v,Q-13,-73.7429,40.6893
+1162,saint nicholas park - arlington ollie edinboro playground,arlington edinboro playground,pgs,v,M-09,-73.9468,40.8205
+1163,houston playground,houston playground,park_direct,av,B-16,-73.9050707586,40.672204421
+1164,breukelen park,breukelen playground,pgs,v,B-18,-73.8939,40.6536
+1165,jackie robinson park,jackie robinson park,park_direct,av,B-03,-73.9278117156,40.6802120196
+1166,jackie robinson park,jackie robinson park,park_direct,av,M-10,-73.9411297968,40.8265850181
+1167,jackie robinson park,jackie robinson park,park_direct,av,B-03,-73.9278117156,40.6802120196
+1168,jackie robinson park,jackie robinson park,park_direct,av,M-10,-73.9411297968,40.8265850181
+1169,sunshine playground,sunshine playground,park_direct,av,M-11,-73.9478471177,40.7884925153
+1170,laurelton parkway,laurelton parkway,park_direct,av,Q-13,-73.7317570942,40.6774017361
+1171,79th street boat basin marina,henry hudson parkway,other,v,X-08,-73.9047569262,40.897375086
+1172,prospect park - ocean avenue,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1173,hoe garden,hoe garden,park_direct,av,X-02,-73.8900961739,40.8226400608
+1174,pelham bay park - central woodland,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1175,100 percent playground - ps 242,100% playground,pgs,v,B-18,-73.8992,40.6465
+1176,lannett playground - ps 197,lannett playground,pgs,v,Q-14,-73.7441,40.5995
+1177,115th street playground,115th street playground,pgs,av,Q-07,-73.8526,40.7852
+1178,monsignor mcgolrick playground,monsignor mcgolrick playground,pgs,av,B-01,-73.9433,40.7253
+1179,ambrosini field,ambrosini field,park_direct,av,X-10,-73.7833929588,40.8445008803
+1180,bayswater park,bayswater park,park_direct,av,Q-14,-73.7696584459,40.5995034848
+1181,lafayette gardens playground,lafayette gardens playground,park_direct,av,B-03,-73.9575065662,40.6897534254
+1182,tanahey playground,tanahey playground,park_direct,av,M-03,-73.9951803044,40.7101602436
+1183,gunn park - ps 18,p.s. 18,school,v,M-12,-73.91218129,40.8717834129
+1184,gowanus playground,gowanus playground,pgs,av,B-06,-73.9879,40.6846
+1185,van cortlandt park - parade ground south,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1186,rockaway playground - n,rockaway playground - n,pgs,av,Q-14,-73.8087,40.5854
+1187,riverside park - riverbank playground,riverside park,pgs,av,M-14,-73.976,40.7967
+1188,crotona park - prospect park playground,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1189,angelo campanero playground,angelo campanero playground,pgs,av,X-11,-73.8429,40.8681
+1190,playground 62 - ps 220,playground sixty-two,pgs,v,Q-06,-73.8529,40.7361
+1191,little flower playground,little flower playground,park_direct,av,M-03,-73.9882368549,40.7124371532
+1192,174 st playground,174 st playground,pgs,av,Q-12,-73.778,40.6935
+1193,macarthur park,macarthur park,park_direct,av,M-06,-73.9651474043,40.7522039165
+1194,golf course - forest park,forest park,empiric,av,Q-16,-73.853002977,40.7020526074
+1195,hinton park,hinton park,park_direct,av,Q-03,-73.8549427207,40.7560112389
+1196,recreation center - williamsbridge oval,williamsbridge oval,other,av,X-07,-73.8773857164,40.8776274396
+1197,flushing meadows and corona park - buzz vollmer playground,flushing meadows corona park,empiric,av,Q-15,-73.8417856108,40.743279099
+1198,central park - sheep meadow,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1199,herman dolgon playground,herman dolgon playground,park_direct,av,B-15,-73.9400025503,40.5980920557
+1200,ps 155 playground,ps 155 playground,pgs,av,M-11,-73.9355,40.7973
+1201,miracle garden,miracle garden,park_direct,av,M-03,-73.9835276947,40.7226526189
+1202,miracle garden,miracle garden,park_direct,av,X-06,-73.8877323487,40.8424701322
+1203,miracle garden,miracle garden,park_direct,av,M-03,-73.9835276947,40.7226526189
+1204,miracle garden,miracle garden,park_direct,av,X-06,-73.8877323487,40.8424701322
+1205,golf course - latourette,la tourette golf course,golf,av,R-02,-74.146957,40.576395
+1206,downing street playground,downing street playground,park_direct,av,M-02,-74.0027144708,40.7298538106
+1207,cadwallader colden playground - ps 214,cadwallader colden playground,pgs,av,Q-07,-73.8272,40.7702
+1208,100 percent playground - ps 242,100% playground,pgs,v,B-18,-73.8992,40.6465
+1209,recreation center - playground for all children,playground for all children,pgs,v,Q-15,-73.8492,40.7411
+1210,recreation center - playground for all children,playground for all children,pgs,v,X-15,-73.8256,40.8485
+1211,sixteen sycamores playground,sixteen sycamores playground,park_direct,av,B-02,-73.981005684,40.6867917268
+1212,peace park,peace park,park_direct,av,X-05,-73.9051714873,40.8451842063
+1213,real good park,real good park,park_direct,av,Q-06,-73.8573454627,40.7355563272
+1214,inwood hill park - the clove,inwood hill park,empiric,av,M-12,-73.9255128836,40.8725600843
+1215,linnaeus playground,linnaeus park,other,v,Q-11,-73.7507443522,40.7538056239
+1216,gonzalo plasencia playground,gonzalo plasencia playground,park_direct,av,B-07,-74.0084233782,40.6525852554
+1217,captain mario fajardo park,captain mario fajardo park,pgs,v,Q-07,-73.8147,40.7434
+1218,van cortlandt park - croton woods,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1219,mcdonald playground - brooklyn,mcdonald playground,pgs,av,B-15,-73.972,40.6006
+1220,mcdonald playground - brooklyn,mcdonald playground,pgs,av,R-01,-74.1153,40.6296
+1221,mercer playground,mercer playground,park_direct,av,M-02,-73.9962089719,40.7275889185
+1222,tot lot 116,riverside park,other,v,M-14,-73.9536580952,40.826069869
+1223,tot lot 116,riverside park,other,v,M-14,-73.9745612683,40.7988335229
+1224,youth village,youth village,park_direct,av,X-03,-73.9029275725,40.8287041334
+1225,seeley park,seeley park,park_direct,av,B-07,-73.9778398149,40.6533824334
+1226,starr playground,starr playground,park_direct,av,Q-05,-73.9178063957,40.7097855707
+1227,recreation center - alfred e. smith,alfred e. smith recreation center,recr,v,M-03,-73.9967905,40.7105245
+1228,laurelton west playground,laurelton west playground,pgs,av,Q-13,-73.727,40.685
+1229,cunningham park - mclaughlin playground,mclaughlin playground,pgs,av,Q-08,-73.7663,40.7255
+1230,cunningham park - mclaughlin playground,mclaughlin playground,pgs,av,X-08,-73.9054,40.8879
+1231,montbellier park,montbellier park,park_direct,av,Q-12,-73.7565773143,40.6747200363
+1232,pelham bay park - playground for all children,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1233,underhill playground - queens,underhill playground,pgs,av,B-08,-73.9657,40.6767
+1234,underhill playground - queens,underhill playground,pgs,av,Q-11,-73.7879,40.7448
+1235,sy seplowe playground - ps 94,p.s. 94,school,v,B-07,-74.0089866256,40.6437443486
+1236,lieutenant petrosino square,petrosino square,other,av,M-02,-73.9974385461,40.7217122916
+1237,central park - blockhouse one,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1238,staten island greenbelt - southwest latourette,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
+1239,judge moses weinstein playground,judge moses weinstein playground,park_direct,av,Q-08,-73.8205852843,40.7180182667
+1240,van cortlandt park - nw forest,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1241,"van cortlandt park - mansion, tennis courts, memorial grove",van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1242,p.o. nicholas demutis playground,police officer nicholas demuti,pgs,v,Q-10,-73.8393,40.6818
+1243,kaiser park - leon s kaiser playground,leon s kaiser playground,pgs,av,B-13,-73.9954,40.5782
+1244,jamaica bay park,jamaica bay park,park_direct,av,Q-14,-73.7686778353,40.6178679657
+1245,101 street soccer field,101st st. soccer field,pgs,v,M-14,-73.9736,40.8007
+1246,ramon aponte park,ramon aponte park,park_direct,av,M-04,-73.9893505993,40.7614478738
+1247,coleman playground,coleman playground,park_direct,av,M-03,-73.9935201125,40.7111718247
+1248,powell's cove park,powell's cove park,park_direct,av,Q-07,-73.8350243045,40.7900554572
+1249,rainey park - bronx,rainey park playground,pgs,v,Q-01,-73.9403,40.7667
+1250,remsen playground,remsen playground,park_direct,av,B-18,-73.907355898,40.6423266053
+1251,frederick b judge playground,frederick b judge playground,pgs,av,Q-10,-73.8082,40.6835
+1252,recreation center - j. hood wright,j. hood wright recreation center,recr,v,M-12,-73.9404478,40.8463854
+1253,p. o. serrano playground,p. o. serrano playground,pgs,av,X-09,-73.851,40.8234
+1254,alice austen house and park,alice austen park,other,v,R-01,-74.0625730379,40.6158359398
+1255,crotona park - carter playground,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
+1256,addabbo playground,addabbo playground,pgs,av,Q-10,-73.854,40.6731
+1257,tot lot one hundred and ten,riverside park,other,v,M-14,-73.9536580952,40.826069869
+1258,tot lot one hundred and ten,riverside park,other,v,M-14,-73.9745612683,40.7988335229
+1259,evergreen playground,evergreen playground,park_direct,av,B-04,-73.9107589572,40.6861077875
+1260,riverside park - palisades playground,riverside park,pgs,av,M-14,-73.976,40.7967
+1261,river park,harlem river park,other,v,M-11,-73.9339638333,40.8063039871
+1262,river park,harlem river park,other,v,M-11,-73.9346204321,40.8077851404
+1263,river park,harlem river park,other,v,M-11,-73.9315336449,40.8037884226
+1264,river park,harlem river park,other,v,M-11,-73.9309188254,40.8036321246
+1265,river park,harlem river park,other,v,X-04,-73.9308430313,40.8391840049
+1266,golf course - marine park,marine park,empiric,av,B-18,-73.9203077445,40.5967983084
+1267,jackie robinson playground,jackie robinson playground,park_direct,av,B-09,-73.959237386,40.6657903514
+1268,rockaway community park,rockaway community park,park_direct,av,Q-14,-73.7804236818,40.6034954315
+1269,park slope playground,park slope playground,park_direct,av,B-06,-73.9785512319,40.6768333838
+1270,forest park - mary whalen playground,forest park,empiric,av,Q-16,-73.853002977,40.7020526074
+1271,fort 4 playground,fort #4 playground,pgs,av,X-08,-73.9009,40.8747
+1272,brooklyn botanic garden 1 - expire,brooklyn botanic garden,other,av,B-19,-73.9638700612,40.667719246
+1273,central park - heckscher ballfields and playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1274,glendale playground,glendale playground,pgs,av,Q-05,-73.8818,40.7049
+1275,frederick b judge memorial playground,frederick b judge playground,pgs,av,Q-10,-73.8082,40.6835
+1276,tall oak playground - ps 46,tall oak playground,pgs,av,Q-11,-73.7582,40.7462
+1277,equity park,equity park,park_direct,av,Q-09,-73.8533203594,40.6912511267
+1278,maclaughlin,maclaughlin playground,other,av,X-08,-73.9053336508,40.8879626616
+1279,eastchester  playground,eastchester playground,pgs,av,X-11,-73.8528,40.8698
+1280,queensbridge baby park,queensbridge park,other,av,Q-01,-73.9481856467,40.7557953144
+1281,morgan playground,morgan playground,park_direct,av,X-03,-73.9074353051,40.8322742957
+1282,st mary's playground east,st mary's playground east,pgs,av,X-01,-73.9104,40.8103
+1283,roebling playground,roebling playground,park_direct,av,B-01,-73.9617248558,40.7063488925
+1284,galapo playground,galapo playground,park_direct,av,B-15,-73.9467295958,40.5979954488
+1285,east elmhurst playground - ps 127,east elmhurst playground,pgs,av,Q-03,-73.8709,40.7655
+1286,broad channel american park,broad channel american park,park_direct,av,Q-14,-73.8228193073,40.5963990867
+1287,columbus park - korean war veterans plaza,columbus park,other,av,M-03,-74.0000040837,40.7151404124
+1288,columbus park - korean war veterans plaza,columbus park,other,av,B-02,-73.9899686241,40.6936517952
+1289,prospect playground,prospect playground,park_direct,av,X-06,-73.8907341127,40.8432527366
+1290,pleasant village community gdn,pleasant village community garden,other,av,M-11,-73.9316056037,40.7965728096
+1291,hellgate field,whitey ford field,other,v,Q-01,-73.9348355927,40.7776469608
+1292,central park - conservatory gardens west landscape,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1293,goodwin gardens,goodwin gardens,park_direct,av,B-04,-73.9234513997,40.6911333932
+1294,northerleigh park,northerleigh park,park_direct,av,R-01,-74.134087164,40.62283325
+1295,benson playground,benson playground,park_direct,av,B-11,-74.0022610972,40.6024335176
+1296,mariners harbor playground,mariners harbor playground,park_direct,av,R-01,-74.1604711794,40.6365637031
+1297,staten island greenbelt park - william t. davis wildlife refuge,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
+1298,cypress hills park,cypress hills playground,other,v,B-05,-73.8716811927,40.6704436958
+1299,arden woods,arden woods,park_direct,av,R-03,-74.190492081,40.557932397
+1300,central park - west 68th street playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1301,pearl st playground,pearl st playground,park_direct,av,M-01,-74.0039725103,40.7078218989
+1302,alfred e smith park,alfred e. smith playground,other,v,M-03,-73.9974813224,40.7105979164
+1303,tudor grove playground,tudor grove playground,park_direct,av,M-06,-73.971149285,40.7490469914
+1304,playground of the americas,playground of the americas,park_direct,av,M-02,-74.0027146903,40.728002741
+1305,playground one twenty five - ps 125,ps 125 playground,pgs,v,B-16,-73.9091,40.6651
+1306,alley pond park - wild flower meadow,alley pond park,other,av,Q-11,-73.7468585479,40.7536076531
+1307,central park - the great hill,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1308,ten mile river playground,ten mile river playground,pgs,av,M-14,-73.9523,40.8298
+1309,o'donohue park,rockaway beach and boardwalk,other,v,Q-14,-73.7761361368,40.5886009332
+1310,alley playground - ps 213,alley athletic playground,pgs,v,Q-13,-73.7343,40.7395
+1311,mariner's marsh park,mariners marsh park,other,av,R-01,-74.1749646152,40.6371600054
+1312,orchard beach park - nature center,orchard beach and promenade,beach,av,X-15A,-73.7938,40.8664
+1313,bellerose playground - ps 133,bellerose playground,pgs,av,Q-13,-73.7179,40.7328
+1314,field of dreams park,field of dreams park,park_direct,av,X-02,-73.892271515,40.8265840136
+1315,newtown playground,newtown playground,park_direct,av,Q-04,-73.869525761,40.7363130075
+1316,sgt william dougherty playground,sgt william dougherty playground,pgs,av,B-01,-73.9371,40.7237
+1317,hugenot ponds park,huguenot ponds park,other,av,R-03,-74.1895824572,40.5303759262
+1318,pelham bay park - hunter island,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1319,9th st community garden park,9th st community garden park,park_direct,av,M-03,-73.9774606837,40.7253717619
+1320,eastern parkway malls,eastern parkway,other,av,B-08,-73.9457888015,40.6698907856
+1321,triborough bridge playground a,triborough bridge playground a,pgs,av,Q-01,-73.923016,40.776005
+1322,holy cow playground  - ps 179,holy cow playground,pgs,v,Q-08,-73.7774,40.7414
+1323,veterans park,veterans park,park_direct,av,R-01,-74.131768666,40.6371972351
+1324,veterans park,veterans park,park_direct,av,Q-14,-73.8188867405,40.6110392105
+1325,veterans park,veterans park,park_direct,av,R-01,-74.131768666,40.6371972351
+1326,veterans park,veterans park,park_direct,av,Q-14,-73.8188867405,40.6110392105
+1327,playground twenty one - ps 184,playground twenty-one,pgs,av,Q-07,-73.7985,40.7783
+1328,coney island - abe stark ice skating rink,coney island creek park,other,av,B-13,-74.0046688141,40.5814543404
+1329,glenwood playground,glenwood playground,park_direct,av,B-18,-73.9197878082,40.6367406989
+1330,drew playground,drew playground,park_direct,av,X-03,-73.9033325347,40.8331458923
+1331,joseph p addabbo memorial park,tudor park,other,v,Q-10,-73.8521294565,40.6726227164
+1332,staten island greenbelt park - deere park,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
+1333,prospect park - prospect lake near west island,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1334,fox playground 2,fox playground,pgs,av,B-18,-73.9239,40.6323
+1335,fox playground 2,fox playground,pgs,av,X-02,-73.8985,40.815
+1336,central park - bernard playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1337,ave j playground,ave j playground,pgs,av,B-18,-73.8931,40.644
+1338,gardens of union,gardens of union,park_direct,av,B-06,-73.9824682581,40.6769260127
+1339,kings plaza marina,marine park,other,v,B-18,-73.9203077445,40.5967983084
+1340,holcombe rucker park,holcombe rucker park,park_direct,av,M-10,-73.9359540219,40.8292141577
+1341,pugsley creek park,pugsley creek park,park_direct,av,X-09,-73.8514644657,40.8119401326
+1342,mill pond park,mill pond park,park_direct,av,X-04,-73.9317127384,40.8220884266
+1343,pelham bay little league park,pelham bay little league,other,av,X-11,-73.8393442184,40.8415762999
+1344,livonia park,livonia park,park_direct,av,B-16,-73.9019979204,40.6639380903
+1345,sobel green,sobel court park,other,v,R-01,-74.0837861617,40.6149708196
+1346,vernon playground,vernon playground,pgs,av,Q-01,-73.947,40.7571
+1347,vernon playground,vernon playground,pgs,av,Q-01,-73.947,40.7571
+1348,triborough bridge playground c,triborough bridge playground c,park_direct,av,Q-01,-73.9222387704,40.7739775834
+1349,pelham bay park - nature center,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1350,bunker ponds park,bunker ponds park,park_direct,av,R-03,-74.1827528554,40.5235872733
+1351,corona golf playground,corona golf playground,park_direct,av,Q-04,-73.854611302,40.7475823806
+1352,mclaughlin park,mclaughlin park,park_direct,av,B-02,-73.986047143,40.696514822
+1353,hollis playground - jhs 192,hollis playground,pgs,v,Q-12,-73.7531,40.7065
+1354,joseph austin playground,joseph austin playground,park_direct,av,Q-08,-73.8006993004,40.7158575886
+1355,eugene mccabe field,eugene mccabe field,park_direct,av,M-11,-73.9416435596,40.8023943708
+1356,knox-gates playground,knox-gates playground,pgs,av,X-07,-73.8852,40.8819
+1357,charlies place,charlie's place,other,av,B-03,-73.9459776762,40.699140184
+1358,ramirez playground,gilbert ramirez park,pgs,v,B-01,-73.9345,40.706
+1359,manhattan - imagination playground,imagination playground,pgs,av,B-19,-73.963,40.6586
+1360,riverside park - skate park,riverside park,other,av,M-14,-73.9536580952,40.826069869
+1361,riverside park - skate park,riverside park,other,av,M-14,-73.9745612683,40.7988335229
+1362,central park - wien walk and arsenal,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1363,john adams  playground,john adams playground,pgs,av,Q-10,-73.8355,40.6773
+1364,recreation center - kingsbridge heights,kingsbridge heights community center,recr,v,X-08,-73.900715,40.877579
+1365,downing playground,downing street playground,pgs,av,M-02,-74.0027,40.7298
+1366,playground eighty nine lxxxix,playground eighty nine lxxxix,park_direct,av,M-07,-73.9718911165,40.7886445203
+1367,french charley's playground,french charley playground,pgs,av,X-14,-73.8763,40.8699
+1368,fresh kills park,freshkills park,other,av,R-02,-74.1776154254,40.5840350698
+1369,martin luther playground,martin luther playground,park_direct,av,B-07,-74.0197462848,40.6457850349
+1370,father macris park,father macris park,park_direct,av,R-02,-74.1616340634,40.6166242816
+1371,mount hope garden,mount hope garden,park_direct,av,X-05,-73.9053593131,40.85255831
+1372,jackie robinson playground,jackie robinson playground,park_direct,av,B-09,-73.959237386,40.6657903514
+1373,floyd patterson field,floyd patterson ballfields,other,av,B-16,-73.9040870088,40.6608756757
+1374,paul w kolbert park and rachel haber cohen playground,paul w kolbert playground,pgs,v,B-14,-73.958,40.6203
+1375,kissena velodrome - cycling track,kissena park,other,av,Q-07,-73.804828603,40.7453463949
+1376,bill bojangle robinson playground,bill 'bojangle' robinson playground,pgs,av,M-10,-73.9373,40.8253
+1377,pelham north park headquarters,pelham parkway,other,v,X-11,-73.8527017626,40.8575206954
+1378,linwood playground,linwood playground,park_direct,av,B-05,-73.8803710378,40.6661071245
+1379,annunciation park,annunciation park,park_direct,av,M-09,-73.952090474,40.8182865744
+1380,bulova park,bulova park,park_direct,av,Q-03,-73.892234378,40.7631068631
+1381,jacob's ladder playground,jacob's ladder playground,park_direct,av,B-01,-73.9670277962,40.7048688929
+1382,atlantic playground,josephine caminiti playground,pgs,v,Q-04,-73.8616,40.7439
+1383,pontiac playground,pontiac playground,park_direct,av,X-01,-73.9082310558,40.8142517087
+1384,rachel carson playground,rachel carson playground,pgs,av,Q-07,-73.8224,40.7492
+1385,louis pasteur park,louis pasteur park,park_direct,av,Q-11,-73.7353545508,40.762038812
+1386,elizabeth stroud playground,elizabeth stroud playground,park_direct,av,B-03,-73.9310898683,40.6796622142
+1387,stapleton playground,stapleton playground,park_direct,av,R-01,-74.0796508393,40.6232474503
+1388,rev j polite playground and stebbins playground,stebbins playground,park_direct,v,X-02,-73.8985172876,40.8227673313
+1389,carter g woodson childrens park,carter g. woodson children's park,other,av,B-16,-73.9058318627,40.6684542655
+1390,strong street playground,strong street playground,pgs,av,X-08,-73.8981,40.8714
+1391,rockaway beach and boardwalk - beach 17th st playground,beach 17th street playground,pgs,v,Q-14,-73.7477,40.5949
+1392,seaside playground - ps 225,seaside playground,pgs,v,Q-14,-73.8309,40.5806
+1393,bland playground,bland playground,park_direct,av,Q-07,-73.8311323331,40.7582711711
+1394,cherry clinton playground,cherry clinton playground,park_direct,av,M-03,-73.9862802947,40.711312936
+1395,frisch field,frisch field in bronx park,pgs,v,X-07,-73.8809,40.8684
+1396,webster ave community playground,webster playground,pgs,v,X-06,-73.8929,40.8593
+1397,bill robinson,bill 'bojangle' robinson playground,pgs,v,M-10,-73.9373,40.8253
+1398,beach - cedar grove,cedar grove beach,beach,av,R-03,-74.105231,40.558154
+1399,cherry tree playground,cherry tree park,other,v,M-11,-73.9472055242,40.7872386883
+1400,joseph rodman drake park,joseph rodman drake park,park_direct,av,X-02,-73.8825304359,40.8102627261
+1401,william e kelly memorial park,kelly park,other,v,B-15,-73.9576420128,40.6041785632
+1402,william e kelly memorial park,kelly park,other,v,B-15,-73.956480925,40.6043838427
+1403,recreation center - morningside park,morningside park,other,av,M-09,-73.9583797726,40.8057604505
+1404,aqueduct walk - waring playground,waring playground,pgs,v,X-14,-73.8714,40.8605
+1405,the dust bowl,quaker parrot park at the dust bowl,other,av,B-10,-74.0134951871,40.632680671
+1406,webster playground,webster playground,park_direct,av,X-06,-73.892892275,40.8593838598
+1407,captain rivera playground,captain rivera playground,park_direct,av,X-01,-73.9069325941,40.817934267
+1408,central park - heckscher playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1409,ravenswood  playground,ravenswood playground,pgs,av,Q-01,-73.9352,40.7629
+1410,governor smith playground,governor smith playground,park_direct,av,X-01,-73.9207573566,40.8193455375
+1411,buz o'rourke playground,buz o' rourke playground,pgs,av,Q-11,-73.7712,40.771
+1412,fort independence playground,fort independence playground,park_direct,av,X-08,-73.8949071689,40.8818912361
+1413,public place,public place,park_direct,av,B-05,-73.865107998,40.6782597181
+1414,prospect park - south west entrance,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1415,elijah stroud playground,elijah stroud playground,pgs,av,B-08,-73.9619,40.675
+1416,collyer brothers park,collyer brothers park,park_direct,av,M-10,-73.9410600886,40.8085434125
+1417,macdonald park,macdonald park,park_direct,av,Q-06,-73.8468032729,40.7222372517
+1418,tot lot one hundred and twelve,tot lot one hundred and twelve,pgs,v,M-14,-73.9679,40.8065
+1419,mercer st. playground,mercer playground,pgs,av,M-02,-73.9963,40.7276
+1420,west 186th st basketball court,west 186th street basketball court,other,av,M-12,-73.9309279649,40.8518792165
+1421,marc and jason's playground,marc and jason's playground,park_direct,av,B-09,-73.9495255249,40.6635198517
+1422,jefferson market garden,jefferson market garden,park_direct,av,M-02,-73.9995140135,40.7344425347
+1423,delphin greene playground - ps 176,delphin greene playground,pgs,av,Q-13,-73.7291,40.6849
+1424,kennedy playground,kennedy playground,park_direct,av,Q-11,-73.779334934,40.7717125271
+1425,chester playground,chester playground,park_direct,av,B-16,-73.9118484843,40.6686940027
+1426,davidson ave community playground,davidson playground,pgs,v,X-05,-73.9077,40.8551
+1427,toad hall playground,toad hall playground,park_direct,av,R-02,-74.1195780686,40.6086901449
+1428,lopez playground,lopez playground,park_direct,av,R-01,-74.0850541951,40.611486669
+1429,city island wetlands,city island wetlands,park_direct,av,X-10,-73.7918190243,40.8478737075
+1430,pool - sheltering arms park,sheltering arms pool,pool,av,M-09,-73.9557,40.8148
+1431,joyce kilmer park,joyce kilmer park,park_direct,av,X-04,-73.9226603146,40.8285258674
+1432,starlight park - jennie jerome playground,jerome playground,pgs,av,B-05,-73.8795,40.659
+1433,golf course - pelham and split rock,pelham bay golf course,golf,v,X-15,-73.809133,40.875098
+1434,hot spot tot lot,hot spot tot lot,park_direct,av,B-14,-73.9567156764,40.6310422823
+1435,park at richmond parkway,richmond parkway,other,v,R-03,-74.1510611176,40.5700171602
+1436,golf course - flushing meadows corona park pitch and putt,flushing meadows corona park,empiric,av,Q-15,-73.8417856108,40.743279099
+1437,wayanda park - ps 34,p.s. 34,school,v,B-01,-73.9497388231,40.7263513219
+1438,riverbend playground,riverbend playground,park_direct,av,X-07,-73.9057795546,40.8720662494
+1439,cunningham park - upper playground,upper playground,pgs,av,Q-08,-73.7752,40.7264
+1440,mccarren park - vincent v abate playground,vincent v abate playground,pgs,av,B-01,-73.9498,40.7213
+1441,central park - reservoir northeast,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1442,poseidon playground,poseidon playground,park_direct,av,B-13,-73.9920830716,40.5724500276
+1443,pool - macarthur,macarthur park,other,v,M-06,-73.9651474043,40.7522039165
+1444,rivington st playground,rivington st playground,pgs,av,M-03,-73.9917,40.7214
+1445,garden of happiness,garden of happiness,park_direct,av,X-06,-73.8849849009,40.8485368806
+1446,nathan weidenbaum - little bush park,nathan weidenbaum park,other,v,Q-02,-73.9022443947,40.7381602928
+1447,seaside playground - ps 225,seaside playground,pgs,v,Q-14,-73.8309,40.5806
+1448,mcguire fields,mcguire fields,park_direct,av,B-18,-73.8993864608,40.6136476493
+1449,galileo park,galileo playground,other,v,X-05,-73.9156887918,40.8486044367
+1450,pelham bay park - memorial grove,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1451,st mary's playground west,st mary's playground west,pgs,av,X-01,-73.9128,40.813
+1452,sobel court park,sobel court park,park_direct,av,R-01,-74.0837861617,40.6149708196
+1453,recreation center - faber park,faber pool and park,other,v,R-01,-74.135720569,40.6410019606
+1454,phil scooter rizzuto park,"phil ""scooter"" rizzuto park",other,av,Q-09,-73.8215866578,40.694792951
+1455,harry maze playground,harry maze playground,park_direct,av,B-17,-73.9231758782,40.6434178408
+1456,harry maze memorial park,harry maze playground,other,v,B-17,-73.9231758782,40.6434178408
+1457,capt rivera playground,captain rivera playground,pgs,av,X-01,-73.9069,40.8179
+1458,hines park,hines park,park_direct,av,X-03,-73.9056553843,40.8286020465
+1459,bailey playground,bailey playground,park_direct,av,X-08,-73.9000267097,40.8820624725
+1460,bellaire playground - ps 135,bellaire playground,pgs,av,Q-13,-73.758,40.7216
+1461,givans creek woods park,givans creek woods,other,av,X-10,-73.8298410363,40.880074393
+1462,tudor park,tudor park,park_direct,av,Q-10,-73.8521294565,40.6726227164
+1463,ps 1 playground,ps 1 playground,pgs,av,B-07,-74.0121,40.6494
+1464,rosewood playground,rosewood playground,pgs,av,X-14,-73.871,40.873
+1465,central park - wollman ice skating rink,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1466,locust manor playground  - ps 15,locust manor playground,pgs,av,Q-12,-73.7564,40.6861
+1467,john allen payne park,john allen payne park,park_direct,av,B-07,-74.0238809496,40.639972199
+1468,imagine playground,imagination playground,pgs,v,B-19,-73.963,40.6586
+1469,aqueduct walk - bronx river parkway west,aqueduct walk,other,av,X-07,-73.9021617732,40.8651270507
+1470,aqueduct walk - bronx river parkway west,aqueduct walk,other,av,X-05,-73.9092042331,40.856691868
+1471,merriam playground - lower,merriam playground. (lower),pgs,av,X-04,-73.9264,40.8389
+1472,a chiarantano park,chiarantano playground,other,v,B-17,-73.9333755419,40.6369289549
+1473,bedford playground,bedford playground,park_direct,av,B-01,-73.9638701253,40.7082873075
+1474,vietnam veterans plaza,vietnam veterans plaza,park_direct,av,M-01,-74.009898907,40.7026111415
+1475,farm playground,farm playground,park_direct,av,Q-08,-73.7773480464,40.7357394955
+1476,owl's head park 1,owl's head park,other,av,B-10,-74.0322502813,40.6401425141
+1477,paul w kolbert park and rachel haber cohen playground,paul w kolbert playground,pgs,v,B-14,-73.958,40.6203
+1478,breukelen ballfields,breukelen ballfields,park_direct,av,B-18,-73.8925062775,40.6525170462
+1479,pelham bay park - bartow-pell woods,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1480,ps 45 playground,ps 45 playground,pgs,av,R-01,-74.1076,40.6279
+1481,rockaway freeway and kohlridir sq,rockaway freeway,other,av,Q-14,-73.7946359334,40.5919205198
+1482,pool - windmuller,windmuller pool,pool,av,Q-02,-73.9107,40.7475
+1483,sheepshead bay piers,sheepshead bay piers,park_direct,av,B-15,-73.9447152688,40.5833392005
+1484,audubon playground,audubon playground,park_direct,av,M-12,-73.9381044878,40.8415192895
+1485,pool - thompson street,thompson street pool,pool,av,M-02,-74.0024,40.7256
+1486,coney island creek park,coney island creek park,park_direct,av,B-13,-74.0046688141,40.5814543404
+1487,central park - frawleys circle,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1488,central park - pilgrim hill and conservatory water,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1489,wallenberg forest,raoul wallenberg forest,other,av,X-08,-73.9178096795,40.8874646486
+1490,bushwick playground and pool,bushwick playground,pgs,av,B-04,-73.9122,40.6961
+1491,luiz lopez playground,luis r lopez park,pgs,v,R-01,-74.085,40.6115
+1492,eleanor roosevelt playground,eleanor roosevelt playground,park_direct,av,B-03,-73.9355767379,40.6927668135
+1493,van dyke playground,van dyke playground,park_direct,av,B-16,-73.9040102704,40.664431202
+1494,dematti playground,de matti playground,pgs,av,R-01,-74.0742,40.6145
+1495,alstyne playground,josephine caminiti playground,pgs,v,Q-04,-73.8616,40.7439
+1496,gun hill  playground,gun hill playground,pgs,av,X-12,-73.8655,40.8747
+1497,saint marys playground,st mary's playground,pgs,av,B-06,-73.9972,40.6764
+1498,saint marys playground,st mary's playground,pgs,av,B-06,-73.9975,40.6758
+1499,tottenville shore park,tottenville shore park,park_direct,av,R-03,-74.2535629224,40.5109216932
+1500,sant nicholas - olive st garden,st. nicholas - olive st. garden,other,av,B-01,-73.9390516322,40.7133004902
+1501,pool - chelsea,chelsea pool,pool,av,M-04,-74.0022,40.7483
+1502,fulton park,fulton park,park_direct,av,B-03,-73.932576794,40.6797582301
+1503,dan ross playground,dan ross playground,park_direct,av,B-10,-74.0215891904,40.6228033561
+1504,castlewood playground - ps 186,castlewood playground,pgs,av,Q-13,-73.7224,40.7493
+1505,playground one thirty four,playground one thirty-four,pgs,av,X-01,-73.9177,40.8035
+1506,reiff playground,reiff playground,park_direct,av,Q-05,-73.9017282017,40.7185826015
+1507,cedar grove playground - jhs 218,cedar grove playground,pgs,av,Q-08,-73.8237,40.737
+1508,sunshine community garden,sunshine community garden,park_direct,av,B-01,-73.9440109873,40.7052893601
+1509,central park - strawberry fields,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1510,pelham bay park - split rock trail,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1511,pinocchio playground,pinocchio playground,park_direct,av,Q-05,-73.8752941833,40.7055233601
+1512,crotona park - hill and dale playground,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
+1513,st mary's playground,st mary's playground,pgs,av,B-06,-73.9972,40.6764
+1514,st mary's playground,st mary's playground,pgs,av,B-06,-73.9975,40.6758
+1515,corona mac park,corona mac park,park_direct,av,Q-04,-73.8590887337,40.7403358063
+1516,prall playground,prall playground,park_direct,av,R-01,-74.1181371167,40.6286028326
+1517,pool - st. mary's,st. mary's pool,pool,av,X-01,-73.9141,40.8114
+1518,terrapin playground - jhs 51,terrapin playground,pgs,av,B-06,-73.9855,40.673
+1519,sandpiper playground,rockaway beach and boardwalk,other,v,Q-14,-73.7761361368,40.5886009332
+1520,blood root valley - greenbelt,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
+1521,recreation center - gertrude ederle,gertrude ederle recreation center,other,av,M-07,-73.9887292691,40.7712935962
+1522,westwood park,westwood park,park_direct,av,R-02,-74.1418602163,40.606411512
+1523,hattie carthan playground,hattie carthan playground,park_direct,av,B-03,-73.9461393894,40.6856025972
+1524,prospect park - west parade grounds,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1525,colgate close,colgate close,park_direct,av,X-09,-73.8814882825,40.8241576737
+1526,dr ronald e mcnair playground,dr. ronald e. mcnair playground,pgs,av,M-11,-73.9381,40.8026
+1527,leif ericson drive shore parkway - mcguire fields,mcguire fields,other,av,B-18,-73.8993864608,40.6136476493
+1528,annadale green,annadale green,park_direct,av,R-03,-74.1776519015,40.5414374241
+1529,blackrock playground,blackrock playground,pgs,av,X-09,-73.858,40.8284
+1530,cozzens woods and long pond park,long pond park,other,v,R-03,-74.2281928078,40.5137674802
+1531,6th st and ave b community garden,6th st and ave b community garden,park_direct,av,M-03,-73.9820813762,40.72432138
+1532,recreation center - sorrentino,sorrentino recreation center,other,av,Q-14,-73.7513563619,40.6024293616
+1533,recreation center - cunningham,cunningham park,other,v,Q-08,-73.768809023,40.7337888331
+1534,100 percent playground - ps 242,100% playground,pgs,v,B-18,-73.8992,40.6465
+1535,playground a4 at bailey and 234 street,bailey playground,pgs,v,X-08,-73.9004,40.8816
+1536,davis playground,davis playground,park_direct,av,R-01,-74.0856098568,40.6422860218
+1537,dunbar playground,dunbar playground,park_direct,av,X-03,-73.906443751,40.8230107773
+1538,convent gardens,convent garden,other,av,M-09,-73.9426777424,40.8283389443
+1539,fishbridge garden,fishbridge garden,park_direct,av,M-01,-74.0013770044,40.7090702742
+1540,alexander alley,alexander's alley,other,av,X-01,-73.9232270155,40.8115079987
+1541,classon neighborhood playground,classon playground,pgs,v,B-02,-73.9606,40.6894
+1542,pelham bay park - rodmans neck west,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1543,rochdale park playground  at jhs 72,north rochdale playground,pgs,v,Q-12,-73.7749,40.68
+1544,fidler - wyckoff house park,fidler-wyckoff house park,other,av,B-17,-73.9206398607,40.6445456138
+1545,kosciusko pool,kosciuszko pool,pool,av,B-03,-73.9496,40.6912
+1546,spuyten duyvil shorefront park and half moon overlook,spuyten duyvil shorefront park,other,av,X-08,-73.9207990649,40.8784752108
+1547,van cortlandt park - ice skating rink,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1548,de matti playground,de matti playground,park_direct,av,R-01,-74.074184806,40.6145327226
+1549,central park - nutters battery and fort clinton site,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1550,lewis simeon park,simeone park,other,v,Q-04,-73.859923614,40.7409795314
+1551,crotona park - tremont park,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
+1552,la tourette park and golf course,la tourette golf course,golf,av,R-02,-74.146957,40.576395
+1553,public theatre,the public theater,other,av,M-02,-73.9917546677,40.7289627059
+1554,murphys brothers playground,murphy's brother's playground,other,v,M-06,-73.9733971628,40.7302432197
+1555,deer park,deere park,other,av,R-02,-74.1093036367,40.6060444199
+1556,recreation center - garnetville jennifer's playground,jennifer's playground,pgs,v,R-01,-74.1631,40.6201
+1557,la guardia playground,la guardia playground,park_direct,av,B-01,-73.9591725022,40.7099150046
+1558,la guardia playground,la guardia playground,park_direct,av,B-01,-73.9597482256,40.7104546497
+1559,sidney hillman playground,sidney hillman playground,park_direct,av,M-03,-73.9796574307,40.7152183456
+1560,queens farm museum,queens farm park,other,v,Q-13,-73.7224938707,40.7477805364
+1561,brooklyn bears carlton avenue garden,brooklyn bears carlton ave garden,other,av,B-02,-73.9710641014,40.6857081842
+1562,admiral triangle,admiral triangle,park_direct,av,B-06,-74.001079889,40.6769277921
+1563,nautilus playground - queens,nautilus playground,pgs,av,B-13,-73.9963,40.5717
+1564,nautilus playground - queens,nautilus playground,pgs,av,Q-12,-73.7708,40.685
+1565,recreation area - first park,first park,other,av,M-03,-73.9896394802,40.7235177911
+1566,recreation center - passerelle building,passerelle building,recr,v,Q-15,-73.8448469,40.7428054
+1567,pulaski park,pulaski park,park_direct,av,X-01,-73.9245656896,40.8052423117
+1568,playground ninety - ps 148,playground ninety xc,pgs,v,Q-03,-73.8786,40.7573
+1569,recreation center - mccarren park,mccarren park,other,av,B-01,-73.9518237858,40.7208770305
+1570,gouverneur playground,gouverneur playground,park_direct,av,X-03,-73.9034327874,40.8357212636
+1571,belmont playground - brooklyn,belmont playground,pgs,av,B-05,-73.8629,40.6757
+1572,belmont playground - brooklyn,belmont playground,pgs,av,X-06,-73.8876,40.8503
+1573,floyd patterson field,floyd patterson ballfields,other,av,B-16,-73.9040870088,40.6608756757
+1574,faber park,faber pool and park,other,v,R-01,-74.135720569,40.6410019606
+1575,henry hudson park,henry hudson park,park_direct,av,X-08,-73.9199627805,40.8813294534
+1576,duke park,duke park,park_direct,av,B-05,-73.8932476415,40.6668214056
+1577,harvard playground,harvard playground,park_direct,av,Q-12,-73.781560193,40.7091199963
+1578,central park - the ramble,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1579,the dust bowl,quaker parrot park at the dust bowl,other,av,B-10,-74.0134951871,40.632680671
+1580,bridge park 2,bridge park,other,av,B-02,-73.9858988894,40.7010376829
+1581,bridge park 2,bridge park,other,av,X-05,-73.9270643322,40.8463125645
+1582,pink playground,pink playground,park_direct,av,B-05,-73.8626676663,40.6665456912
+1583,tenney park,tenney park,pgs,v,Q-13,-73.7156,40.7495
+1584,crotona park - crotona playground,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
+1585,francis lewis playground - ps 130,francis lewis playground,pgs,av,Q-07,-73.8257,40.7962
+1586,francis lewis playground - ps 130,francis lewis playground,pgs,av,Q-11,-73.7841,40.7605
+1587,ditmars park,ditmars park,park_direct,av,Q-01,-73.9071563004,40.7716065713
+1588,ps 4 paradise garden,p.s. 4,school,v,R-03,-74.1948877582,40.5522656978
+1589,charlie's place,charlie's place,park_direct,av,B-03,-73.9459776762,40.699140184
+1590,peters field,peters field,park_direct,av,Q-12,-73.7748394325,40.7060148052
+1591,heckscher playground,heckscher playground,park_direct,av,B-04,-73.9182682337,40.6951149062
+1592,dream street park,dream street park,park_direct,av,M-11,-73.9350367369,40.8027363968
+1593,pool - mccarren park,mccarren pool,pool,v,B-01,-73.9495,40.7201
+1594,kossuth playground,kossuth playground,pgs,av,X-07,-73.8826,40.8778
+1595,bath playground,bath playground,park_direct,av,B-11,-73.993139907,40.5949708598
+1596,castle hill little league,castle hill little league field,other,av,X-09,-73.8440249999,40.8324182633
+1597,rodney park north,rodney park north,park_direct,av,B-01,-73.9563215786,40.7090738437
+1598,starlight park - havemeyer playground,havemeyer playground,pgs,v,X-09,-73.848,40.8299
+1599,rolf henry playground,rolf henry playground,park_direct,av,B-09,-73.9475065758,40.6557950656
+1600,highbridge park - sunken playground,sunken playground,pgs,av,M-12A,-73.9361,40.8377
+1601,lyons playground,lyons square playground,pgs,av,X-02,-73.8881,40.8228
+1602,central park - northwest corner,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1603,pool - lindower park,lindower park pool,pool,av,B-18,-73.9113,40.6124
+1604,linden park playground,linden park,pgs,av,B-05,-73.8876,40.6583
+1605,linden park playground,linden park,pgs,av,B-05,-73.8875,40.6592
+1606,linden park playground,linden park,pgs,av,Q-04,-73.8619,40.7486
+1607,surf playground,surf playground,park_direct,av,B-13,-73.9923536728,40.5737170672
+1608,idlewild park,idlewild park,park_direct,av,Q-13,-73.7522896278,40.6504280147
+1609,haviland playground,haviland playground,park_direct,av,X-09,-73.8586171964,40.8290429938
+1610,ten eyck playground,ten eyck playground,park_direct,av,B-01,-73.9388235037,40.7088665845
+1611,central park - pat hoffman friedman playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1612,conch playground - ps 105,conch playground,pgs,v,Q-14,-73.7808,40.596
+1613,van cortlandt park - van cortlandt stadium,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1614,clinton cherry playground,cherry clinton playground,pgs,av,M-03,-73.9863,40.7113
+1615,fordham landing playground,fordham landing playground,park_direct,av,X-07,-73.9097797254,40.8644028681
+1616,hattie carthan garden,hattie carthan playground,pgs,v,B-03,-73.9461,40.6856
+1617,st luke's park,st. luke's park,other,av,X-01,-73.9153842762,40.8056373513
+1618,squibb park,squibb park,park_direct,av,B-02,-73.995473492,40.7008999011
+1619,ps 149 playground,northern playground,pgs,v,Q-03,-73.8746,40.7561
+1620,yak playground,yak playground,park_direct,av,B-15,-73.936480236,40.5922793229
+1621,playground 103,playground 103 ciii,pgs,av,M-11,-73.9391,40.7871
+1622,junction playground,junction playground,park_direct,av,Q-03,-73.872143043,40.7547069269
+1623,pomonok,pomonok playground,other,av,Q-08,-73.8139309913,40.7360986836
+1624,seven gables playground - is 74,seven gables playground,pgs,av,Q-11,-73.7664,40.7442
+1625,crotona park - clinton playground,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
+1626,prospect park - upper long meadow,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1627,aqueduct walk - bronx river parkway east,aqueduct walk,other,av,X-07,-73.9021617732,40.8651270507
+1628,aqueduct walk - bronx river parkway east,aqueduct walk,other,av,X-05,-73.9092042331,40.856691868
+1629,coney island boat basin,coney island boat basin,park_direct,av,B-13,-73.9913863234,40.5827026715
+1630,stebbins playground,stebbins playground,park_direct,av,X-02,-73.8985172876,40.8227673313
+1631,ps 125 playground,ps 125 playground,pgs,av,B-16,-73.9091,40.6651
+1632,recreation center - west bronx,west bronx recreation center,other,av,X-04,-73.9194016277,40.8442781508
+1633,rienzi playground,rienzi playground,park_direct,av,X-12,-73.8585674278,40.8876182849
+1634,recreation center - west bronx - expired,west bronx recreation center,other,av,X-04,-73.9194016277,40.8442781508
+1635,rodney park center,rodney park center,park_direct,av,B-01,-73.9567138433,40.7084975077
+1636,machate circle,machate circle,park_direct,av,B-14,-73.9721902693,40.6510279789
+1637,jerome playground south,jerome playground south,park_direct,av,X-04,-73.9138202686,40.8448360762
+1638,hunter's point park,hunter's point south park,other,av,Q-02,-73.9609498151,40.7425164766
+1639,james madison plaza,james madison plaza,park_direct,av,M-03,-74.0004651446,40.711471885
+1640,tompkins square park,tompkins square park,park_direct,av,M-03,-73.9817129411,40.7264520614
+1641,mccarren park ice skating rink,mccarren park,other,v,B-01,-73.9518237858,40.7208770305
+1642,spring creek park,spring creek park,park_direct,av,B-05,-73.8623146816,40.6595758148
+1643,spring creek park,spring creek park,park_direct,av,B-18,-73.8786747126,40.640387404
+1644,spring creek park,spring creek park,park_direct,av,B-05,-73.8713449388,40.6520244121
+1645,eibs pond park,eibs pond park,park_direct,av,R-01,-74.0811131282,40.6111494198
+1646,abyssinian tot lot,abyssinian tot lot,park_direct,av,M-10,-73.9408544898,40.8171811914
+1647,arrochar playground,arrochar playground,park_direct,av,R-02,-74.0709337947,40.5977433278
+1648,van cortlandt park - middle putnam trail and tibbets brook,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1649,rocket park,rocket park,park_direct,av,Q-10,-73.8462785128,40.6706678177
+1650,146 st playground,playground 146,pgs,av,Q-07,-73.8213,40.7462
+1651,pool - gertrude ederle,gertrude ederle recreation center,other,v,M-07,-73.9887292691,40.7712935962
+1652,starlight park,starlight park,park_direct,av,X-09,-73.8824340714,40.8331856291
+1653,triborough bridge playground e,triborough bridge playground e,park_direct,av,Q-01,-73.9208746817,40.7730038162
+1654,staten island greenbelt - bucks hollow,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
+1655,firemen's memorial garden,firemen's memorial garden,park_direct,av,M-03,-73.9779679529,40.7242604039
+1656,co-op city field,co-op city field,park_direct,av,X-10,-73.8236342143,40.8758152605
+1657,de salvio playground,desalvio playground,pgs,av,M-02,-73.9961,40.7216
+1658,prospect park - south west,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1659,tribute park,tribute park,park_direct,av,Q-14,-73.8390801008,40.582096781
+1660,garden playground,garden playground,park_direct,av,B-04,-73.9383117545,40.701094233
+1661,pelham bay park - south meadow,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1662,riverbank state park,riverbank playground,pgs,v,M-14,-73.9538,40.8257
+1663,rodney park south,rodney park south,park_direct,av,B-01,-73.9572589663,40.7075301742
+1664,devoe park,devoe park,park_direct,av,X-07,-73.9062458436,40.8633117264
+1665,goble playground,goble playground,park_direct,av,X-04,-73.9170456808,40.8437670883
+1666,bartlett playground,bartlett playground,park_direct,av,B-01,-73.9460442991,40.7009128628
+1667,brownsville playground,brownsville playground,park_direct,av,B-16,-73.9022215696,40.6565246981
+1668,triborough bridge playground d,triborough bridge playground d,park_direct,av,Q-01,-73.9215565425,40.773493046
+1669,pool - ps 10,ps 10 pool,pool,av,Q-01,-73.9113,40.7607
+1670,pool - brooklyn bridge park pop-up,brooklyn bridge park pool,pool,av,B-02,-73.9986,40.6995
+1671,pool - mariners harbor playground,mariners harbor playground,pgs,av,R-01,-74.1605,40.6365
+1672,sunrise playground - ps 195,sunrise playground,pgs,v,Q-13,-73.7364,40.6527
+1673,central park - lasker ice skating rink,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1674,pool - bronx river playground,bronx river playground pool,pool,v,X-09,-73.8778,40.8342
+1675,van cortlandt park - saturn play equipment,van cortlandt park,empiric,av,X-13,-73.8866670724,40.8971015129
+1676,sweetgum playground,sweetgum playground,pgs,av,X-15,-73.8262,40.8512
+1677,aqueduct walk - rosewood playground,rosewood playground,pgs,v,X-14,-73.871,40.873
+1678,longfellow garden,longfellow garden,park_direct,av,X-02,-73.8875568677,40.8255950681
+1679,bildersee playground,bildersee playground,park_direct,av,B-18,-73.9116451484,40.635666984
+1680,riverside park - baseball fields,riverside park,other,av,M-14,-73.9536580952,40.826069869
+1681,riverside park - baseball fields,riverside park,other,av,M-14,-73.9745612683,40.7988335229
+1682,roberto clemente state park,roberto clemente ballfield,other,v,B-01,-73.967668994,40.7063531362
+1683,kosciusko street garden,kosciuszko street garden,other,av,B-03,-73.9392487715,40.6922445823
+1684,prospect park - peninsula,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1685,prospect park - prospect lake near duck island,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1686,prospect park - vale of cashmere ellies lawn,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1687,central park - reservoir southeast,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1688,prospect park - ravine and the pools,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1689,sutter ballfields,sutter ballfields,park_direct,av,B-05,-73.8875735782,40.6711582695
+1690,alexander hamilton playground,alexander hamilton playground,park_direct,av,M-09,-73.9512856113,40.8230791549
+1691,river garden,river garden,park_direct,av,X-06,-73.8766304648,40.8419521928
+1692,prospect park - the nethermead,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1693,west 87th street garden,w 87th street garden,other,av,M-07,-73.970926237,40.7870913566
+1694,louis cuvillier park,louis cuvillier park,park_direct,av,M-11,-73.9308914942,40.8009019768
+1695,i am park,i-am-park,other,av,X-01,-73.9101995193,40.8112935952
+1696,aqueduct walk - frisch field in bronx park,bronx park,other,av,X-11,-73.875820076,40.8566400511
+1697,parks council success garden,parks council success garden,park_direct,av,M-10,-73.9428151582,40.8138045765
+1698,recreation center - a.r.r.o.w.,a.r.r.o.w. field house,other,v,Q-01,-73.9262867645,40.7558283869
+1699,clove's tail,clove's tail,park_direct,av,R-01,-74.1138294905,40.6131376263
+1700,straus park,straus park,park_direct,av,M-07,-73.9681756041,40.8017469193
+1701,central park - great lawn playground,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1702,leonardo ingravallo playground,leonardo ingravallo playground,pgs,av,Q-07,-73.8173,40.7762
+1703,recreation center - highbridge,highbridge park,other,av,M-12A,-73.9304651001,40.846501499
+1704,recreation center - highbridge,highbridge park,other,av,X-04,-73.9267891522,40.8420769652
+1705,bushwick inlet park,bushwick inlet park,park_direct,av,B-01,-73.9605275224,40.7239676188
+1706,long island mews,long island mews,park_direct,av,Q-02,-73.8902035799,40.7360974567
+1707,central park - park south,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1708,clawson playground - ps 50,clawson playground,pgs,av,R-03,-74.1236,40.5605
+1709,6bc botanical garden,6bc botanical garden,park_direct,av,M-03,-73.9806751319,40.7238418902
+1710,weeping beech - margaret i carmen green,margaret i. carman green - weeping beech,other,av,Q-07,-73.8246394867,40.7633965377
+1711,agnes haywood playground,agnes haywood playground,park_direct,av,X-12,-73.8618138155,40.8802955895
+1712,elmhurst park,elmhurst park,park_direct,av,Q-04,-73.8851273198,40.7298958019
+1713,beach - coney island,coney island and coney island boardwalk,beach,av,B-13,-73.9441,40.573
+1714,charlton garden,charlton garden,park_direct,av,X-03,-73.9071028063,40.8246805759
+1715,st nicholas - olive st garden,st. nicholas - olive st. garden,other,av,B-01,-73.9390516322,40.7133004902
+1716,beach - rockaway,rockaway beach and boardwalk,beach,v,Q-14,-73.7693,40.5898
+1717,6bc botanical garden,6bc botanical garden,park_direct,av,M-03,-73.9806751319,40.7238418902
+1718,risse st park,risse street park,other,v,X-07,-73.8852862237,40.8785650426
+1719,jerome slope,jerome slope,park_direct,av,X-04,-73.9259115917,40.8324981273
+1720,d'emic playground,d'emic playground,park_direct,av,B-07,-74.0049394819,40.656008841
+1721,project eden,project eden,park_direct,av,Q-06,-73.8576465614,40.7162040328
+1722,hallets cove playground,hallets cove playground,park_direct,av,Q-01,-73.9359962215,40.7728451811
+1723,recreation center - crotona park,crotona park,empiric,av,X-03,-73.8948952325,40.8385853826
+1724,prospect park - prospect park west,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1725,queens valley playground - ps 164,queens valley playground,pgs,av,Q-08,-73.8237,40.7219
+1726,wilson playground,wilson playground,park_direct,av,B-18,-73.8948518864,40.6426729264
+1727,pool - marie curie park,marie curie park pool,pool,av,Q-11,-73.7716,40.7569
+1728,willowbrook parkway,willowbrook parkway,park_direct,av,R-02,-74.1347998765,40.5835581929
+1729,dr ronald e mcnair playground,dr. ronald e. mcnair playground,pgs,av,M-11,-73.9381,40.8026
+1730,alley pond park - nature center,alley pond park,other,v,Q-11,-73.7468585479,40.7536076531
+1731,hook creek marsh,hook creek park,other,v,Q-13,-73.742196093,40.6487785771
+1732,fred samuel playground,fred samuel playground,park_direct,av,M-10,-73.9392367166,40.8171557463
+1733,sophie irene loeb,sophie irene loeb,park_direct,av,M-03,-73.9943037684,40.7132898927
+1734,kennedy playground,kennedy playground,park_direct,av,Q-11,-73.779334934,40.7717125271
+1735,prospect park - willink hill,prospect park,empiric,av,B-19,-73.9696822786,40.6613534409
+1736,st nicholas - powers st garden,st. nicholas - powers st. garden,other,av,B-01,-73.9397152826,40.7127365472
+1737,rev lena irons unity park,rev lena irons unity park,park_direct,av,X-03,-73.9066574094,40.831044325
+1738,pool - edenwald houses,edenwald houses pool,pool,av,X-12,-73.8453,40.8843
+1739,hendrick i lott house,hendrick i. lott house,other,av,B-18,-73.9326450915,40.6103294091
+1740,william h seward park,seward park,other,v,M-03,-73.9892281589,40.7147901269
+1741,playground of the americas,playground of the americas,park_direct,av,M-02,-74.0027146903,40.728002741
+1742,hallets point playground - area b,hallets point playground (area b),pgs,av,Q-01,-73.9373,40.7743
+1743,recreation center - betsy head cbo- amboy neighborhood center,amboy neighborhood center,other,av,B-16,-73.9139134739,40.6652344823
+1744,staten island industrial park,staten island industrial park,park_direct,av,R-02,-74.174011314,40.6125850066
+1745,harlem lane playground,harlem lane playground,park_direct,av,M-10,-73.934877318,40.825980228
+1746,bridge and tunnel park,bridge and tunnel park,park_direct,av,Q-02,-73.9513414052,40.7419288059
+1747,brant point wildlife sanctuary,brant point wildlife sanctuary,park_direct,av,Q-14,-73.8031838921,40.5984589921
+1748,mclaughlin park,mclaughlin park,park_direct,av,B-02,-73.986047143,40.696514822
+1749,lie playground - real good park,real good park,pgs,v,Q-06,-73.8573,40.7356
+1750,central park - the lake,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1751,staten island greenbelt,greenbelt native plant center,empiric,av,R-02,-74.181555042,40.5960761085
+1752,marlboro playground,marlboro playground,park_direct,av,B-13,-73.9808434703,40.5912192647
+1753,central park - wallach walk and east green,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1754,stop and go playground,stop  go playground,pgs,av,X-06,-73.8988,40.8451
+1755,el puente - earth spirit garden,earth spirit garden,other,av,B-01,-73.959429336,40.7125341415
+1756,central park - reservoir running track and landscape,central park,empiric,av,M-13,-73.9655584012,40.7824838384
+1757,the amazing garden,the amazing garden,park_direct,av,B-06,-74.0033440411,40.6831357626
+1758,rodney playground center,rodney playground center,park_direct,av,B-01,-73.9555706836,40.7102558299
+1759,bridge park,bridge park,park_direct,av,B-02,-73.9858988894,40.7010376829
+1760,bridge park,bridge park,park_direct,av,X-05,-73.9270643322,40.8463125645
+1761,bridge park,bridge park,park_direct,av,B-02,-73.9858988894,40.7010376829
+1762,bridge park,bridge park,park_direct,av,X-05,-73.9270643322,40.8463125645
+1763,flushing meadows corona park,flushing meadows corona park,park_direct,av,Q-15,-73.8417856108,40.743279099
+1764,starlight park - peace park,starlight park,other,av,X-09,-73.8824340714,40.8331856291
+1765,catbird playground,catbird playground,pgs,av,M-08,-73.9448,40.7739
+1766,drumgoole tot lot playground,drumgoole tot lot,other,v,R-03,-74.179890451,40.5494009524
+1767,starlight park - plimpton playground,plimpton playground,pgs,v,X-04,-73.9223,40.844
+1768,seaside playground - ps 225,seaside playground,pgs,v,Q-14,-73.8309,40.5806
+1769,pelham bay park - the meadow,pelham bay park,empiric,av,X-11,-73.8042018565,40.8681072084
+1770,castlewood playground - ps 186,castlewood playground,pgs,av,Q-13,-73.7224,40.7493
+1771,parkside playground - bronx,parkside playground,pgs,av,B-15,-73.9436,40.6104
+1772,parkside playground - bronx,parkside playground,pgs,av,X-11,-73.868,40.8684
+1773,paerdegat basin park,paerdegat basin park,park_direct,av,B-18,-73.9067426141,40.6264520059
+1774,m l king houses playground,dr martin luther king jr park,pgs,v,B-05,-73.8904,40.6677
+1775,playground fifty-two,playground fifty-two,pgs,av,X-02,-73.9016,40.8151
+1776,dubos point wildlife sanctuary,dubos point wildlife sanctuary,park_direct,av,Q-14,-73.7910005155,40.6007819542
+1777,recreation area,recreational area,other,av,M-14,-73.9518069328,40.8306406758
+1778,gun hill playground,gun hill playground,park_direct,av,X-12,-73.8655081929,40.8746954842
+1779,under the tracks playground,under the tracks playground,pgs,av,B-06,-73.993193,40.672264
+1780,la guardia playground south,la guardia playground south,pgs,av,B-01,-73.9593,40.7099
+1781,chelsea park,chelsea park,park_direct,av,M-04,-74.0007282575,40.7499416479
+1782,dyker playground,dyker playground,pgs,av,B-10,-74.0127,40.6128
+1783,playground one-forty,playground one-forty,pgs,av,Q-12,-73.8013,40.6751
+1784,rodney playground north,rodney playground north,park_direct,av,B-01,-73.9549702775,40.7111016853
+1785,hunt's point riverside park,hunts point riverside park,other,av,X-02,-73.8816008156,40.8176824444
+1786,6bc botanical garden,6bc botanical garden,park_direct,av,M-03,-73.9806751319,40.7238418902
+1787,sunset park,sunset park,park_direct,av,B-07,-74.0037434376,40.6479762856
+1788,west 104th street garden,w 104th street garden,other,av,M-07,-73.9619268002,40.7968883242
+1789,recreation center - haffen park,haffen park,other,av,X-12,-73.8391658525,40.8736831532
+1790,new ballfield,william f. passannante ballfield,other,v,M-02,-74.0022532561,40.728556919
+1791,tlc sculpture park garden,tlc sculpture park garden,park_direct,av,B-05,-73.9006500371,40.6727184267
+1792,ps 286 playground,ps 286 playground,pgs,av,B-15,-73.9385,40.5909
