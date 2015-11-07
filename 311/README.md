@@ -9,7 +9,7 @@ PARQA 311
 - [x] Creating ontology to match calls to facilities. [INFO](ONTOLOGY/README.md)
 - [x] Calls matching to facilities and park districts [Notebook](4_Matching_Calls_Districts.ipynb)
 - [x] Create time series of calls for each park district. [Notebook](5_Calls_Timeseries.ipynb)
-- [ ] time series of park quality for each park district. [Notebook](3_PIP_timeseries.ipynb)
+- [x] time series of park quality for each park district. [Notebook](3_PIP_timeseries.ipynb)
 - [ ] correlation between time series
 - [ ] tables of complain type for each district and/or park.
 
