@@ -1,0 +1,50 @@
+Complaint Type,Descriptor,calls
+Violation of Park Rules,BBQ Outside Authorized Area,29
+Violation of Park Rules,Obstructing Public Use,27
+Violation of Park Rules,Unsafe Use of Playground,9
+Violation of Park Rules,Unlicensed Vendors,7
+Violation of Park Rules,Smoking,2
+Violation of Park Rules,Biking/Rollerblading off Path,1
+Violation of Park Rules,Removing Flowers/Plants,1
+Violation of Park Rules,Unauthorized Climbing,1
+Violation of Park Rules,Unauthorized Posting of Signs,1
+Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,1
+Overgrown Tree/Branches,Dead Branches in Tree,11
+Overgrown Tree/Branches,Hitting Building,7
+Overgrown Tree/Branches,Blocking Street,1
+Overgrown Tree/Branches,Clear Street Light,1
+Overgrown Tree/Branches,Hitting Power/Phone Lines,1
+Maintenance or Facility,Structure - Outdoors,539
+Maintenance or Facility,Garbage or Litter,360
+Maintenance or Facility,Grass/Weeds,107
+Maintenance or Facility,Hours of Operation,80
+Maintenance or Facility,Structure - Indoors,73
+Maintenance or Facility,Unsecured Facility,71
+Maintenance or Facility,Snow or Ice,61
+Maintenance or Facility,Rodent Sighting,35
+Maintenance or Facility,Graffiti or Vandalism,34
+Maintenance or Facility,Broken Glass,15
+Illegal Tree Damage,Branches Damaged,11
+Illegal Tree Damage,Trunk Damaged,6
+Illegal Tree Damage,Roots Damaged,5
+Illegal Tree Damage,Unauthorized Tree Removal,5
+Illegal Tree Damage,Bicycle Chained to Tree,2
+Illegal Tree Damage,Unauthorized Tree Pruning,1
+Dead Tree,Dead/Dying Tree,4
+Damaged Tree,Tree Alive - in Poor Condition,25
+Damaged Tree,Branch or Limb Has Fallen Down,22
+Damaged Tree,Entire Tree Has Fallen Down,21
+Damaged Tree,Branch Cracked and Will Fall,10
+Damaged Tree,Tree Leaning/Uprooted,8
+Damaged Tree,Tree Trunk Split,4
+DPR Internal,Aided/Injury,18
+DPR Internal,Beach/Pool Closure,3
+DPR Internal,Locker Break-in/Incident,2
+DPR Internal,Property,1
+Animal in a Park,Dead Animal,26
+Animal in a Park,Dog Off Leash,25
+Animal in a Park,Domestic Strays,16
+Animal in a Park,Animal Waste,14
+Animal in a Park,Injured Wildlife,10
+Animal in a Park,Wildlife Sighting,6
+Animal in a Park,Removing Wildlife,4
