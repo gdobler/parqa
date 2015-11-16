@@ -37,7 +37,7 @@ def Build_Output_Paths(years, UseFiscal, spatialKey):
 
 if __name__ == '__main__':
     
-    externalDataSpatialKeys = ['ZIPCODE', 'GEOID']
+    externalDataSpatialKeys = ['ZIPCODE', 'GEOID', 'District']
     metricPrompts =   {1: 'NaiveMetric',
                        2: 'AreaWeightedMetric',
                        3: 'AreaAmenityWeightedMetric'}
@@ -71,12 +71,12 @@ if __name__ == '__main__':
         # sys.exit()
 
 
-    # -- define regressions
-    print('\nWhich score metric would you like regressions built from?')
-    print('\t1: Basic Average\n\t2: Weighted by Area\n'
-          '\t3: Weighted by Area and Amenities')
-    print 'Enter [1,2,3]'
-    metricToRegress = int(raw_input(prompt))
+    # # -- define regressions
+    # print('\nWhich score metric would you like regressions built from?')
+    # print('\t1: Basic Average\n\t2: Weighted by Area\n'
+    #       '\t3: Weighted by Area and Amenities')
+    # print 'Enter [1,2,3]'
+    # metricToRegress = int(raw_input(prompt))
 
 
     
