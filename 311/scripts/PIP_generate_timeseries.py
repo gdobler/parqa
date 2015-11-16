@@ -6,10 +6,6 @@ import pandas as pd
 import ScoreMetric
 import ExternalData
 
-
-## for now hardcoded 2004-2015 range. should change that
-
-
 # -- Output Path
 out_path = 'Output'
 
@@ -37,7 +33,7 @@ def Build_Output_Paths(years, UseFiscal, spatialKey):
 
 if __name__ == '__main__':
     
-    externalDataSpatialKeys = ['ZIPCODE', 'GEOID', 'District']
+    externalDataSpatialKeys = ['ZIPCODE', 'GEOID']
     metricPrompts =   {1: 'NaiveMetric',
                        2: 'AreaWeightedMetric',
                        3: 'AreaAmenityWeightedMetric'}
@@ -71,12 +67,12 @@ if __name__ == '__main__':
         # sys.exit()
 
 
-    # # -- define regressions
-    # print('\nWhich score metric would you like regressions built from?')
-    # print('\t1: Basic Average\n\t2: Weighted by Area\n'
-    #       '\t3: Weighted by Area and Amenities')
-    # print 'Enter [1,2,3]'
-    # metricToRegress = int(raw_input(prompt))
+    # -- define regressions
+    print('\nWhich score metric would you like regressions built from?')
+    print('\t1: Basic Average\n\t2: Weighted by Area\n'
+          '\t3: Weighted by Area and Amenities')
+    print 'Enter [1,2,3]'
+    metricToRegress = int(raw_input(prompt))
 
 
     
@@ -92,20 +88,15 @@ if __name__ == '__main__':
             
         # -- Create Scores
         s = ScoreMetric.Create_Scores(df, spatialKey).set_index(spatialKey)
-        print s.columns()
-        s = s.stack().reset_index().rename(columns={0:int(year),'level_1':'score_type'})
+        s = s.stack().reset_index()
+        s['year'] = year
         scores_tmp.append(s)
 
-    # -- create single dataframe
-    result = scores_tmp[0]
-    for temp_df in scores_tmp[1:]:
-        result = result.merge(temp_df, on=['score_type','District'], how='outer')
 
-    print result.columns
+    r = pd.concat(scores_tmp, axis=1)
 
-
-    path = os.getenv('PWD') + '/PIP_score_timeseries.csv'
-    result.to_csv(path)
+    path = os.getenv('PWD') + '/PIP_scpre_timeseries.csv'
+    r.to_csv(path)
 
 
 
