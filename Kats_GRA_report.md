@@ -5,8 +5,8 @@
 ## Reports
 Autumn phase consists of three parts, covered each in separate report:
 
-- [Inspections data](Inspections/Inspections_report.ipyb)
-- [311 calls correlation analysis](311/311_report.ipyb)
+- [Inspections data](Inspections/Inspections_report.ipynb)
+- [311 calls correlation analysis](311/311_report.ipynb)
 - [Parqa vis tool](tbd.md)
 
 ## List of scripts
