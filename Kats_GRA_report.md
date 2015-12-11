@@ -9,8 +9,8 @@ Autumn phase consists of three parts, covered each in separate report:
 - [311 calls correlation analysis](311/311_report.ipynb)
 - [Parqa vis tool](tbd.md)
 
-## List of scripts
-- [311_calls_collector](tbd.md)
+## Scripts
+- [311_calls_collector](311/scripts/0_scrape311.py)
 - [PIP_analysis (update)](tbd.md)
 - [PIP_timeseries](tbd.md)
 

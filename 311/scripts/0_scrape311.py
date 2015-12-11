@@ -14,9 +14,10 @@
 # import urllib
 import requests
 import datetime
+import urllib
 
 
-def getCalls(start=datetime.datetime(2009,12,31), end=datetime.datetime(2010,1,2)):
+def getCalls(start=datetime.datetime(2010,1,31), end=datetime.datetime(2010,2,1)):
 	'''retrieve calls data from
 	NYC open data portal via socrata soda api and filtering by date range.
 	check dataset here: 
@@ -25,12 +26,14 @@ def getCalls(start=datetime.datetime(2009,12,31), end=datetime.datetime(2010,1,2
 	ID = 'erm2-nwe9'
 	timeQuery = "where=created_date between '%s' and '%s'" % (start.strftime('%Y-%m-%d'), 
 													  end.strftime('%Y-%m-%d'))
-
-	SodaPath = "https://nycopendata.socrata.com/api/views/%s/rows.json?accessType=DOWNLOAD&%s" % (ID, timeQuery)
+	            
+	SodaPath = "https://nycopendata.socrata.com/api/views/%s/rows.json?accessType=DOWNLOAD&%s" % (ID, urllib.quote(timeQuery))
 	print SodaPath
 	
-	# %H:%M:%S
-	# jd = requests.get(SodaPath).json()
+	
+	jd = requests.get(SodaPath) #.json()
+	print jd.status()
+	# print jd
 	# return jd
 
 def main():
