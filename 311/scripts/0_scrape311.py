@@ -16,6 +16,9 @@ import requests
 import datetime
 import urllib
 
+###############    Warning: This way is extremely slow and unefficient for some reason
+###############    Use manual download instead; then, merge files using "1_Raw_311_to_dataset.py"
+
 
 def getCalls(start=datetime.datetime(2010,1,31), end=datetime.datetime(2010,2,1)):
 	'''retrieve calls data from
