@@ -37,12 +37,12 @@ def filterDPR(df):
     print 'starting filter: filtering by agency==DPR and Location != Street'
     return df[(df.Agency == 'DPR')& (~df['Location Type'].isin(['Street/Curbside','Street']))]
    
-def main():    
+def main(dataPath):    
     PARQA= os.getenv('PARQA')
 
-    dataPath = PARQA + 'data/RAW/raw_download/'
+    
     df = pd.concat((pd.read_csv(x) for x in getAllFiles(dataPath,'.csv', full=True))).drop_duplicates()
-    print 'General dataset consist of {0} rows'.format(len(df))    
+    print 'Concatenated dataset consist of {0} rows'.format(len(df))    
     print '''Now I am filtering rows, keeping only ones related to DPR
     and not located on streets'''
 
@@ -63,6 +63,6 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1])
 
 

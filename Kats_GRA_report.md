@@ -10,9 +10,9 @@ Autumn phase consists of three parts, covered each in separate report:
 - [Parqa vis tool](tbd.md)
 
 ## Scripts
-- [311_calls_collector](311/scripts/0_scrape311.py)
-- [PIP_analysis (update)](tbd.md)
-- [PIP_timeseries](tbd.md)
+- [Aggregate Datasets to one](/311/scripts/1_Raw_311_to_dataset.py)
+- [PIP_analysis (update)](2_PIP_Analysis_1_01.py)
+- [PIP_timeseries](/311/scripts/3_PIP_timeseries.py)
 
 ## List of related open sources
 - [List of used and potential sources](311/PARKS_OPEN_DATA.md)
